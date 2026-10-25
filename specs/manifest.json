@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hero-waffle",
+    "file": "hero-waffle.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "device-trend",
+    "file": "device-trend.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "age-change",
+    "file": "age-change.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "age-frequency",
+    "file": "age-frequency.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "platform-heatmap",
+    "file": "platform-heatmap.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "communication-change",
+    "file": "communication-change.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "platform-recall",
+    "file": "platform-recall.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "activities",
+    "file": "activities.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "network-choropleth",
+    "file": "network-choropleth.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "network-symbols",
+    "file": "network-symbols.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "victoria-sites",
+    "file": "victoria-sites.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "remoteness",
+    "file": "remoteness.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "mobile-only",
+    "file": "mobile-only.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "inclusion-scores",
+    "file": "inclusion-scores.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "age-horizon",
+    "file": "age-horizon.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "platform-bump",
+    "file": "platform-bump.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "network-trajectory",
+    "file": "network-trajectory.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "inclusion-parallel",
+    "file": "inclusion-parallel.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "victoria-hexbins",
+    "file": "victoria-hexbins.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  },
+  {
+    "id": "inclusion-tiles",
+    "file": "inclusion-tiles.vl.json",
+    "format": "Vega-Lite v5",
+    "default_data": "../data/ (URLs resolve against the story page)"
+  }
+]

@@ -1,0 +1,33 @@
+data_year,report_year,state,state_name,measure,score,source_id,source_location,method
+2024,2025,NSW,New South Wales,Index,74.0,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NSW,New South Wales,Access,77.0,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NSW,New South Wales,Affordability,71.1,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NSW,New South Wales,Digital ability,73.8,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,VIC,Victoria,Index,74.1,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,VIC,Victoria,Access,77.5,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,VIC,Victoria,Affordability,70.5,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,VIC,Victoria,Digital ability,74.3,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,QLD,Queensland,Index,72.9,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,QLD,Queensland,Access,76.3,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,QLD,Queensland,Affordability,69.3,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,QLD,Queensland,Digital ability,73.0,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,SA,South Australia,Index,71.3,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,SA,South Australia,Access,75.7,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,SA,South Australia,Affordability,66.9,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,SA,South Australia,Digital ability,71.3,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,WA,Western Australia,Index,73.9,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,WA,Western Australia,Access,77.1,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,WA,Western Australia,Affordability,70.8,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,WA,Western Australia,Digital ability,73.7,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,TAS,Tasmania,Index,69.4,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,TAS,Tasmania,Access,73.0,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,TAS,Tasmania,Affordability,65.4,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,TAS,Tasmania,Digital ability,69.7,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NT,Northern Territory,Index,72.5,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NT,Northern Territory,Access,71.7,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NT,Northern Territory,Affordability,71.9,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,NT,Northern Territory,Digital ability,73.7,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,ACT,Australian Capital Territory,Index,79.5,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,ACT,Australian Capital Territory,Access,80.9,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,ACT,Australian Capital Territory,Affordability,78.0,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates
+2024,2025,ACT,Australian Capital Territory,Digital ability,79.6,adii,Figure 1: 2025 National ADII scores,Published-value transcription; small area estimates

@@ -1,0 +1,144 @@
+year,device,percent,base_n,response_n,status,small_base,dimension,group,source_id,source_sheet,source_cell
+2025,Mobile phone,98.424831,182,179,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J7
+2025,Mobile phone,98.378667,486,480,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S7
+2025,Mobile phone,98.759954,705,695,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB7
+2025,Mobile phone,96.78389,626,611,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK7
+2025,Mobile phone,98.095463,579,570,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT7
+2025,Mobile phone,96.786798,619,600,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC7
+2025,Mobile phone,88.077508,346,306,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL7
+2025,Mobile phone,96.859685,1330,1290,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU7
+2025,Mobile phone,97.288157,2167,2105,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD7
+2025,Mobile phone,97.425561,1894,1847,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM7
+2025,Mobile phone,96.796234,1649,1594,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV7
+2025,Laptop computer,87.717215,182,161,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J13
+2025,Laptop computer,74.485437,486,398,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S13
+2025,Laptop computer,77.915359,705,577,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB13
+2025,Laptop computer,77.85798,626,512,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK13
+2025,Laptop computer,69.841102,579,410,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT13
+2025,Laptop computer,59.652518,619,400,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC13
+2025,Laptop computer,53.616888,346,190,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL13
+2025,Laptop computer,71.179568,1330,983,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU13
+2025,Laptop computer,74.298685,2167,1628,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD13
+2025,Laptop computer,78.785604,1894,1516,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM13
+2025,Laptop computer,66.274426,1649,1132,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV13
+2025,Smart TVs,56.19572,182,108,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J19
+2025,Smart TVs,63.019898,486,318,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S19
+2025,Smart TVs,73.517566,705,505,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB19
+2025,Smart TVs,70.573162,626,437,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK19
+2025,Smart TVs,68.647743,579,400,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT19
+2025,Smart TVs,59.485325,619,385,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC19
+2025,Smart TVs,46.352095,346,162,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL19
+2025,Smart TVs,62.455769,1330,857,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU19
+2025,Smart TVs,66.620865,2167,1435,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD19
+2025,Smart TVs,64.540955,1894,1238,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM19
+2025,Smart TVs,63.988675,1649,1077,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV19
+2025,"Tablet (e.g. iPad, Galaxy Tab)",42.702103,182,77,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",43.507105,486,208,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",58.277727,705,411,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",56.507698,626,347,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",58.834805,579,339,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",58.136466,619,372,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",49.029716,346,179,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",52.77597,1330,729,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",52.903229,2167,1182,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",51.093377,1894,1016,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM25
+2025,"Tablet (e.g. iPad, Galaxy Tab)",54.53712,1649,917,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV25
+2025,Desktop computer,41.512576,182,71,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J31
+2025,Desktop computer,39.604126,486,186,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S31
+2025,Desktop computer,38.45061,705,252,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB31
+2025,Desktop computer,40.511037,626,231,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK31
+2025,Desktop computer,41.271666,579,223,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT31
+2025,Desktop computer,41.846201,619,232,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC31
+2025,Desktop computer,44.557624,346,147,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL31
+2025,Desktop computer,47.058727,1330,634,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU31
+2025,Desktop computer,33.620997,2167,687,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD31
+2025,Desktop computer,40.580568,1894,715,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM31
+2025,Desktop computer,40.835261,1649,627,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV31
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",34.504778,182,68,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",43.075913,486,202,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",44.027242,705,326,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",40.019409,626,256,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",36.662431,579,219,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",28.658825,619,181,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",24.124854,346,72,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",37.23122,1330,515,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",37.186424,2167,793,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",38.288074,1894,723,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM37
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",36.339287,1649,601,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV37
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",40.655354,182,76,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",44.644184,486,198,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",36.9768,705,241,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",28.085977,626,162,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",9.173797,579,50,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",2.522157,619,16,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",1.019296,346,4,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",26.220187,1330,303,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",23.73716,2167,416,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",27.277732,1894,430,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM43
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",24.219258,1649,317,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV43
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",3.545711,182,7,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",4.660642,486,21,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",7.958046,705,56,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",12.050407,626,76,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",18.661615,579,101,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",13.978722,619,85,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",17.189466,346,57,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",10.949143,1330,165,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",10.214416,2167,235,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",11.222883,1894,234,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM49
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",9.885439,1649,169,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV49
+2025,"e-reader (e.g. Kindle, Kobo)",11.182824,182,24,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J55
+2025,"e-reader (e.g. Kindle, Kobo)",12.187313,486,76,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S55
+2025,"e-reader (e.g. Kindle, Kobo)",9.96672,705,89,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB55
+2025,"e-reader (e.g. Kindle, Kobo)",8.695189,626,66,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK55
+2025,"e-reader (e.g. Kindle, Kobo)",10.507306,579,69,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT55
+2025,"e-reader (e.g. Kindle, Kobo)",10.82887,619,87,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC55
+2025,"e-reader (e.g. Kindle, Kobo)",8.509909,346,36,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL55
+2025,"e-reader (e.g. Kindle, Kobo)",8.45422,1330,134,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU55
+2025,"e-reader (e.g. Kindle, Kobo)",12.178379,2167,302,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD55
+2025,"e-reader (e.g. Kindle, Kobo)",11.195806,1894,262,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM55
+2025,"e-reader (e.g. Kindle, Kobo)",9.569469,1649,185,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV55
+2025,Something else (please specify),0.676284,182,2,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J61
+2025,Something else (please specify),0.871496,486,4,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S61
+2025,Something else (please specify),1.063584,705,5,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB61
+2025,Something else (please specify),0.63518,626,5,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK61
+2025,Something else (please specify),0.647628,579,5,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT61
+2025,Something else (please specify),1.316609,619,9,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC61
+2025,Something else (please specify),0,346,0,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL61
+2025,Something else (please specify),1.191616,1330,16,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU61
+2025,Something else (please specify),0.438499,2167,14,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD61
+2025,Something else (please specify),0.625281,1894,12,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM61
+2025,Something else (please specify),1.002521,1649,18,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV61
+2025,I haven't used any devices to access the internet in the past 6 months,0,182,0,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J67
+2025,I haven't used any devices to access the internet in the past 6 months,0.469516,486,1,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S67
+2025,I haven't used any devices to access the internet in the past 6 months,0,705,0,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB67
+2025,I haven't used any devices to access the internet in the past 6 months,0,626,0,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK67
+2025,I haven't used any devices to access the internet in the past 6 months,0.061477,579,1,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT67
+2025,I haven't used any devices to access the internet in the past 6 months,0.349237,619,2,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC67
+2025,I haven't used any devices to access the internet in the past 6 months,1.185337,346,6,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL67
+2025,I haven't used any devices to access the internet in the past 6 months,0.238833,1330,2,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU67
+2025,I haven't used any devices to access the internet in the past 6 months,0.251116,2167,8,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD67
+2025,I haven't used any devices to access the internet in the past 6 months,0.121553,1894,4,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM67
+2025,I haven't used any devices to access the internet in the past 6 months,0.367703,1649,6,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV67
+2025,Refused,0,182,0,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J73
+2025,Refused,0.170535,486,1,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S73
+2025,Refused,0,705,0,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB73
+2025,Refused,0.23695,626,1,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK73
+2025,Refused,0,579,0,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT73
+2025,Refused,0,619,0,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC73
+2025,Refused,0,346,0,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL73
+2025,Refused,0,1330,0,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU73
+2025,Refused,0.142851,2167,2,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD73
+2025,Refused,0.133328,1894,2,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM73
+2025,Refused,0,1649,0,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV73
+2025,Don't know,0,182,0,published,0,age,18-24,acma_internet,QD5. Devices  by PBI BANNER,J109
+2025,Don't know,0,486,0,published,0,age,25-34,acma_internet,QD5. Devices  by PBI BANNER,S109
+2025,Don't know,0,705,0,published,0,age,35-44,acma_internet,QD5. Devices  by PBI BANNER,AB109
+2025,Don't know,0,626,0,published,0,age,45-54,acma_internet,QD5. Devices  by PBI BANNER,AK109
+2025,Don't know,0,579,0,published,0,age,55-64,acma_internet,QD5. Devices  by PBI BANNER,AT109
+2025,Don't know,0,619,0,published,0,age,65-74,acma_internet,QD5. Devices  by PBI BANNER,BC109
+2025,Don't know,0.207968,346,1,published,0,age,75+,acma_internet,QD5. Devices  by PBI BANNER,BL109
+2025,Don't know,0,1330,0,published,0,gender,Man or male,acma_internet,QD5. Devices  by PBI BANNER,BU109
+2025,Don't know,0.034368,2167,1,published,0,gender,Woman or female,acma_internet,QD5. Devices  by PBI BANNER,CD109
+2025,Don't know,0.032077,1894,1,published,0,location,Metro,acma_internet,QD5. Devices  by PBI BANNER,CM109
+2025,Don't know,0,1649,0,published,0,location,Regional,acma_internet,QD5. Devices  by PBI BANNER,CV109

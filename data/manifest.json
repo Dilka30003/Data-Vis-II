@@ -1,0 +1,401 @@
+{
+  "extracted": "2026-10-17",
+  "percent_scale": "0\u2013100, not 0\u20131",
+  "missing_values": "Empty numeric fields are missing, never zero-filled.",
+  "files": [
+    {
+      "file": "sources.csv",
+      "rows": 6,
+      "columns": [
+        "source_id",
+        "provider",
+        "filename",
+        "url",
+        "report_url",
+        "sha256",
+        "retrieved"
+      ],
+      "description": "Original sources; join other CSVs on source_id for the full source URL.",
+      "bytes": 2092
+    },
+    {
+      "file": "device_trends.csv",
+      "rows": 117,
+      "columns": [
+        "year",
+        "device",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "Weighted % of adults using each device for internet access in past six months. 2017\u20132025. Multiple response.",
+      "bytes": 14742
+    },
+    {
+      "file": "device_demographics_2025.csv",
+      "rows": 143,
+      "columns": [
+        "year",
+        "device",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "dimension",
+        "group",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "Device use by age, gender and metro/regional location, 2025; all-adult bases per group.",
+      "bytes": 19690
+    },
+    {
+      "file": "phone_age_trends.csv",
+      "rows": 63,
+      "columns": [
+        "year",
+        "device",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "dimension",
+        "group",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "Mobile-phone internet use by age, 2017\u20132025. Weighted adult percentages; small-base flags retained.",
+      "bytes": 6669
+    },
+    {
+      "file": "activity_2025.csv",
+      "rows": 9,
+      "columns": [
+        "year",
+        "activity",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "All-device online activities, six-month recall, 2025. Not phone-only. Multiple response.",
+      "bytes": 1423
+    },
+    {
+      "file": "communication_trends.csv",
+      "rows": 117,
+      "columns": [
+        "year",
+        "service",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "Six-month personal communication-service use, 2017\u20132025. NET categories overlap their components.",
+      "bytes": 14701
+    },
+    {
+      "file": "communication_demographics_2025.csv",
+      "rows": 143,
+      "columns": [
+        "year",
+        "service",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "dimension",
+        "group",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "2025 communication-service use by demographic group.",
+      "bytes": 19846
+    },
+    {
+      "file": "platform_trends.csv",
+      "rows": 155,
+      "columns": [
+        "year",
+        "platform",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "All-device six-month website/app use, 2021\u20132025. Not smartphone-only.",
+      "bytes": 15342
+    },
+    {
+      "file": "platform_demographics_2025.csv",
+      "rows": 341,
+      "columns": [
+        "year",
+        "platform",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "dimension",
+        "group",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "2025 six-month website/app use by age/gender/location. Preserve this survey's base, not the device survey's.",
+      "bytes": 37921
+    },
+    {
+      "file": "platform_weekly_2025.csv",
+      "rows": 32,
+      "columns": [
+        "year",
+        "platform",
+        "percent",
+        "base_n",
+        "response_n",
+        "status",
+        "small_base",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "Past-seven-day platform use, 2025. Do not conflate with six-month prevalence.",
+      "bytes": 3254
+    },
+    {
+      "file": "device_frequency.csv",
+      "rows": 765,
+      "columns": [
+        "year",
+        "device",
+        "frequency",
+        "percent",
+        "base_n",
+        "response_n",
+        "source_id",
+        "source_sheet",
+        "source_cell"
+      ],
+      "description": "Frequency within users of each device. Exclusive frequency bins; summed daily NET omitted.",
+      "bytes": 94296
+    },
+    {
+      "file": "phone_frequency_by_age_2025.csv",
+      "rows": 63,
+      "columns": [
+        "year",
+        "device",
+        "age_group",
+        "frequency",
+        "percent",
+        "base_n",
+        "response_n",
+        "weighted_count",
+        "weighted_base",
+        "source_id",
+        "source_sheet",
+        "source_cell",
+        "method"
+      ],
+      "description": "Derived within-age frequency percentages from weighted QD6 counts; NOT the source's row percentages.",
+      "bytes": 11054
+    },
+    {
+      "file": "network_states.csv",
+      "rows": 288,
+      "columns": [
+        "year",
+        "reference_date",
+        "operator",
+        "state",
+        "source_id",
+        "total_sites",
+        "total_sites_cell",
+        "five_g_site_share",
+        "state_name",
+        "longitude",
+        "latitude",
+        "five_g_sites",
+        "five_g_sites_cell",
+        "black_spot_sites",
+        "black_spot_sites_cell",
+        "new_sites",
+        "new_sites_cell"
+      ],
+      "description": "Operator/state counts and derived 5G-site shares; 31 January observations, 2018\u20132026. Not coverage.",
+      "bytes": 51886
+    },
+    {
+      "file": "network_remoteness.csv",
+      "rows": 180,
+      "columns": [
+        "year",
+        "reference_date",
+        "operator",
+        "remoteness",
+        "source_id",
+        "total_sites",
+        "total_sites_cell",
+        "five_g_site_share",
+        "five_g_sites",
+        "five_g_sites_cell",
+        "new_sites",
+        "new_sites_cell"
+      ],
+      "description": "Operator/remoteness counts and derived 5G-site shares. ABS remoteness classification break in 2023.",
+      "bytes": 25538
+    },
+    {
+      "file": "network_national.csv",
+      "rows": 36,
+      "columns": [
+        "year",
+        "reference_date",
+        "operator",
+        "geography",
+        "source_id",
+        "total_sites",
+        "total_sites_cell",
+        "five_g_site_share",
+        "five_g_sites",
+        "five_g_sites_cell",
+        "black_spot_sites",
+        "black_spot_sites_cell",
+        "new_sites",
+        "new_sites_cell"
+      ],
+      "description": "National operator totals. MOCN remains separate; do not sum to unique physical towers.",
+      "bytes": 6049
+    },
+    {
+      "file": "adii_mobile_access.csv",
+      "rows": 6,
+      "columns": [
+        "data_year",
+        "report_year",
+        "measure",
+        "group",
+        "percent",
+        "source_id",
+        "source_location",
+        "method"
+      ],
+      "description": "Published mobile-only access and smartphone ownership percentages. Groups overlap; no respondent microdata.",
+      "bytes": 1169
+    },
+    {
+      "file": "adii_state_scores.csv",
+      "rows": 32,
+      "columns": [
+        "data_year",
+        "report_year",
+        "state",
+        "state_name",
+        "measure",
+        "score",
+        "source_id",
+        "source_location",
+        "method"
+      ],
+      "description": "ADII Figure 1 state/territory scores out of 100. NOT smartphone-use percentages.",
+      "bytes": 4543
+    },
+    {
+      "file": "telstra_sites_2026.csv",
+      "rows": 12175,
+      "columns": [
+        "year",
+        "operator",
+        "site_id",
+        "latitude",
+        "longitude",
+        "five_g_present",
+        "technology",
+        "co_funded",
+        "co_funding_program",
+        "source_id",
+        "source_row",
+        "records_at_same_id_coordinates"
+      ],
+      "description": "Complete current Telstra site records, coordinate-checked; repeated IDs/coordinates intentionally retained (bands may differ). source_row is the unique row key. NR radio-band Y means 5G present. Missing co-funding is not imputed to No.",
+      "bytes": 1263185
+    },
+    {
+      "file": "telstra_sites_victoria_2026.csv",
+      "rows": 2831,
+      "columns": [
+        "year",
+        "operator",
+        "site_id",
+        "latitude",
+        "longitude",
+        "five_g_present",
+        "technology",
+        "co_funded",
+        "co_funding_program",
+        "source_id",
+        "source_row",
+        "records_at_same_id_coordinates"
+      ],
+      "description": "Subset intersecting generalised Natural Earth Victoria polygon; illustrative, not an official state classification. Border/coastal sites can differ.",
+      "bytes": 289972
+    },
+    {
+      "file": "victoria_hexbins_2026.csv",
+      "rows": 527,
+      "columns": [
+        "cell_id",
+        "q",
+        "r",
+        "year",
+        "record_count",
+        "five_g_records",
+        "other_records",
+        "cell_area_km2",
+        "centroid_lon",
+        "centroid_lat",
+        "source_id",
+        "method"
+      ],
+      "description": "Telstra source-record counts in full ~259.8km\u00b2 equal-area hexagons. Contains all/5G/other counts; not coverage or unique towers.",
+      "bytes": 87042
+    }
+  ],
+  "validation": {
+    "telstra_site_record_count": 12175,
+    "distinct_id_coordinate_locations": 12110,
+    "victoria_subset": 2831,
+    "state_totals_match_national": true,
+    "frequency_age_sums_match_100": true,
+    "percentage_bounds_pass": true,
+    "hexbin_records_reconcile": true,
+    "hexbin_records": 2831,
+    "occupied_hexagons": 527
+  }
+}

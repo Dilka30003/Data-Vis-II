@@ -1,0 +1,163 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 300,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "data": {
+    "url": "data/communication_trends.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "(datum.year === 2019 || datum.year === 2025) && indexof(['Mobile phone for calls','Mobile phone for texts (SMS)','Landline (home) telephone for calls','NET: used an app (messaing/calling app)'],datum.service)>=0 && isValid(datum.percent)"
+    },
+    {
+      "calculate": "datum.service === 'Mobile phone for calls' ? 'Mobile calls' : datum.service === 'Mobile phone for texts (SMS)' ? 'SMS' : datum.service === 'Landline (home) telephone for calls' ? 'Home phone' : 'Any calling / messaging app'",
+      "as": "label"
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "strokeWidth": 2.3,
+    "point": {
+      "filled": true,
+      "size": 74
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "axis": {
+        "title": null,
+        "grid": false,
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "percent",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      },
+      "axis": {
+        "title": null,
+        "labelExpr": "datum.value + '%'",
+        "tickCount": 5
+      }
+    },
+    "color": {
+      "field": "label",
+      "type": "nominal",
+      "title": null,
+      "scale": {
+        "domain": [
+          "Mobile calls",
+          "SMS",
+          "Home phone",
+          "Any calling / messaging app"
+        ],
+        "range": [
+          "#225844",
+          "#6e8172",
+          "#b2592c",
+          "#b09a63"
+        ]
+      },
+      "legend": {
+        "columns": 2
+      }
+    },
+    "tooltip": [
+      {
+        "field": "label",
+        "title": "Service",
+        "type": "nominal"
+      },
+      {
+        "field": "year",
+        "title": "Year",
+        "type": "quantitative",
+        "format": "d"
+      },
+      {
+        "field": "percent",
+        "title": "Percent",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "base_n",
+        "title": "Unweighted base",
+        "type": "quantitative",
+        "format": ","
+      }
+    ]
+  }
+}

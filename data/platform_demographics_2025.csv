@@ -1,0 +1,342 @@
+year,platform,percent,base_n,response_n,status,small_base,dimension,group,source_id,source_sheet,source_cell
+2025,Facebook,75.629601,525,402,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F6
+2025,Facebook,82.807881,1024,867,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K6
+2025,Facebook,84.276474,1265,1078,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P6
+2025,Facebook,82.549517,977,804,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U6
+2025,Facebook,77.537064,885,696,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z6
+2025,Facebook,72.540653,879,639,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE6
+2025,Facebook,63.141873,431,266,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ6
+2025,Facebook,73.682433,2296,1679,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO6
+2025,Facebook,83.706146,3652,3048,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT6
+2025,Facebook,77.073827,4107,3213,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY6
+2025,Facebook,81.46999,1880,1541,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD6
+2025,YouTube,73.821964,525,388,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F12
+2025,YouTube,76.938248,1024,784,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K12
+2025,YouTube,75.935943,1265,964,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P12
+2025,YouTube,74.643483,977,716,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U12
+2025,YouTube,71.080441,885,612,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z12
+2025,YouTube,63.449188,879,551,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE12
+2025,YouTube,50.588341,431,225,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ12
+2025,YouTube,73.362982,2296,1691,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO12
+2025,YouTube,68.972482,3652,2518,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT12
+2025,YouTube,72.162446,4107,2953,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY12
+2025,YouTube,69.628813,1880,1288,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD12
+2025,Facebook Messenger,64.622367,525,351,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F18
+2025,Facebook Messenger,80.272615,1024,836,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K18
+2025,Facebook Messenger,80.162785,1265,1032,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P18
+2025,Facebook Messenger,75.550669,977,740,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U18
+2025,Facebook Messenger,70.372182,885,626,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z18
+2025,Facebook Messenger,61.058006,879,562,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE18
+2025,Facebook Messenger,48.920037,431,214,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ18
+2025,Facebook Messenger,64.564207,2296,1474,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO18
+2025,Facebook Messenger,78.076344,3652,2862,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT18
+2025,Facebook Messenger,69.524292,4107,2932,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY18
+2025,Facebook Messenger,74.62034,1880,1430,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD18
+2025,WhatsApp,55.63864,525,286,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F24
+2025,WhatsApp,54.218569,1024,573,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K24
+2025,WhatsApp,64.769296,1265,833,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P24
+2025,WhatsApp,62.726733,977,608,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U24
+2025,WhatsApp,51.378886,885,445,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z24
+2025,WhatsApp,49.970162,879,438,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE24
+2025,WhatsApp,36.129943,431,176,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ24
+2025,WhatsApp,54.27607,2296,1251,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO24
+2025,WhatsApp,56.211267,3652,2087,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT24
+2025,WhatsApp,61.78382,4107,2547,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY24
+2025,WhatsApp,41.814469,1880,812,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD24
+2025,Instagram,81.621504,525,437,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F30
+2025,Instagram,71.249938,1024,764,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K30
+2025,Instagram,63.354713,1265,855,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P30
+2025,Instagram,56.52736,977,561,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U30
+2025,Instagram,41.532441,885,376,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z30
+2025,Instagram,24.890437,879,240,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE30
+2025,Instagram,13.659731,431,70,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ30
+2025,Instagram,43.863208,2296,1014,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO30
+2025,Instagram,63.435583,3652,2267,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT30
+2025,Instagram,56.188898,4107,2353,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY30
+2025,Instagram,47.949042,1880,951,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD30
+2025,FaceTime,47.081977,525,250,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F36
+2025,FaceTime,43.650606,1024,458,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K36
+2025,FaceTime,42.831774,1265,553,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P36
+2025,FaceTime,37.886273,977,379,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U36
+2025,FaceTime,30.802715,885,284,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z36
+2025,FaceTime,27.699455,879,235,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE36
+2025,FaceTime,17.915724,431,81,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ36
+2025,FaceTime,30.694254,2296,697,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO36
+2025,FaceTime,43.564548,3652,1536,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT36
+2025,FaceTime,37.585982,4107,1545,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY36
+2025,FaceTime,35.677823,1880,696,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD36
+2025,TikTok,64.581085,525,356,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F42
+2025,TikTok,47.224477,1024,521,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K42
+2025,TikTok,35.661078,1265,449,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P42
+2025,TikTok,24.604436,977,234,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U42
+2025,TikTok,16.652957,885,142,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z42
+2025,TikTok,7.787728,879,72,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE42
+2025,TikTok,3.588125,431,12,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ42
+2025,TikTok,23.363825,2296,525,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO42
+2025,TikTok,37.248775,3652,1243,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT42
+2025,TikTok,32.796055,4107,1277,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY42
+2025,TikTok,25.371207,1880,511,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD42
+2025,Reddit,36.600519,525,184,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F48
+2025,Reddit,44.283178,1024,453,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K48
+2025,Reddit,32.957128,1265,432,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P48
+2025,Reddit,19.291455,977,204,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U48
+2025,Reddit,14.302431,885,126,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z48
+2025,Reddit,6.886119,879,66,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE48
+2025,Reddit,4.528901,431,18,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ48
+2025,Reddit,26.10332,2296,616,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO48
+2025,Reddit,22.688479,3652,840,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT48
+2025,Reddit,27.564332,4107,1122,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY48
+2025,Reddit,19.222051,1880,362,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD48
+2025,LinkedIn,24.531672,525,129,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F54
+2025,LinkedIn,27.398286,1024,306,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K54
+2025,LinkedIn,31.371679,1265,414,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P54
+2025,LinkedIn,29.709892,977,296,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U54
+2025,LinkedIn,22.736118,885,203,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z54
+2025,LinkedIn,11.098708,879,106,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE54
+2025,LinkedIn,6.932156,431,38,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ54
+2025,LinkedIn,26.728432,2296,647,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO54
+2025,LinkedIn,20.337459,3652,834,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT54
+2025,LinkedIn,28.146912,4107,1206,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY54
+2025,LinkedIn,14.272987,1880,286,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD54
+2025,Snapchat,49.76216,525,275,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F60
+2025,Snapchat,37.065382,1024,405,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K60
+2025,Snapchat,22.680042,1265,297,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P60
+2025,Snapchat,16.566691,977,149,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U60
+2025,Snapchat,8.344783,885,71,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z60
+2025,Snapchat,3.034943,879,30,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE60
+2025,Snapchat,1.143003,431,3,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ60
+2025,Snapchat,15.720777,2296,346,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO60
+2025,Snapchat,26.536002,3652,874,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT60
+2025,Snapchat,19.789103,4107,795,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY60
+2025,Snapchat,23.636454,1880,436,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD60
+2025,Pinterest,31.401061,525,182,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F66
+2025,Pinterest,23.78098,1024,282,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K66
+2025,Pinterest,19.14661,1265,267,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P66
+2025,Pinterest,17.343807,977,204,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U66
+2025,Pinterest,16.86657,885,162,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z66
+2025,Pinterest,15.238636,879,138,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE66
+2025,Pinterest,9.478594,431,49,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ66
+2025,Pinterest,9.531607,2296,227,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO66
+2025,Pinterest,29.758825,3652,1046,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT66
+2025,Pinterest,19.939379,4107,881,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY66
+2025,Pinterest,18.656871,1880,403,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD66
+2025,X,24.770173,525,124,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F72
+2025,X,17.424461,1024,164,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K72
+2025,X,17.431748,1265,190,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P72
+2025,X,13.499876,977,120,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U72
+2025,X,10.637889,885,86,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z72
+2025,X,5.117567,879,42,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE72
+2025,X,3.288394,431,14,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ72
+2025,X,17.726171,2296,408,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO72
+2025,X,9.534888,3652,320,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT72
+2025,X,15.930794,4107,574,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY72
+2025,X,9.572035,1880,165,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD72
+2025,Discord,33.013455,525,164,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F78
+2025,Discord,24.190645,1024,202,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K78
+2025,Discord,14.263603,1265,157,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P78
+2025,Discord,8.140762,977,70,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U78
+2025,Discord,4.670883,885,32,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z78
+2025,Discord,1.513437,879,9,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE78
+2025,Discord,1.081013,431,2,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ78
+2025,Discord,17.307439,2296,357,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO78
+2025,Discord,8.368724,3652,260,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT78
+2025,Discord,15.580388,4107,494,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY78
+2025,Discord,8.133767,1880,143,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD78
+2025,Telegram,13.078272,525,72,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F84
+2025,Telegram,13.186412,1024,131,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K84
+2025,Telegram,14.364168,1265,158,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P84
+2025,Telegram,9.733881,977,81,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U84
+2025,Telegram,4.788525,885,40,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z84
+2025,Telegram,2.990691,879,25,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE84
+2025,Telegram,2.292208,431,10,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ84
+2025,Telegram,11.707756,2296,280,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO84
+2025,Telegram,6.947722,3652,233,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT84
+2025,Telegram,10.14315,4107,383,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY84
+2025,Telegram,7.884036,1880,135,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD84
+2025,Threads,11.692532,525,60,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F90
+2025,Threads,12.475806,1024,133,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K90
+2025,Threads,9.839838,1265,124,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P90
+2025,Threads,7.679863,977,76,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U90
+2025,Threads,5.189539,885,48,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z90
+2025,Threads,2.340386,879,21,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE90
+2025,Threads,0.735961,431,5,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ90
+2025,Threads,7.549114,2296,184,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO90
+2025,Threads,8.030285,3652,278,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT90
+2025,Threads,8.771105,4107,346,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY90
+2025,Threads,5.648502,1880,120,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD90
+2025,WeChat,9.649329,525,45,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F96
+2025,WeChat,5.841241,1024,63,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K96
+2025,WeChat,9.514089,1265,92,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P96
+2025,WeChat,7.041921,977,50,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U96
+2025,WeChat,1.729381,885,17,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z96
+2025,WeChat,2.182323,879,19,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE96
+2025,WeChat,1.211376,431,4,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ96
+2025,WeChat,6.783274,2296,151,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO96
+2025,WeChat,4.496084,3652,137,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT96
+2025,WeChat,7.5243,4107,255,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY96
+2025,WeChat,1.8508,1880,35,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD96
+2025,Twitch,15.389461,525,76,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F102
+2025,Twitch,11.502111,1024,105,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K102
+2025,Twitch,4.760476,1265,57,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P102
+2025,Twitch,1.626072,977,16,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U102
+2025,Twitch,0.493264,885,4,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z102
+2025,Twitch,0.411198,879,4,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE102
+2025,Twitch,0,431,0,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ102
+2025,Twitch,7.043188,2296,159,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO102
+2025,Twitch,2.970114,3652,95,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT102
+2025,Twitch,6.430779,4107,215,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY102
+2025,Twitch,2.686982,1880,48,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD102
+2025,Signal,3.559556,525,17,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F108
+2025,Signal,5.840029,1024,68,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K108
+2025,Signal,8.702227,1265,112,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P108
+2025,Signal,5.88008,977,65,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U108
+2025,Signal,4.083012,885,35,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z108
+2025,Signal,3.156909,879,26,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE108
+2025,Signal,2.126778,431,9,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ108
+2025,Signal,6.252273,2296,164,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO108
+2025,Signal,4.007757,3652,164,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT108
+2025,Signal,5.625931,4107,258,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY108
+2025,Signal,4.256395,1880,73,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD108
+2025,Viber,3.881698,525,17,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F114
+2025,Viber,2.956861,1024,36,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K114
+2025,Viber,5.789443,1265,59,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P114
+2025,Viber,5.005737,977,38,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U114
+2025,Viber,2.777259,885,19,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z114
+2025,Viber,2.612876,879,26,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE114
+2025,Viber,0.43703,431,2,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ114
+2025,Viber,4.118429,2296,92,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO114
+2025,Viber,3.165136,3652,105,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT114
+2025,Viber,4.448011,4107,160,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY114
+2025,Viber,1.943699,1880,37,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD114
+2025,Tumblr,5.406792,525,32,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F120
+2025,Tumblr,7.575927,1024,66,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K120
+2025,Tumblr,3.327564,1265,35,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P120
+2025,Tumblr,1.617643,977,17,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U120
+2025,Tumblr,0.903375,885,7,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z120
+2025,Tumblr,0.832094,879,6,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE120
+2025,Tumblr,0.442435,431,1,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ120
+2025,Tumblr,2.960437,2296,63,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO120
+2025,Tumblr,3.027135,3652,90,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT120
+2025,Tumblr,3.564075,4107,126,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY120
+2025,Tumblr,2.385821,1880,38,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD120
+2025,BlueSkye,3.528016,525,16,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F126
+2025,BlueSkye,3.968117,1024,39,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K126
+2025,BlueSkye,4.076951,1265,54,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P126
+2025,BlueSkye,2.976194,977,34,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U126
+2025,BlueSkye,1.800554,885,19,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z126
+2025,BlueSkye,1.359256,879,19,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE126
+2025,BlueSkye,0.118416,431,1,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ126
+2025,BlueSkye,3.423822,2296,94,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO126
+2025,BlueSkye,1.796818,3652,78,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT126
+2025,BlueSkye,3.35021,4107,145,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY126
+2025,BlueSkye,1.592797,1880,36,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD126
+2025,LINE,3.621846,525,16,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F132
+2025,LINE,2.051489,1024,28,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K132
+2025,LINE,4.024275,1265,40,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P132
+2025,LINE,2.960803,977,20,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U132
+2025,LINE,0.458365,885,6,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z132
+2025,LINE,1.625764,879,8,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE132
+2025,LINE,0.549017,431,2,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ132
+2025,LINE,3.075724,2296,63,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO132
+2025,LINE,1.419548,3652,54,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT132
+2025,LINE,2.850349,4107,97,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY132
+2025,LINE,1.250158,1880,23,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD132
+2025,I haven't used websites or apps in the past 6 months.,0.284424,525,2,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F138
+2025,I haven't used websites or apps in the past 6 months.,0.404053,1024,4,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K138
+2025,I haven't used websites or apps in the past 6 months.,0.371373,1265,3,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P138
+2025,I haven't used websites or apps in the past 6 months.,0.3694,977,3,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U138
+2025,I haven't used websites or apps in the past 6 months.,2.113652,885,20,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z138
+2025,I haven't used websites or apps in the past 6 months.,4.662015,879,40,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE138
+2025,I haven't used websites or apps in the past 6 months.,11.168504,431,48,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ138
+2025,I haven't used websites or apps in the past 6 months.,2.611501,2296,67,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO138
+2025,I haven't used websites or apps in the past 6 months.,1.488529,3652,53,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT138
+2025,I haven't used websites or apps in the past 6 months.,1.448613,4107,66,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY138
+2025,I haven't used websites or apps in the past 6 months.,3.254747,1880,54,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD138
+2025,RedNote,2.243742,525,14,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F144
+2025,RedNote,2.366174,1024,25,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K144
+2025,RedNote,2.253133,1265,27,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P144
+2025,RedNote,1.666486,977,11,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U144
+2025,RedNote,0.510428,885,4,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z144
+2025,RedNote,0.088711,879,1,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE144
+2025,RedNote,0,431,0,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ144
+2025,RedNote,1.114755,2296,28,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO144
+2025,RedNote,1.72867,3652,52,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT144
+2025,RedNote,1.938203,4107,77,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY144
+2025,RedNote,0.457976,1880,5,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD144
+2025,BeReal,6.705743,525,40,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F150
+2025,BeReal,2.329318,1024,24,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K150
+2025,BeReal,0.694248,1265,9,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P150
+2025,BeReal,0.634502,977,4,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U150
+2025,BeReal,0.096249,885,1,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z150
+2025,BeReal,0,879,0,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE150
+2025,BeReal,0,431,0,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ150
+2025,BeReal,1.19386,2296,30,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO150
+2025,BeReal,1.720289,3652,48,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT150
+2025,BeReal,1.690978,4107,59,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY150
+2025,BeReal,0.935269,1880,19,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD150
+2025,Some other website or app (please specify),0,525,0,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F156
+2025,Some other website or app (please specify),0.580426,1024,3,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K156
+2025,Some other website or app (please specify),1.126289,1265,13,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P156
+2025,Some other website or app (please specify),0.935726,977,10,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U156
+2025,Some other website or app (please specify),1.082136,885,9,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z156
+2025,Some other website or app (please specify),1.534904,879,14,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE156
+2025,Some other website or app (please specify),1.539329,431,7,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ156
+2025,Some other website or app (please specify),1.210149,2296,28,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO156
+2025,Some other website or app (please specify),0.680496,3652,27,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT156
+2025,Some other website or app (please specify),0.767641,4107,34,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY156
+2025,Some other website or app (please specify),1.315724,1880,22,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD156
+2025,Rumble,0.396072,525,2,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F162
+2025,Rumble,0.517621,1024,5,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K162
+2025,Rumble,0.535374,1265,6,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P162
+2025,Rumble,0.802332,977,8,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U162
+2025,Rumble,1.557514,885,13,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z162
+2025,Rumble,1.25959,879,12,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE162
+2025,Rumble,1.175845,431,5,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ162
+2025,Rumble,0.981209,2296,23,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO162
+2025,Rumble,0.835231,3652,29,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT162
+2025,Rumble,0.717744,4107,30,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY162
+2025,Rumble,1.278677,1880,22,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD162
+2025,Truth Social,1.13785,525,6,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F168
+2025,Truth Social,1.193927,1024,12,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K168
+2025,Truth Social,0.839505,1265,10,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P168
+2025,Truth Social,0.707771,977,6,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U168
+2025,Truth Social,1.130725,885,8,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z168
+2025,Truth Social,0.174415,879,1,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE168
+2025,Truth Social,0.377578,431,1,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ168
+2025,Truth Social,0.959606,2296,23,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO168
+2025,Truth Social,0.709155,3652,21,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT168
+2025,Truth Social,0.732746,4107,29,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY168
+2025,Truth Social,0.921382,1880,14,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD168
+2025,Clubhouse,0.990309,525,8,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F180
+2025,Clubhouse,0.810183,1024,9,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K180
+2025,Clubhouse,0.878848,1265,13,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P180
+2025,Clubhouse,0.288238,977,3,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U180
+2025,Clubhouse,0.147097,885,2,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z180
+2025,Clubhouse,0.095538,879,2,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE180
+2025,Clubhouse,0,431,0,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ180
+2025,Clubhouse,0.396806,2296,15,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO180
+2025,Clubhouse,0.556705,3652,21,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT180
+2025,Clubhouse,0.60494,4107,30,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY180
+2025,Clubhouse,0.295556,1880,7,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD180
+2025,Refused,0,525,0,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F186
+2025,Refused,0,1024,0,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K186
+2025,Refused,0.067159,1265,1,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P186
+2025,Refused,0,977,0,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U186
+2025,Refused,0,885,0,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z186
+2025,Refused,0,879,0,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE186
+2025,Refused,0.502386,431,1,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ186
+2025,Refused,0.098187,2296,2,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO186
+2025,Refused,0,3652,0,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT186
+2025,Refused,0.055935,4107,1,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY186
+2025,Refused,0.036526,1880,1,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD186
+2025,Don't know,0,525,0,published,0,age,18-24,acma_communication,QE2. Which we by PBI BANNER,F288
+2025,Don't know,0.309995,1024,1,published,0,age,25-34,acma_communication,QE2. Which we by PBI BANNER,K288
+2025,Don't know,0,1265,0,published,0,age,35-44,acma_communication,QE2. Which we by PBI BANNER,P288
+2025,Don't know,0.050707,977,1,published,0,age,45-54,acma_communication,QE2. Which we by PBI BANNER,U288
+2025,Don't know,0.067711,885,1,published,0,age,55-64,acma_communication,QE2. Which we by PBI BANNER,Z288
+2025,Don't know,0.109915,879,2,published,0,age,65-74,acma_communication,QE2. Which we by PBI BANNER,AE288
+2025,Don't know,0,431,0,published,0,age,75+,acma_communication,QE2. Which we by PBI BANNER,AJ288
+2025,Don't know,0.138194,2296,2,published,0,gender,Man or male,acma_communication,QE2. Which we by PBI BANNER,AO288
+2025,Don't know,0.04543,3652,3,published,0,gender,Woman or female,acma_communication,QE2. Which we by PBI BANNER,AT288
+2025,Don't know,0.10159,4107,2,published,0,location,Metro,acma_communication,QE2. Which we by PBI BANNER,AY288
+2025,Don't know,0.072173,1880,3,published,0,location,Regional,acma_communication,QE2. Which we by PBI BANNER,BD288

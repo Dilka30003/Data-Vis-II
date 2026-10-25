@@ -1,0 +1,118 @@
+year,device,percent,base_n,response_n,status,small_base,source_id,source_sheet,source_cell
+2017,Mobile phone,75.194281,2277,1770,published,0,acma_internet,QD5. Devices  by Study year,B4
+2018,Mobile phone,78.770218,2106,1726,published,0,acma_internet,QD5. Devices  by Study year,C4
+2019,Mobile phone,79.599601,2067,1752,published,0,acma_internet,QD5. Devices  by Study year,D4
+2020,Mobile phone,90.977303,2009,1809,published,0,acma_internet,QD5. Devices  by Study year,E4
+2021,Mobile phone,92.561642,3586,3292,published,0,acma_internet,QD5. Devices  by Study year,F4
+2022,Mobile phone,93.024799,3580,3304,published,0,acma_internet,QD5. Devices  by Study year,G4
+2023,Mobile phone,94.196521,3572,3349,published,0,acma_internet,QD5. Devices  by Study year,H4
+2024,Mobile phone,95.420326,3537,3374,published,0,acma_internet,QD5. Devices  by Study year,I4
+2025,Mobile phone,97.121278,3543,3441,published,0,acma_internet,QD5. Devices  by Study year,J4
+2017,Laptop computer,61.287336,2277,1538,published,0,acma_internet,QD5. Devices  by Study year,B10
+2018,Laptop computer,64.495553,2106,1472,published,0,acma_internet,QD5. Devices  by Study year,C10
+2019,Laptop computer,62.641808,2067,1447,published,0,acma_internet,QD5. Devices  by Study year,D10
+2020,Laptop computer,75.06781,2009,1515,published,0,acma_internet,QD5. Devices  by Study year,E10
+2021,Laptop computer,72.484291,3586,2605,published,0,acma_internet,QD5. Devices  by Study year,F10
+2022,Laptop computer,72.749687,3580,2586,published,0,acma_internet,QD5. Devices  by Study year,G10
+2023,Laptop computer,73.863234,3572,2606,published,0,acma_internet,QD5. Devices  by Study year,H10
+2024,Laptop computer,71.03095,3537,2535,published,0,acma_internet,QD5. Devices  by Study year,I10
+2025,Laptop computer,72.736375,3543,2648,published,0,acma_internet,QD5. Devices  by Study year,J10
+2017,Smart TVs,31.154826,2277,723,published,0,acma_internet,QD5. Devices  by Study year,B16
+2018,Smart TVs,42.486038,2106,933,published,0,acma_internet,QD5. Devices  by Study year,C16
+2019,Smart TVs,44.249388,2067,1001,published,0,acma_internet,QD5. Devices  by Study year,D16
+2020,Smart TVs,61.716178,2009,1189,published,0,acma_internet,QD5. Devices  by Study year,E16
+2021,Smart TVs,55.099517,3586,1975,published,0,acma_internet,QD5. Devices  by Study year,F16
+2022,Smart TVs,57.067092,3580,1976,published,0,acma_internet,QD5. Devices  by Study year,G16
+2023,Smart TVs,61.349803,3572,2122,published,0,acma_internet,QD5. Devices  by Study year,H16
+2024,Smart TVs,60.998715,3537,2163,published,0,acma_internet,QD5. Devices  by Study year,I16
+2025,Smart TVs,64.273924,3543,2315,published,0,acma_internet,QD5. Devices  by Study year,J16
+2017,"Tablet (e.g. iPad, Galaxy Tab)",44.276463,2277,1165,published,0,acma_internet,QD5. Devices  by Study year,B22
+2018,"Tablet (e.g. iPad, Galaxy Tab)",55.345781,2106,1301,published,0,acma_internet,QD5. Devices  by Study year,C22
+2019,"Tablet (e.g. iPad, Galaxy Tab)",51.763725,2067,1246,published,0,acma_internet,QD5. Devices  by Study year,D22
+2020,"Tablet (e.g. iPad, Galaxy Tab)",60.528572,2009,1231,published,0,acma_internet,QD5. Devices  by Study year,E22
+2021,"Tablet (e.g. iPad, Galaxy Tab)",54.988474,3586,2066,published,0,acma_internet,QD5. Devices  by Study year,F22
+2022,"Tablet (e.g. iPad, Galaxy Tab)",55.717848,3580,2029,published,0,acma_internet,QD5. Devices  by Study year,G22
+2023,"Tablet (e.g. iPad, Galaxy Tab)",51.558639,3572,1924,published,0,acma_internet,QD5. Devices  by Study year,H22
+2024,"Tablet (e.g. iPad, Galaxy Tab)",49.308252,3537,1817,published,0,acma_internet,QD5. Devices  by Study year,I22
+2025,"Tablet (e.g. iPad, Galaxy Tab)",52.758447,3543,1933,published,0,acma_internet,QD5. Devices  by Study year,J22
+2017,Desktop computer,48.428743,2277,1211,published,0,acma_internet,QD5. Devices  by Study year,B28
+2018,Desktop computer,45.529002,2106,1080,published,0,acma_internet,QD5. Devices  by Study year,C28
+2019,Desktop computer,43.934658,2067,1013,published,0,acma_internet,QD5. Devices  by Study year,D28
+2020,Desktop computer,49.042667,2009,916,published,0,acma_internet,QD5. Devices  by Study year,E28
+2021,Desktop computer,43.221469,3586,1562,published,0,acma_internet,QD5. Devices  by Study year,F28
+2022,Desktop computer,43.09681,3580,1537,published,0,acma_internet,QD5. Devices  by Study year,G28
+2023,Desktop computer,40.826803,3572,1421,published,0,acma_internet,QD5. Devices  by Study year,H28
+2024,Desktop computer,39.990155,3537,1335,published,0,acma_internet,QD5. Devices  by Study year,I28
+2025,Desktop computer,40.703714,3543,1342,published,0,acma_internet,QD5. Devices  by Study year,J28
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",0.593844,2277,17,published,0,acma_internet,QD5. Devices  by Study year,B34
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",23.908014,2106,491,published,0,acma_internet,QD5. Devices  by Study year,C34
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",25.05685,2067,544,published,0,acma_internet,QD5. Devices  by Study year,D34
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",29.806288,2009,592,published,0,acma_internet,QD5. Devices  by Study year,E34
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",24.598037,3586,849,published,0,acma_internet,QD5. Devices  by Study year,F34
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",33.836826,3580,1176,published,0,acma_internet,QD5. Devices  by Study year,G34
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",33.93031,3572,1206,published,0,acma_internet,QD5. Devices  by Study year,H34
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",35.571594,3537,1219,published,0,acma_internet,QD5. Devices  by Study year,I34
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",37.345824,3543,1324,published,0,acma_internet,QD5. Devices  by Study year,J34
+2017,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",16.504405,2277,270,published,0,acma_internet,QD5. Devices  by Study year,B40
+2018,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",21.347945,2106,353,published,0,acma_internet,QD5. Devices  by Study year,C40
+2019,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",21.613116,2067,340,published,0,acma_internet,QD5. Devices  by Study year,D40
+2020,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",28.006974,2009,420,published,0,acma_internet,QD5. Devices  by Study year,E40
+2021,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",23.694949,3586,642,published,0,acma_internet,QD5. Devices  by Study year,F40
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",23.92467,3580,593,published,0,acma_internet,QD5. Devices  by Study year,G40
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",24.142215,3572,641,published,0,acma_internet,QD5. Devices  by Study year,H40
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",24.976972,3537,705,published,0,acma_internet,QD5. Devices  by Study year,I40
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X) (2021 and earlier is a net of two options)",25.798942,3543,747,published,0,acma_internet,QD5. Devices  by Study year,J40
+2017,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",2.258577,2277,65,published,0,acma_internet,QD5. Devices  by Study year,B46
+2018,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",13.782981,2106,304,published,0,acma_internet,QD5. Devices  by Study year,C46
+2019,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",12.542901,2067,304,published,0,acma_internet,QD5. Devices  by Study year,D46
+2020,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",15.170886,2009,320,published,0,acma_internet,QD5. Devices  by Study year,E46
+2021,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",12.116848,3586,441,published,0,acma_internet,QD5. Devices  by Study year,F46
+2022,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",12.670147,3580,477,published,0,acma_internet,QD5. Devices  by Study year,G46
+2023,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",11.032807,3572,417,published,0,acma_internet,QD5. Devices  by Study year,H46
+2024,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",10.37174,3537,390,published,0,acma_internet,QD5. Devices  by Study year,I46
+2025,"Personal video recorder (PVR) (e.g. Foxtel IQ, Fetch box)",10.576221,3543,403,published,0,acma_internet,QD5. Devices  by Study year,J46
+2017,"e-reader (e.g. Kindle, Kobo)",11.681852,2277,328,published,0,acma_internet,QD5. Devices  by Study year,B52
+2018,"e-reader (e.g. Kindle, Kobo)",8.485019,2106,228,published,0,acma_internet,QD5. Devices  by Study year,C52
+2019,"e-reader (e.g. Kindle, Kobo)",7.550423,2067,208,published,0,acma_internet,QD5. Devices  by Study year,D52
+2020,"e-reader (e.g. Kindle, Kobo)",8.635055,2009,219,published,0,acma_internet,QD5. Devices  by Study year,E52
+2021,"e-reader (e.g. Kindle, Kobo)",7.508487,3586,353,published,0,acma_internet,QD5. Devices  by Study year,F52
+2022,"e-reader (e.g. Kindle, Kobo)",9.402811,3580,392,published,0,acma_internet,QD5. Devices  by Study year,G52
+2023,"e-reader (e.g. Kindle, Kobo)",8.71765,3572,352,published,0,acma_internet,QD5. Devices  by Study year,H52
+2024,"e-reader (e.g. Kindle, Kobo)",8.163849,3537,345,published,0,acma_internet,QD5. Devices  by Study year,I52
+2025,"e-reader (e.g. Kindle, Kobo)",10.409462,3543,447,published,0,acma_internet,QD5. Devices  by Study year,J52
+2017,Something else (please specify),0.378743,2277,9,published,0,acma_internet,QD5. Devices  by Study year,B58
+2018,Something else (please specify),0.531764,2106,14,published,0,acma_internet,QD5. Devices  by Study year,C58
+2019,Something else (please specify),0.907147,2067,25,published,0,acma_internet,QD5. Devices  by Study year,D58
+2020,Something else (please specify),0.418127,2009,14,published,0,acma_internet,QD5. Devices  by Study year,E58
+2021,Something else (please specify),0.420796,3586,22,published,0,acma_internet,QD5. Devices  by Study year,F58
+2022,Something else (please specify),0.519088,3580,25,published,0,acma_internet,QD5. Devices  by Study year,G58
+2023,Something else (please specify),0.608688,3572,26,published,0,acma_internet,QD5. Devices  by Study year,H58
+2024,Something else (please specify),0.99493,3537,37,published,0,acma_internet,QD5. Devices  by Study year,I58
+2025,Something else (please specify),0.807678,3543,30,published,0,acma_internet,QD5. Devices  by Study year,J58
+2017,I haven't used any devices to access the internet in the past 6 months,,2277,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,B64
+2018,I haven't used any devices to access the internet in the past 6 months,,2106,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,C64
+2019,I haven't used any devices to access the internet in the past 6 months,,2067,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,D64
+2020,I haven't used any devices to access the internet in the past 6 months,,2009,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,E64
+2021,I haven't used any devices to access the internet in the past 6 months,,3586,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,F64
+2022,I haven't used any devices to access the internet in the past 6 months,,3580,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,G64
+2023,I haven't used any devices to access the internet in the past 6 months,,3572,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,H64
+2024,I haven't used any devices to access the internet in the past 6 months,0.265726,3537,11,published,0,acma_internet,QD5. Devices  by Study year,I64
+2025,I haven't used any devices to access the internet in the past 6 months,0.240568,3543,10,published,0,acma_internet,QD5. Devices  by Study year,J64
+2017,Refused,0.211112,2277,4,published,0,acma_internet,QD5. Devices  by Study year,B70
+2018,Refused,,2106,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,C70
+2019,Refused,,2067,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,D70
+2020,Refused,,2009,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,E70
+2021,Refused,0.010146,3586,1,published,0,acma_internet,QD5. Devices  by Study year,F70
+2022,Refused,0.075721,3580,2,published,0,acma_internet,QD5. Devices  by Study year,G70
+2023,Refused,0.029937,3572,1,published,0,acma_internet,QD5. Devices  by Study year,H70
+2024,Refused,0.011218,3537,1,published,0,acma_internet,QD5. Devices  by Study year,I70
+2025,Refused,0.068863,3543,2,published,0,acma_internet,QD5. Devices  by Study year,J70
+2017,Don't know,0.030038,2277,1,published,0,acma_internet,QD5. Devices  by Study year,B106
+2018,Don't know,0.033641,2106,2,published,0,acma_internet,QD5. Devices  by Study year,C106
+2019,Don't know,,2067,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,D106
+2020,Don't know,0.051498,2009,1,published,0,acma_internet,QD5. Devices  by Study year,E106
+2021,Don't know,0.08934,3586,2,published,0,acma_internet,QD5. Devices  by Study year,F106
+2022,Don't know,,3580,0,zero_or_not_asked,0,acma_internet,QD5. Devices  by Study year,G106
+2023,Don't know,0.004004,3572,1,published,0,acma_internet,QD5. Devices  by Study year,H106
+2024,Don't know,0.00594,3537,1,published,0,acma_internet,QD5. Devices  by Study year,I106
+2025,Don't know,0.016568,3543,1,published,0,acma_internet,QD5. Devices  by Study year,J106

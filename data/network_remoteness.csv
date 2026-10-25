@@ -1,0 +1,181 @@
+year,reference_date,operator,remoteness,source_id,total_sites,total_sites_cell,five_g_site_share,five_g_sites,five_g_sites_cell,new_sites,new_sites_cell
+2018,2018-01-31,Optus,Major Cities of Australia,accc,4691,2. Total sites!B11 (Table 2),,,,,
+2019,2019-01-31,Optus,Major Cities of Australia,accc,4758,2. Total sites!C11 (Table 2),,,,,
+2020,2020-01-31,Optus,Major Cities of Australia,accc,4874,2. Total sites!D11 (Table 2),8.69922,424,2. Total sites!M11 (Table 6),,
+2021,2021-01-31,Optus,Major Cities of Australia,accc,5037,2. Total sites!E11 (Table 2),19.35676,975,2. Total sites!N11 (Table 6),238,"4. New,co-funded & decomm sites!B10 (Table 34)"
+2022,2022-01-31,Optus,Major Cities of Australia,accc,5294,2. Total sites!F11 (Table 2),33.811862,1790,2. Total sites!O11 (Table 6),293,"4. New,co-funded & decomm sites!C10 (Table 34)"
+2023,2023-01-31,Optus,Major Cities of Australia,accc,5416,2. Total sites!G11 (Table 2),48.59675,2632,2. Total sites!P11 (Table 6),253,"4. New,co-funded & decomm sites!D10 (Table 34)"
+2024,2024-01-31,Optus,Major Cities of Australia,accc,5665,2. Total sites!H11 (Table 2),61.765225,3499,2. Total sites!Q11 (Table 6),295,"4. New,co-funded & decomm sites!E10 (Table 34)"
+2025,2025-01-31,Optus,Major Cities of Australia,accc,5800,2. Total sites!I11 (Table 2),71.189655,4129,2. Total sites!R11 (Table 6),218,"4. New,co-funded & decomm sites!F10 (Table 34)"
+2026,2026-01-31,Optus,Major Cities of Australia,accc,5870,2. Total sites!J11 (Table 2),78.398637,4602,2. Total sites!S11 (Table 6),134,"4. New,co-funded & decomm sites!G10 (Table 34)"
+2018,2018-01-31,Telstra,Major Cities of Australia,accc,4736,2. Total sites!B12 (Table 2),,,,,
+2019,2019-01-31,Telstra,Major Cities of Australia,accc,4800,2. Total sites!C12 (Table 2),,,,,
+2020,2020-01-31,Telstra,Major Cities of Australia,accc,5059,2. Total sites!D12 (Table 2),12.472821,631,2. Total sites!M12 (Table 6),,
+2021,2021-01-31,Telstra,Major Cities of Australia,accc,5166,2. Total sites!E12 (Table 2),43.592722,2252,2. Total sites!N12 (Table 6),174,"4. New,co-funded & decomm sites!B11 (Table 34)"
+2022,2022-01-31,Telstra,Major Cities of Australia,accc,5257,2. Total sites!F12 (Table 2),59.729884,3140,2. Total sites!O12 (Table 6),144,"4. New,co-funded & decomm sites!C11 (Table 34)"
+2023,2023-01-31,Telstra,Major Cities of Australia,accc,5493,2. Total sites!G12 (Table 2),64.099763,3521,2. Total sites!P12 (Table 6),351,"4. New,co-funded & decomm sites!D11 (Table 34)"
+2024,2024-01-31,Telstra,Major Cities of Australia,accc,5742,2. Total sites!H12 (Table 2),66.266109,3805,2. Total sites!Q12 (Table 6),314,"4. New,co-funded & decomm sites!E11 (Table 34)"
+2025,2025-01-31,Telstra,Major Cities of Australia,accc,5732,2. Total sites!I12 (Table 2),70.464061,4039,2. Total sites!R12 (Table 6),186,"4. New,co-funded & decomm sites!F11 (Table 34)"
+2026,2026-01-31,Telstra,Major Cities of Australia,accc,5911,2. Total sites!J12 (Table 2),73.743867,4359,2. Total sites!S12 (Table 6),236,"4. New,co-funded & decomm sites!G11 (Table 34)"
+2018,2018-01-31,TPG,Major Cities of Australia,accc,4207,2. Total sites!B13 (Table 2),,,,,
+2019,2019-01-31,TPG,Major Cities of Australia,accc,4268,2. Total sites!C13 (Table 2),,,,,
+2020,2020-01-31,TPG,Major Cities of Australia,accc,4306,2. Total sites!D13 (Table 2),0.0,0,2. Total sites!M13 (Table 6),,
+2021,2021-01-31,TPG,Major Cities of Australia,accc,4503,2. Total sites!E13 (Table 2),3.575394,161,2. Total sites!N13 (Table 6),236,"4. New,co-funded & decomm sites!B12 (Table 34)"
+2022,2022-01-31,TPG,Major Cities of Australia,accc,4337,2. Total sites!F13 (Table 2),22.849896,991,2. Total sites!O13 (Table 6),47,"4. New,co-funded & decomm sites!C12 (Table 34)"
+2023,2023-01-31,TPG,Major Cities of Australia,accc,4383,2. Total sites!G13 (Table 2),44.125029,1934,2. Total sites!P13 (Table 6),70,"4. New,co-funded & decomm sites!D12 (Table 34)"
+2024,2024-01-31,TPG,Major Cities of Australia,accc,4384,2. Total sites!H13 (Table 2),64.187956,2814,2. Total sites!Q13 (Table 6),83,"4. New,co-funded & decomm sites!E12 (Table 34)"
+2025,2025-01-31,TPG,Major Cities of Australia,accc,4445,2. Total sites!I13 (Table 2),76.445444,3398,2. Total sites!R13 (Table 6),106,"4. New,co-funded & decomm sites!F12 (Table 34)"
+2026,2026-01-31,TPG,Major Cities of Australia,accc,4510,2. Total sites!J13 (Table 2),84.079823,3792,2. Total sites!S13 (Table 6),96,"4. New,co-funded & decomm sites!G12 (Table 34)"
+2018,2018-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!B14 (Table 2),,,,,
+2019,2019-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!C14 (Table 2),,,,,
+2020,2020-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!D14 (Table 2),,0,2. Total sites!M14 (Table 6),,
+2021,2021-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!E14 (Table 2),,0,2. Total sites!N14 (Table 6),,
+2022,2022-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!F14 (Table 2),,0,2. Total sites!O14 (Table 6),,
+2023,2023-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!G14 (Table 2),,0,2. Total sites!P14 (Table 6),,
+2024,2024-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,0,2. Total sites!H14 (Table 2),,0,2. Total sites!Q14 (Table 6),,
+2025,2025-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,3,2. Total sites!I14 (Table 2),66.666667,2,2. Total sites!R14 (Table 6),,
+2026,2026-01-31,Optus-TPG MOCN,Major Cities of Australia,accc,3,2. Total sites!J14 (Table 2),100.0,3,2. Total sites!S14 (Table 6),,
+2018,2018-01-31,Optus,Inner Regional Australia,accc,1374,2. Total sites!B16 (Table 2),,,,,
+2019,2019-01-31,Optus,Inner Regional Australia,accc,1524,2. Total sites!C16 (Table 2),,,,,
+2020,2020-01-31,Optus,Inner Regional Australia,accc,1611,2. Total sites!D16 (Table 2),0.124146,2,2. Total sites!M16 (Table 6),,
+2021,2021-01-31,Optus,Inner Regional Australia,accc,1677,2. Total sites!E16 (Table 2),2.08706,35,2. Total sites!N16 (Table 6),69,"4. New,co-funded & decomm sites!B14 (Table 34)"
+2022,2022-01-31,Optus,Inner Regional Australia,accc,1768,2. Total sites!F16 (Table 2),6.900452,122,2. Total sites!O16 (Table 6),95,"4. New,co-funded & decomm sites!C14 (Table 34)"
+2023,2023-01-31,Optus,Inner Regional Australia,accc,1803,2. Total sites!G16 (Table 2),11.591791,209,2. Total sites!P16 (Table 6),49,"4. New,co-funded & decomm sites!D14 (Table 34)"
+2024,2024-01-31,Optus,Inner Regional Australia,accc,1856,2. Total sites!H16 (Table 2),21.767241,404,2. Total sites!Q16 (Table 6),62,"4. New,co-funded & decomm sites!E14 (Table 34)"
+2025,2025-01-31,Optus,Inner Regional Australia,accc,1891,2. Total sites!I16 (Table 2),31.835008,602,2. Total sites!R16 (Table 6),37,"4. New,co-funded & decomm sites!F14 (Table 34)"
+2026,2026-01-31,Optus,Inner Regional Australia,accc,1912,2. Total sites!J16 (Table 2),42.10251,805,2. Total sites!S16 (Table 6),27,"4. New,co-funded & decomm sites!G14 (Table 34)"
+2018,2018-01-31,Telstra,Inner Regional Australia,accc,1820,2. Total sites!B17 (Table 2),,,,,
+2019,2019-01-31,Telstra,Inner Regional Australia,accc,2020,2. Total sites!C17 (Table 2),,,,,
+2020,2020-01-31,Telstra,Inner Regional Australia,accc,2105,2. Total sites!D17 (Table 2),6.603325,139,2. Total sites!M17 (Table 6),,
+2021,2021-01-31,Telstra,Inner Regional Australia,accc,2176,2. Total sites!E17 (Table 2),15.900735,346,2. Total sites!N17 (Table 6),75,"4. New,co-funded & decomm sites!B15 (Table 34)"
+2022,2022-01-31,Telstra,Inner Regional Australia,accc,2218,2. Total sites!F17 (Table 2),30.838593,684,2. Total sites!O17 (Table 6),50,"4. New,co-funded & decomm sites!C15 (Table 34)"
+2023,2023-01-31,Telstra,Inner Regional Australia,accc,2246,2. Total sites!G17 (Table 2),32.012467,719,2. Total sites!P17 (Table 6),59,"4. New,co-funded & decomm sites!D15 (Table 34)"
+2024,2024-01-31,Telstra,Inner Regional Australia,accc,2300,2. Total sites!H17 (Table 2),36.956522,850,2. Total sites!Q17 (Table 6),58,"4. New,co-funded & decomm sites!E15 (Table 34)"
+2025,2025-01-31,Telstra,Inner Regional Australia,accc,2331,2. Total sites!I17 (Table 2),54.611755,1273,2. Total sites!R17 (Table 6),76,"4. New,co-funded & decomm sites!F15 (Table 34)"
+2026,2026-01-31,Telstra,Inner Regional Australia,accc,2425,2. Total sites!J17 (Table 2),62.061856,1505,2. Total sites!S17 (Table 6),103,"4. New,co-funded & decomm sites!G15 (Table 34)"
+2018,2018-01-31,TPG,Inner Regional Australia,accc,757,2. Total sites!B18 (Table 2),,,,,
+2019,2019-01-31,TPG,Inner Regional Australia,accc,813,2. Total sites!C18 (Table 2),,,,,
+2020,2020-01-31,TPG,Inner Regional Australia,accc,836,2. Total sites!D18 (Table 2),0.0,0,2. Total sites!M18 (Table 6),,
+2021,2021-01-31,TPG,Inner Regional Australia,accc,849,2. Total sites!E18 (Table 2),0.235571,2,2. Total sites!N18 (Table 6),16,"4. New,co-funded & decomm sites!B16 (Table 34)"
+2022,2022-01-31,TPG,Inner Regional Australia,accc,852,2. Total sites!F18 (Table 2),4.460094,38,2. Total sites!O18 (Table 6),5,"4. New,co-funded & decomm sites!C16 (Table 34)"
+2023,2023-01-31,TPG,Inner Regional Australia,accc,853,2. Total sites!G18 (Table 2),13.833529,118,2. Total sites!P18 (Table 6),7,"4. New,co-funded & decomm sites!D16 (Table 34)"
+2024,2024-01-31,TPG,Inner Regional Australia,accc,836,2. Total sites!H18 (Table 2),25.239234,211,2. Total sites!Q18 (Table 6),14,"4. New,co-funded & decomm sites!E16 (Table 34)"
+2025,2025-01-31,TPG,Inner Regional Australia,accc,551,2. Total sites!I18 (Table 2),56.261343,310,2. Total sites!R18 (Table 6),7,"4. New,co-funded & decomm sites!F16 (Table 34)"
+2026,2026-01-31,TPG,Inner Regional Australia,accc,552,2. Total sites!J18 (Table 2),66.304348,366,2. Total sites!S18 (Table 6),20,"4. New,co-funded & decomm sites!G16 (Table 34)"
+2018,2018-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!B19 (Table 2),,,,,
+2019,2019-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!C19 (Table 2),,,,,
+2020,2020-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!D19 (Table 2),,0,2. Total sites!M19 (Table 6),,
+2021,2021-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!E19 (Table 2),,0,2. Total sites!N19 (Table 6),,
+2022,2022-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!F19 (Table 2),,0,2. Total sites!O19 (Table 6),,
+2023,2023-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!G19 (Table 2),,0,2. Total sites!P19 (Table 6),,
+2024,2024-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,0,2. Total sites!H19 (Table 2),,0,2. Total sites!Q19 (Table 6),,
+2025,2025-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,1068,2. Total sites!I19 (Table 2),25.655431,274,2. Total sites!R19 (Table 6),,
+2026,2026-01-31,Optus-TPG MOCN,Inner Regional Australia,accc,1120,2. Total sites!J19 (Table 2),38.75,434,2. Total sites!S19 (Table 6),,
+2018,2018-01-31,Optus,Outer Regional Australia,accc,959,2. Total sites!B21 (Table 2),,,,,
+2019,2019-01-31,Optus,Outer Regional Australia,accc,1074,2. Total sites!C21 (Table 2),,,,,
+2020,2020-01-31,Optus,Outer Regional Australia,accc,1124,2. Total sites!D21 (Table 2),0.0,0,2. Total sites!M21 (Table 6),,
+2021,2021-01-31,Optus,Outer Regional Australia,accc,1145,2. Total sites!E21 (Table 2),0.0,0,2. Total sites!N21 (Table 6),21,"4. New,co-funded & decomm sites!B18 (Table 34)"
+2022,2022-01-31,Optus,Outer Regional Australia,accc,1171,2. Total sites!F21 (Table 2),1.195559,14,2. Total sites!O21 (Table 6),27,"4. New,co-funded & decomm sites!C18 (Table 34)"
+2023,2023-01-31,Optus,Outer Regional Australia,accc,1172,2. Total sites!G21 (Table 2),4.180887,49,2. Total sites!P21 (Table 6),29,"4. New,co-funded & decomm sites!D18 (Table 34)"
+2024,2024-01-31,Optus,Outer Regional Australia,accc,1221,2. Total sites!H21 (Table 2),8.763309,107,2. Total sites!Q21 (Table 6),53,"4. New,co-funded & decomm sites!E18 (Table 34)"
+2025,2025-01-31,Optus,Outer Regional Australia,accc,1239,2. Total sites!I21 (Table 2),13.559322,168,2. Total sites!R21 (Table 6),21,"4. New,co-funded & decomm sites!F18 (Table 34)"
+2026,2026-01-31,Optus,Outer Regional Australia,accc,1257,2. Total sites!J21 (Table 2),24.343675,306,2. Total sites!S21 (Table 6),24,"4. New,co-funded & decomm sites!G18 (Table 34)"
+2018,2018-01-31,Telstra,Outer Regional Australia,accc,1553,2. Total sites!B22 (Table 2),,,,,
+2019,2019-01-31,Telstra,Outer Regional Australia,accc,1736,2. Total sites!C22 (Table 2),,,,,
+2020,2020-01-31,Telstra,Outer Regional Australia,accc,1815,2. Total sites!D22 (Table 2),1.487603,27,2. Total sites!M22 (Table 6),,
+2021,2021-01-31,Telstra,Outer Regional Australia,accc,1878,2. Total sites!E22 (Table 2),4.898829,92,2. Total sites!N22 (Table 6),69,"4. New,co-funded & decomm sites!B19 (Table 34)"
+2022,2022-01-31,Telstra,Outer Regional Australia,accc,1921,2. Total sites!F22 (Table 2),11.556481,222,2. Total sites!O22 (Table 6),46,"4. New,co-funded & decomm sites!C19 (Table 34)"
+2023,2023-01-31,Telstra,Outer Regional Australia,accc,1919,2. Total sites!G22 (Table 2),13.757165,264,2. Total sites!P22 (Table 6),38,"4. New,co-funded & decomm sites!D19 (Table 34)"
+2024,2024-01-31,Telstra,Outer Regional Australia,accc,1964,2. Total sites!H22 (Table 2),16.496945,324,2. Total sites!Q22 (Table 6),48,"4. New,co-funded & decomm sites!E19 (Table 34)"
+2025,2025-01-31,Telstra,Outer Regional Australia,accc,1994,2. Total sites!I22 (Table 2),33.600802,670,2. Total sites!R22 (Table 6),64,"4. New,co-funded & decomm sites!F19 (Table 34)"
+2026,2026-01-31,Telstra,Outer Regional Australia,accc,2044,2. Total sites!J22 (Table 2),42.318982,865,2. Total sites!S22 (Table 6),60,"4. New,co-funded & decomm sites!G19 (Table 34)"
+2018,2018-01-31,TPG,Outer Regional Australia,accc,400,2. Total sites!B23 (Table 2),,,,,
+2019,2019-01-31,TPG,Outer Regional Australia,accc,458,2. Total sites!C23 (Table 2),,,,,
+2020,2020-01-31,TPG,Outer Regional Australia,accc,465,2. Total sites!D23 (Table 2),0.0,0,2. Total sites!M23 (Table 6),,
+2021,2021-01-31,TPG,Outer Regional Australia,accc,470,2. Total sites!E23 (Table 2),0.0,0,2. Total sites!N23 (Table 6),7,"4. New,co-funded & decomm sites!B20 (Table 34)"
+2022,2022-01-31,TPG,Outer Regional Australia,accc,469,2. Total sites!F23 (Table 2),0.0,0,2. Total sites!O23 (Table 6),1,"4. New,co-funded & decomm sites!C20 (Table 34)"
+2023,2023-01-31,TPG,Outer Regional Australia,accc,465,2. Total sites!G23 (Table 2),1.935484,9,2. Total sites!P23 (Table 6),3,"4. New,co-funded & decomm sites!D20 (Table 34)"
+2024,2024-01-31,TPG,Outer Regional Australia,accc,429,2. Total sites!H23 (Table 2),5.361305,23,2. Total sites!Q23 (Table 6),2,"4. New,co-funded & decomm sites!E20 (Table 34)"
+2025,2025-01-31,TPG,Outer Regional Australia,accc,190,2. Total sites!I23 (Table 2),25.789474,49,2. Total sites!R23 (Table 6),5,"4. New,co-funded & decomm sites!F20 (Table 34)"
+2026,2026-01-31,TPG,Outer Regional Australia,accc,184,2. Total sites!J23 (Table 2),36.956522,68,2. Total sites!S23 (Table 6),2,"4. New,co-funded & decomm sites!G20 (Table 34)"
+2018,2018-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!B24 (Table 2),,,,,
+2019,2019-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!C24 (Table 2),,,,,
+2020,2020-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!D24 (Table 2),,0,2. Total sites!M24 (Table 6),,
+2021,2021-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!E24 (Table 2),,0,2. Total sites!N24 (Table 6),,
+2022,2022-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!F24 (Table 2),,0,2. Total sites!O24 (Table 6),,
+2023,2023-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!G24 (Table 2),,0,2. Total sites!P24 (Table 6),,
+2024,2024-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,0,2. Total sites!H24 (Table 2),,0,2. Total sites!Q24 (Table 6),,
+2025,2025-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,1046,2. Total sites!I24 (Table 2),13.097514,137,2. Total sites!R24 (Table 6),,
+2026,2026-01-31,Optus-TPG MOCN,Outer Regional Australia,accc,1086,2. Total sites!J24 (Table 2),23.664825,257,2. Total sites!S24 (Table 6),,
+2018,2018-01-31,Optus,Remote Australia,accc,191,2. Total sites!B26 (Table 2),,,,,
+2019,2019-01-31,Optus,Remote Australia,accc,209,2. Total sites!C26 (Table 2),,,,,
+2020,2020-01-31,Optus,Remote Australia,accc,225,2. Total sites!D26 (Table 2),0.0,0,2. Total sites!M26 (Table 6),,
+2021,2021-01-31,Optus,Remote Australia,accc,228,2. Total sites!E26 (Table 2),0.0,0,2. Total sites!N26 (Table 6),4,"4. New,co-funded & decomm sites!B22 (Table 34)"
+2022,2022-01-31,Optus,Remote Australia,accc,242,2. Total sites!F26 (Table 2),2.479339,6,2. Total sites!O26 (Table 6),14,"4. New,co-funded & decomm sites!C22 (Table 34)"
+2023,2023-01-31,Optus,Remote Australia,accc,254,2. Total sites!G26 (Table 2),5.11811,13,2. Total sites!P26 (Table 6),13,"4. New,co-funded & decomm sites!D22 (Table 34)"
+2024,2024-01-31,Optus,Remote Australia,accc,273,2. Total sites!H26 (Table 2),8.058608,22,2. Total sites!Q26 (Table 6),21,"4. New,co-funded & decomm sites!E22 (Table 34)"
+2025,2025-01-31,Optus,Remote Australia,accc,277,2. Total sites!I26 (Table 2),11.191336,31,2. Total sites!R26 (Table 6),6,"4. New,co-funded & decomm sites!F22 (Table 34)"
+2026,2026-01-31,Optus,Remote Australia,accc,279,2. Total sites!J26 (Table 2),20.071685,56,2. Total sites!S26 (Table 6),2,"4. New,co-funded & decomm sites!G22 (Table 34)"
+2018,2018-01-31,Telstra,Remote Australia,accc,611,2. Total sites!B27 (Table 2),,,,,
+2019,2019-01-31,Telstra,Remote Australia,accc,655,2. Total sites!C27 (Table 2),,,,,
+2020,2020-01-31,Telstra,Remote Australia,accc,668,2. Total sites!D27 (Table 2),0.0,0,2. Total sites!M27 (Table 6),,
+2021,2021-01-31,Telstra,Remote Australia,accc,690,2. Total sites!E27 (Table 2),0.724638,5,2. Total sites!N27 (Table 6),27,"4. New,co-funded & decomm sites!B23 (Table 34)"
+2022,2022-01-31,Telstra,Remote Australia,accc,708,2. Total sites!F27 (Table 2),3.248588,23,2. Total sites!O27 (Table 6),22,"4. New,co-funded & decomm sites!C23 (Table 34)"
+2023,2023-01-31,Telstra,Remote Australia,accc,720,2. Total sites!G27 (Table 2),4.722222,34,2. Total sites!P27 (Table 6),16,"4. New,co-funded & decomm sites!D23 (Table 34)"
+2024,2024-01-31,Telstra,Remote Australia,accc,735,2. Total sites!H27 (Table 2),8.571429,63,2. Total sites!Q27 (Table 6),18,"4. New,co-funded & decomm sites!E23 (Table 34)"
+2025,2025-01-31,Telstra,Remote Australia,accc,741,2. Total sites!I27 (Table 2),26.315789,195,2. Total sites!R27 (Table 6),35,"4. New,co-funded & decomm sites!F23 (Table 34)"
+2026,2026-01-31,Telstra,Remote Australia,accc,769,2. Total sites!J27 (Table 2),35.110533,270,2. Total sites!S27 (Table 6),30,"4. New,co-funded & decomm sites!G23 (Table 34)"
+2018,2018-01-31,TPG,Remote Australia,accc,50,2. Total sites!B28 (Table 2),,,,,
+2019,2019-01-31,TPG,Remote Australia,accc,61,2. Total sites!C28 (Table 2),,,,,
+2020,2020-01-31,TPG,Remote Australia,accc,60,2. Total sites!D28 (Table 2),0.0,0,2. Total sites!M28 (Table 6),,
+2021,2021-01-31,TPG,Remote Australia,accc,62,2. Total sites!E28 (Table 2),0.0,0,2. Total sites!N28 (Table 6),2,"4. New,co-funded & decomm sites!B24 (Table 34)"
+2022,2022-01-31,TPG,Remote Australia,accc,62,2. Total sites!F28 (Table 2),0.0,0,2. Total sites!O28 (Table 6),0,"4. New,co-funded & decomm sites!C24 (Table 34)"
+2023,2023-01-31,TPG,Remote Australia,accc,60,2. Total sites!G28 (Table 2),3.333333,2,2. Total sites!P28 (Table 6),0,"4. New,co-funded & decomm sites!D24 (Table 34)"
+2024,2024-01-31,TPG,Remote Australia,accc,55,2. Total sites!H28 (Table 2),3.636364,2,2. Total sites!Q28 (Table 6),1,"4. New,co-funded & decomm sites!E24 (Table 34)"
+2025,2025-01-31,TPG,Remote Australia,accc,20,2. Total sites!I28 (Table 2),10.0,2,2. Total sites!R28 (Table 6),0,"4. New,co-funded & decomm sites!F24 (Table 34)"
+2026,2026-01-31,TPG,Remote Australia,accc,16,2. Total sites!J28 (Table 2),12.5,2,2. Total sites!S28 (Table 6),0,"4. New,co-funded & decomm sites!G24 (Table 34)"
+2018,2018-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!B29 (Table 2),,,,,
+2019,2019-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!C29 (Table 2),,,,,
+2020,2020-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!D29 (Table 2),,0,2. Total sites!M29 (Table 6),,
+2021,2021-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!E29 (Table 2),,0,2. Total sites!N29 (Table 6),,
+2022,2022-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!F29 (Table 2),,0,2. Total sites!O29 (Table 6),,
+2023,2023-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!G29 (Table 2),,0,2. Total sites!P29 (Table 6),,
+2024,2024-01-31,Optus-TPG MOCN,Remote Australia,accc,0,2. Total sites!H29 (Table 2),,0,2. Total sites!Q29 (Table 6),,
+2025,2025-01-31,Optus-TPG MOCN,Remote Australia,accc,237,2. Total sites!I29 (Table 2),12.236287,29,2. Total sites!R29 (Table 6),,
+2026,2026-01-31,Optus-TPG MOCN,Remote Australia,accc,250,2. Total sites!J29 (Table 2),21.6,54,2. Total sites!S29 (Table 6),,
+2018,2018-01-31,Optus,Very Remote Australia,accc,120,2. Total sites!B31 (Table 2),,,,,
+2019,2019-01-31,Optus,Very Remote Australia,accc,147,2. Total sites!C31 (Table 2),,,,,
+2020,2020-01-31,Optus,Very Remote Australia,accc,146,2. Total sites!D31 (Table 2),0.0,0,2. Total sites!M31 (Table 6),,
+2021,2021-01-31,Optus,Very Remote Australia,accc,151,2. Total sites!E31 (Table 2),0.0,0,2. Total sites!N31 (Table 6),5,"4. New,co-funded & decomm sites!B26 (Table 34)"
+2022,2022-01-31,Optus,Very Remote Australia,accc,157,2. Total sites!F31 (Table 2),0.0,0,2. Total sites!O31 (Table 6),7,"4. New,co-funded & decomm sites!C26 (Table 34)"
+2023,2023-01-31,Optus,Very Remote Australia,accc,176,2. Total sites!G31 (Table 2),1.136364,2,2. Total sites!P31 (Table 6),19,"4. New,co-funded & decomm sites!D26 (Table 34)"
+2024,2024-01-31,Optus,Very Remote Australia,accc,186,2. Total sites!H31 (Table 2),3.225806,6,2. Total sites!Q31 (Table 6),10,"4. New,co-funded & decomm sites!E26 (Table 34)"
+2025,2025-01-31,Optus,Very Remote Australia,accc,184,2. Total sites!I31 (Table 2),4.891304,9,2. Total sites!R31 (Table 6),0,"4. New,co-funded & decomm sites!F26 (Table 34)"
+2026,2026-01-31,Optus,Very Remote Australia,accc,181,2. Total sites!J31 (Table 2),7.734807,14,2. Total sites!S31 (Table 6),0,"4. New,co-funded & decomm sites!G26 (Table 34)"
+2018,2018-01-31,Telstra,Very Remote Australia,accc,709,2. Total sites!B32 (Table 2),,,,,
+2019,2019-01-31,Telstra,Very Remote Australia,accc,761,2. Total sites!C32 (Table 2),,,,,
+2020,2020-01-31,Telstra,Very Remote Australia,accc,804,2. Total sites!D32 (Table 2),0.0,0,2. Total sites!M32 (Table 6),,
+2021,2021-01-31,Telstra,Very Remote Australia,accc,856,2. Total sites!E32 (Table 2),0.0,0,2. Total sites!N32 (Table 6),57,"4. New,co-funded & decomm sites!B27 (Table 34)"
+2022,2022-01-31,Telstra,Very Remote Australia,accc,898,2. Total sites!F32 (Table 2),0.222717,2,2. Total sites!O32 (Table 6),49,"4. New,co-funded & decomm sites!C27 (Table 34)"
+2023,2023-01-31,Telstra,Very Remote Australia,accc,924,2. Total sites!G32 (Table 2),2.272727,21,2. Total sites!P32 (Table 6),53,"4. New,co-funded & decomm sites!D27 (Table 34)"
+2024,2024-01-31,Telstra,Very Remote Australia,accc,966,2. Total sites!H32 (Table 2),4.140787,40,2. Total sites!Q32 (Table 6),47,"4. New,co-funded & decomm sites!E27 (Table 34)"
+2025,2025-01-31,Telstra,Very Remote Australia,accc,969,2. Total sites!I32 (Table 2),25.180599,244,2. Total sites!R32 (Table 6),52,"4. New,co-funded & decomm sites!F27 (Table 34)"
+2026,2026-01-31,Telstra,Very Remote Australia,accc,1026,2. Total sites!J32 (Table 2),29.62963,304,2. Total sites!S32 (Table 6),67,"4. New,co-funded & decomm sites!G27 (Table 34)"
+2018,2018-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!B33 (Table 2),,,,,
+2019,2019-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!C33 (Table 2),,,,,
+2020,2020-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!D33 (Table 2),,,,,
+2021,2021-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!E33 (Table 2),,,,,
+2022,2022-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!F33 (Table 2),,,,,
+2023,2023-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!G33 (Table 2),,,,,
+2024,2024-01-31,TPG,Very Remote Australia,accc,8,2. Total sites!H33 (Table 2),,,,,
+2025,2025-01-31,TPG,Very Remote Australia,accc,1,2. Total sites!I33 (Table 2),,,,,
+2026,2026-01-31,TPG,Very Remote Australia,accc,0,2. Total sites!J33 (Table 2),,,,,
+2018,2018-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!B34 (Table 2),,,,,
+2019,2019-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!C34 (Table 2),,,,,
+2020,2020-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!D34 (Table 2),,0,2. Total sites!M33 (Table 6),,
+2021,2021-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!E34 (Table 2),,0,2. Total sites!N33 (Table 6),,
+2022,2022-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!F34 (Table 2),,0,2. Total sites!O33 (Table 6),,
+2023,2023-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!G34 (Table 2),,0,2. Total sites!P33 (Table 6),,
+2024,2024-01-31,Optus-TPG MOCN,Very Remote Australia,accc,0,2. Total sites!H34 (Table 2),,0,2. Total sites!Q33 (Table 6),,
+2025,2025-01-31,Optus-TPG MOCN,Very Remote Australia,accc,89,2. Total sites!I34 (Table 2),10.11236,9,2. Total sites!R33 (Table 6),,
+2026,2026-01-31,Optus-TPG MOCN,Very Remote Australia,accc,90,2. Total sites!J34 (Table 2),15.555556,14,2. Total sites!S33 (Table 6),,

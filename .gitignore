@@ -1,0 +1,22 @@
+# Local backups, update packages and generated housekeeping files.
+*.bak
+*.zip
+*-checksums.json
+offline-data.js
+build_offline_bundle.mjs
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
+
+# The supplied assessment brief is not part of the public submission.
+/FIT3179 Data Visualisation 2_v1.2.pdf
+
+# Retired cartogram experiments are not used by the published story.
+/data/adii_cartogram_metrics.csv
+/data/adii_contiguous_cartograms.geojson
+/data/state_tile_layout.csv
+/scripts/build_cartogram.mjs
+/scripts/prepare_cartogram.py
+/scripts/validate_cartogram.py
+/scripts/cartogram/

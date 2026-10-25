@@ -1,0 +1,202 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 200,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "data": {
+    "url": "data/network_remoteness.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.year === 2026 && datum.operator !== 'Optus-TPG MOCN'"
+    },
+    {
+      "calculate": "replace(datum.remoteness, ' of Australia', '')",
+      "as": "area"
+    },
+    {
+      "calculate": "replace(datum.area, ' Australia', '')",
+      "as": "label"
+    },
+    {
+      "calculate": "isValid(datum.five_g_site_share) ? format(datum.five_g_site_share, '.0f') : 'n/a'",
+      "as": "cell_label"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "label",
+      "type": "nominal",
+      "sort": [
+        "Major Cities",
+        "Inner Regional",
+        "Outer Regional",
+        "Remote",
+        "Very Remote"
+      ],
+      "axis": {
+        "title": null,
+        "labelAngle": 0,
+        "labelLimit": 120,
+        "orient": "top"
+      }
+    },
+    "y": {
+      "field": "operator",
+      "type": "nominal",
+      "sort": [
+        "Telstra",
+        "Optus",
+        "TPG"
+      ],
+      "axis": {
+        "title": null,
+        "grid": false
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "cornerRadius": 2,
+        "stroke": "#fffefa",
+        "strokeWidth": 3
+      },
+      "encoding": {
+        "color": {
+          "field": "five_g_site_share",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "range": [
+              "#eef0e5",
+              "#225844"
+            ]
+          },
+          "legend": {
+            "title": "5G site share (%)",
+            "direction": "horizontal",
+            "gradientLength": 160
+          }
+        },
+        "tooltip": [
+          {
+            "field": "operator",
+            "title": "Operator",
+            "type": "nominal"
+          },
+          {
+            "field": "remoteness",
+            "title": "Remoteness",
+            "type": "nominal"
+          },
+          {
+            "field": "five_g_site_share",
+            "title": "5G site share (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "total_sites",
+            "title": "All site records",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "five_g_sites",
+            "title": "5G site records",
+            "type": "quantitative",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 12
+      },
+      "encoding": {
+        "text": {
+          "field": "cell_label",
+          "type": "nominal"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.five_g_site_share > 74",
+            "value": "white"
+          },
+          "value": "#101510"
+        }
+      }
+    }
+  ]
+}

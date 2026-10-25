@@ -1,0 +1,1116 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 340,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "data": {
+    "url": "data/phone_age_trends.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "isValid(datum.percent)"
+    },
+    {
+      "calculate": "datum.year === 2017 ? datum.percent : null",
+      "as": "baseline_value"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "max",
+          "field": "baseline_value",
+          "as": "baseline"
+        }
+      ],
+      "groupby": [
+        "group"
+      ]
+    },
+    {
+      "calculate": "datum.percent - datum.baseline",
+      "as": "change"
+    },
+    {
+      "calculate": "indexof([\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"],datum.group)",
+      "as": "row"
+    },
+    {
+      "calculate": "datum.row + 0.85",
+      "as": "baseline_y"
+    }
+  ],
+  "layer": [
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(1 * datum.change, 0) - 0, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#dce8d4",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(1 * datum.change, 0) - 20, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#acc8a1",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(1 * datum.change, 0) - 40, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#6c9c78",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(1 * datum.change, 0) - 60, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#225844",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(-1 * datum.change, 0) - 0, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#f2deca",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(-1 * datum.change, 0) - 20, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#dfb589",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(-1 * datum.change, 0) - 40, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#cc8854",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "calculate": "datum.row + 0.85 - 0.68 * clamp(max(-1 * datum.change, 0) - 60, 0, 20) / 20",
+          "as": "folded_y"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "color": "#b2592c",
+        "interpolate": "linear",
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2017,
+              2025.9
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "values": [
+              2017,
+              2019,
+              2021,
+              2023,
+              2025
+            ],
+            "format": "d",
+            "grid": false,
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "folded_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "y2": {
+          "field": "baseline_y"
+        },
+        "detail": {
+          "field": "group"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2025"
+        },
+        {
+          "calculate": "datum.row + 0.48",
+          "as": "label_y"
+        },
+        {
+          "calculate": "format(datum.change, '+.1f') + ' pp'",
+          "as": "change_label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "fontSize": 12
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "label_y",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              7,
+              0
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": null,
+            "grid": false,
+            "values": [
+              0.48,
+              1.48,
+              2.48,
+              3.48,
+              4.48,
+              5.48,
+              6.48
+            ],
+            "labelExpr": "[\"18-24\",\"25-34\",\"35-44\",\"45-54\",\"55-64\",\"65-74\",\"75+\"][floor(datum.value)]"
+          }
+        },
+        "text": {
+          "field": "change_label"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.change >= 0",
+            "value": "#225844"
+          },
+          "value": "#b2592c"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Age",
+            "type": "nominal"
+          },
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "percent",
+            "title": "Adults (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "baseline",
+            "title": "2017 baseline (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "change",
+            "title": "Change from 2017 (pp)",
+            "type": "quantitative",
+            "format": "+.1f"
+          },
+          {
+            "field": "base_n",
+            "title": "Unweighted base",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "small_base",
+            "title": "Base below 100 (1=yes)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    }
+  ]
+}

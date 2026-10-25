@@ -1,0 +1,37 @@
+year,reference_date,operator,geography,source_id,total_sites,total_sites_cell,five_g_site_share,five_g_sites,five_g_sites_cell,black_spot_sites,black_spot_sites_cell,new_sites,new_sites_cell
+2018,2018-01-31,Optus,Australia,accc,7335,2. Total sites!B3 (Table 1),,,,,,,
+2019,2019-01-31,Optus,Australia,accc,7712,2. Total sites!C3 (Table 1),,,,,,,
+2020,2020-01-31,Optus,Australia,accc,7980,2. Total sites!D3 (Table 1),5.338346,426,2. Total sites!M3 (Table 5),94,"4. New,co-funded & decomm sites!R3 (Table 40)",,
+2021,2021-01-31,Optus,Australia,accc,8238,2. Total sites!E3 (Table 1),12.260257,1010,2. Total sites!N3 (Table 5),105,"4. New,co-funded & decomm sites!S3 (Table 40)",337,"4. New,co-funded & decomm sites!B3 (Table 33)"
+2022,2022-01-31,Optus,Australia,accc,8632,2. Total sites!F3 (Table 1),22.381835,1932,2. Total sites!O3 (Table 5),143,"4. New,co-funded & decomm sites!T3 (Table 40)",436,"4. New,co-funded & decomm sites!C3 (Table 33)"
+2023,2023-01-31,Optus,Australia,accc,8821,2. Total sites!G3 (Table 1),32.932774,2905,2. Total sites!P3 (Table 5),174,"4. New,co-funded & decomm sites!U3 (Table 40)",363,"4. New,co-funded & decomm sites!D3 (Table 33)"
+2024,2024-01-31,Optus,Australia,accc,9201,2. Total sites!H3 (Table 1),43.886534,4038,2. Total sites!Q3 (Table 5),216,"4. New,co-funded & decomm sites!V3 (Table 40)",441,"4. New,co-funded & decomm sites!E3 (Table 33)"
+2025,2025-01-31,Optus,Australia,accc,9391,2. Total sites!I3 (Table 1),52.592908,4939,2. Total sites!R3 (Table 5),225,"4. New,co-funded & decomm sites!W3 (Table 40)",282,"4. New,co-funded & decomm sites!F3 (Table 33)"
+2026,2026-01-31,Optus,Australia,accc,9499,2. Total sites!J3 (Table 1),60.880093,5783,2. Total sites!S3 (Table 5),230,"4. New,co-funded & decomm sites!X3 (Table 40)",187,"4. New,co-funded & decomm sites!G3 (Table 33)"
+2018,2018-01-31,Telstra,Australia,accc,9429,2. Total sites!B4 (Table 1),,,,,,,
+2019,2019-01-31,Telstra,Australia,accc,9972,2. Total sites!C4 (Table 1),,,,,,,
+2020,2020-01-31,Telstra,Australia,accc,10451,2. Total sites!D4 (Table 1),7.626064,797,2. Total sites!M4 (Table 5),630,"4. New,co-funded & decomm sites!R4 (Table 40)",,
+2021,2021-01-31,Telstra,Australia,accc,10766,2. Total sites!E4 (Table 1),25.03251,2695,2. Total sites!N4 (Table 5),736,"4. New,co-funded & decomm sites!S4 (Table 40)",402,"4. New,co-funded & decomm sites!B4 (Table 33)"
+2022,2022-01-31,Telstra,Australia,accc,11002,2. Total sites!F4 (Table 1),37.002363,4071,2. Total sites!O4 (Table 5),788,"4. New,co-funded & decomm sites!T4 (Table 40)",311,"4. New,co-funded & decomm sites!C4 (Table 33)"
+2023,2023-01-31,Telstra,Australia,accc,11302,2. Total sites!G4 (Table 1),40.337993,4559,2. Total sites!P4 (Table 5),809,"4. New,co-funded & decomm sites!U4 (Table 40)",517,"4. New,co-funded & decomm sites!D4 (Table 33)"
+2024,2024-01-31,Telstra,Australia,accc,11707,2. Total sites!H4 (Table 1),43.409926,5082,2. Total sites!Q4 (Table 5),829,"4. New,co-funded & decomm sites!V4 (Table 40)",485,"4. New,co-funded & decomm sites!E4 (Table 33)"
+2025,2025-01-31,Telstra,Australia,accc,11767,2. Total sites!I4 (Table 1),54.567859,6421,2. Total sites!R4 (Table 5),875,"4. New,co-funded & decomm sites!W4 (Table 40)",413,"4. New,co-funded & decomm sites!F4 (Table 33)"
+2026,2026-01-31,Telstra,Australia,accc,12175,2. Total sites!J4 (Table 1),59.983573,7303,2. Total sites!S4 (Table 5),882,"4. New,co-funded & decomm sites!X4 (Table 40)",496,"4. New,co-funded & decomm sites!G4 (Table 33)"
+2018,2018-01-31,TPG,Australia,accc,5422,2. Total sites!B5 (Table 1),,,,,,,
+2019,2019-01-31,TPG,Australia,accc,5608,2. Total sites!C5 (Table 1),,,,,,,
+2020,2020-01-31,TPG,Australia,accc,5675,2. Total sites!D5 (Table 1),0.0,0,2. Total sites!M5 (Table 5),60,"4. New,co-funded & decomm sites!R5 (Table 40)",,
+2021,2021-01-31,TPG,Australia,accc,5892,2. Total sites!E5 (Table 1),2.766463,163,2. Total sites!N5 (Table 5),60,"4. New,co-funded & decomm sites!S5 (Table 40)",261,"4. New,co-funded & decomm sites!B5 (Table 33)"
+2022,2022-01-31,TPG,Australia,accc,5728,2. Total sites!F5 (Table 1),17.964385,1029,2. Total sites!O5 (Table 5),59,"4. New,co-funded & decomm sites!T5 (Table 40)",53,"4. New,co-funded & decomm sites!C5 (Table 33)"
+2023,2023-01-31,TPG,Australia,accc,5769,2. Total sites!G5 (Table 1),35.760097,2063,2. Total sites!P5 (Table 5),59,"4. New,co-funded & decomm sites!U5 (Table 40)",80,"4. New,co-funded & decomm sites!D5 (Table 33)"
+2024,2024-01-31,TPG,Australia,accc,5712,2. Total sites!H5 (Table 1),53.396359,3050,2. Total sites!Q5 (Table 5),61,"4. New,co-funded & decomm sites!V5 (Table 40)",100,"4. New,co-funded & decomm sites!E5 (Table 33)"
+2025,2025-01-31,TPG,Australia,accc,5207,2. Total sites!I5 (Table 1),72.191281,3759,2. Total sites!R5 (Table 5),64,"4. New,co-funded & decomm sites!W5 (Table 40)",118,"4. New,co-funded & decomm sites!F5 (Table 33)"
+2026,2026-01-31,TPG,Australia,accc,5262,2. Total sites!J5 (Table 1),80.349677,4228,2. Total sites!S5 (Table 5),64,"4. New,co-funded & decomm sites!X5 (Table 40)",118,"4. New,co-funded & decomm sites!G5 (Table 33)"
+2018,2018-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!B6 (Table 1),,,,,,,
+2019,2019-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!C6 (Table 1),,,,,,,
+2020,2020-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!D6 (Table 1),,0,2. Total sites!M6 (Table 5),,,,
+2021,2021-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!E6 (Table 1),,0,2. Total sites!N6 (Table 5),,,,
+2022,2022-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!F6 (Table 1),,0,2. Total sites!O6 (Table 5),,,,
+2023,2023-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!G6 (Table 1),,0,2. Total sites!P6 (Table 5),,,,
+2024,2024-01-31,Optus-TPG MOCN,Australia,accc,0,2. Total sites!H6 (Table 1),,0,2. Total sites!Q6 (Table 5),,,,
+2025,2025-01-31,Optus-TPG MOCN,Australia,accc,2443,2. Total sites!I6 (Table 1),18.460909,451,2. Total sites!R6 (Table 5),,,,
+2026,2026-01-31,Optus-TPG MOCN,Australia,accc,2549,2. Total sites!J6 (Table 1),29.894076,762,2. Total sites!S6 (Table 5),,,,

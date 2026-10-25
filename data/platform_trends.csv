@@ -1,0 +1,156 @@
+year,platform,percent,base_n,response_n,status,small_base,source_id,source_sheet,source_cell
+2021,Facebook,75.05677,3586,2588,published,0,acma_communication,QE2. Which we by Study year,B3
+2022,Facebook,70.676902,3580,2428,published,0,acma_communication,QE2. Which we by Study year,C3
+2023,Facebook,75.165064,3572,2622,published,0,acma_communication,QE2. Which we by Study year,D3
+2024,Facebook,77.602715,3530,2751,published,0,acma_communication,QE2. Which we by Study year,E3
+2025,Facebook,78.487145,5990,4755,published,0,acma_communication,QE2. Which we by Study year,F3
+2021,YouTube,73.038648,3586,2489,published,0,acma_communication,QE2. Which we by Study year,B9
+2022,YouTube,65.309503,3580,2205,published,0,acma_communication,QE2. Which we by Study year,C9
+2023,YouTube,75.265921,3572,2578,published,0,acma_communication,QE2. Which we by Study year,D9
+2024,YouTube,70.019696,3530,2415,published,0,acma_communication,QE2. Which we by Study year,E9
+2025,YouTube,71.306456,5990,4243,published,0,acma_communication,QE2. Which we by Study year,F9
+2021,Facebook Messenger,70.253357,3586,2398,published,0,acma_communication,QE2. Which we by Study year,B15
+2022,Facebook Messenger,67.518878,3580,2255,published,0,acma_communication,QE2. Which we by Study year,C15
+2023,Facebook Messenger,71.731907,3572,2468,published,0,acma_communication,QE2. Which we by Study year,D15
+2024,Facebook Messenger,74.146048,3530,2628,published,0,acma_communication,QE2. Which we by Study year,E15
+2025,Facebook Messenger,71.183425,5990,4364,published,0,acma_communication,QE2. Which we by Study year,F15
+2021,WhatsApp,43.681556,3586,1585,published,0,acma_communication,QE2. Which we by Study year,B21
+2022,WhatsApp,42.760667,3580,1575,published,0,acma_communication,QE2. Which we by Study year,C21
+2023,WhatsApp,50.505344,3572,1874,published,0,acma_communication,QE2. Which we by Study year,D21
+2024,WhatsApp,54.236787,3530,2034,published,0,acma_communication,QE2. Which we by Study year,E21
+2025,WhatsApp,55.177028,5990,3360,published,0,acma_communication,QE2. Which we by Study year,F21
+2021,Instagram,44.445762,3586,1397,published,0,acma_communication,QE2. Which we by Study year,B27
+2022,Instagram,41.227704,3580,1223,published,0,acma_communication,QE2. Which we by Study year,C27
+2023,Instagram,47.604651,3572,1538,published,0,acma_communication,QE2. Which we by Study year,D27
+2024,Instagram,50.143219,3530,1680,published,0,acma_communication,QE2. Which we by Study year,E27
+2025,Instagram,53.449509,5990,3305,published,0,acma_communication,QE2. Which we by Study year,F27
+2021,FaceTime,30.245376,3586,1081,published,0,acma_communication,QE2. Which we by Study year,B33
+2022,FaceTime,27.364574,3580,964,published,0,acma_communication,QE2. Which we by Study year,C33
+2023,FaceTime,34.784241,3572,1231,published,0,acma_communication,QE2. Which we by Study year,D33
+2024,FaceTime,37.28382,3530,1351,published,0,acma_communication,QE2. Which we by Study year,E33
+2025,FaceTime,36.942124,5990,2242,published,0,acma_communication,QE2. Which we by Study year,F33
+2021,TikTok,15.176262,3586,398,published,0,acma_communication,QE2. Which we by Study year,B39
+2022,TikTok,17.077795,3580,412,published,0,acma_communication,QE2. Which we by Study year,C39
+2023,TikTok,20.616408,3572,554,published,0,acma_communication,QE2. Which we by Study year,D39
+2024,TikTok,26.683437,3530,750,published,0,acma_communication,QE2. Which we by Study year,E39
+2025,TikTok,30.344598,5990,1789,published,0,acma_communication,QE2. Which we by Study year,F39
+2021,Reddit,14.833908,3586,403,published,0,acma_communication,QE2. Which we by Study year,B45
+2022,Reddit,16.516887,3580,392,published,0,acma_communication,QE2. Which we by Study year,C45
+2023,Reddit,19.617984,3572,546,published,0,acma_communication,QE2. Which we by Study year,D45
+2024,Reddit,21.842418,3530,648,published,0,acma_communication,QE2. Which we by Study year,E45
+2025,Reddit,24.801838,5990,1484,published,0,acma_communication,QE2. Which we by Study year,F45
+2021,LinkedIn,22.578776,3586,831,published,0,acma_communication,QE2. Which we by Study year,B51
+2022,LinkedIn,17.833229,3580,657,published,0,acma_communication,QE2. Which we by Study year,C51
+2023,LinkedIn,23.596637,3572,847,published,0,acma_communication,QE2. Which we by Study year,D51
+2024,LinkedIn,23.6541,3530,867,published,0,acma_communication,QE2. Which we by Study year,E51
+2025,LinkedIn,23.565398,5990,1493,published,0,acma_communication,QE2. Which we by Study year,F51
+2021,Snapchat,20.213118,3586,524,published,0,acma_communication,QE2. Which we by Study year,B57
+2022,Snapchat,17.267697,3580,399,published,0,acma_communication,QE2. Which we by Study year,C57
+2023,Snapchat,18.940387,3572,476,published,0,acma_communication,QE2. Which we by Study year,D57
+2024,Snapchat,24.009967,3530,647,published,0,acma_communication,QE2. Which we by Study year,E57
+2025,Snapchat,21.046716,5990,1231,published,0,acma_communication,QE2. Which we by Study year,F57
+2021,Pinterest,19.275564,3586,709,published,0,acma_communication,QE2. Which we by Study year,B63
+2022,Pinterest,14.878231,3580,533,published,0,acma_communication,QE2. Which we by Study year,C63
+2023,Pinterest,17.431789,3572,664,published,0,acma_communication,QE2. Which we by Study year,D63
+2024,Pinterest,16.777388,3530,627,published,0,acma_communication,QE2. Which we by Study year,E63
+2025,Pinterest,19.506755,5990,1284,published,0,acma_communication,QE2. Which we by Study year,F63
+2021,X,16.223071,3586,541,published,0,acma_communication,QE2. Which we by Study year,B69
+2022,X,17.032147,3580,532,published,0,acma_communication,QE2. Which we by Study year,C69
+2023,X,18.071703,3572,556,published,0,acma_communication,QE2. Which we by Study year,D69
+2024,X,15.990552,3530,490,published,0,acma_communication,QE2. Which we by Study year,E69
+2025,X,13.831509,5990,740,published,0,acma_communication,QE2. Which we by Study year,F69
+2021,Discord,9.68446,3586,216,published,0,acma_communication,QE2. Which we by Study year,B75
+2022,Discord,10.018587,3580,196,published,0,acma_communication,QE2. Which we by Study year,C75
+2023,Discord,13.281159,3572,288,published,0,acma_communication,QE2. Which we by Study year,D75
+2024,Discord,13.377021,3530,329,published,0,acma_communication,QE2. Which we by Study year,E75
+2025,Discord,13.154322,5990,638,published,0,acma_communication,QE2. Which we by Study year,F75
+2021,Telegram,4.784211,3586,124,published,0,acma_communication,QE2. Which we by Study year,B81
+2022,Telegram,4.767526,3580,142,published,0,acma_communication,QE2. Which we by Study year,C81
+2023,Telegram,6.379049,3572,179,published,0,acma_communication,QE2. Which we by Study year,D81
+2024,Telegram,7.020119,3530,220,published,0,acma_communication,QE2. Which we by Study year,E81
+2025,Telegram,9.393706,5990,518,published,0,acma_communication,QE2. Which we by Study year,F81
+2021,Threads,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B87
+2022,Threads,,3580,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,C87
+2023,Threads,,3572,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,D87
+2024,Threads,4.133589,3530,133,published,0,acma_communication,QE2. Which we by Study year,E87
+2025,Threads,7.773133,5990,467,published,0,acma_communication,QE2. Which we by Study year,F87
+2021,WeChat,4.250044,3586,112,published,0,acma_communication,QE2. Which we by Study year,B93
+2022,WeChat,3.9573,3580,102,published,0,acma_communication,QE2. Which we by Study year,C93
+2023,WeChat,4.895089,3572,112,published,0,acma_communication,QE2. Which we by Study year,D93
+2024,WeChat,4.928611,3530,130,published,0,acma_communication,QE2. Which we by Study year,E93
+2025,WeChat,5.651223,5990,290,published,0,acma_communication,QE2. Which we by Study year,F93
+2021,Twitch,5.45725,3586,121,published,0,acma_communication,QE2. Which we by Study year,B99
+2022,Twitch,4.140756,3580,76,published,0,acma_communication,QE2. Which we by Study year,C99
+2023,Twitch,5.7543,3572,123,published,0,acma_communication,QE2. Which we by Study year,D99
+2024,Twitch,5.430513,3530,123,published,0,acma_communication,QE2. Which we by Study year,E99
+2025,Twitch,5.194043,5990,263,published,0,acma_communication,QE2. Which we by Study year,F99
+2021,Signal,4.496978,3586,174,published,0,acma_communication,QE2. Which we by Study year,B105
+2022,Signal,4.370689,3580,151,published,0,acma_communication,QE2. Which we by Study year,C105
+2023,Signal,5.396783,3572,188,published,0,acma_communication,QE2. Which we by Study year,D105
+2024,Signal,4.976635,3530,190,published,0,acma_communication,QE2. Which we by Study year,E105
+2025,Signal,5.175675,5990,332,published,0,acma_communication,QE2. Which we by Study year,F105
+2021,Viber,5.140049,3586,162,published,0,acma_communication,QE2. Which we by Study year,B111
+2022,Viber,3.349999,3580,115,published,0,acma_communication,QE2. Which we by Study year,C111
+2023,Viber,2.678686,3572,90,published,0,acma_communication,QE2. Which we by Study year,D111
+2024,Viber,2.784592,3530,91,published,0,acma_communication,QE2. Which we by Study year,E111
+2025,Viber,3.620657,5990,197,published,0,acma_communication,QE2. Which we by Study year,F111
+2021,Tumblr,2.851438,3586,77,published,0,acma_communication,QE2. Which we by Study year,B117
+2022,Tumblr,3.005259,3580,61,published,0,acma_communication,QE2. Which we by Study year,C117
+2023,Tumblr,2.712127,3572,75,published,0,acma_communication,QE2. Which we by Study year,D117
+2024,Tumblr,3.128524,3530,85,published,0,acma_communication,QE2. Which we by Study year,E117
+2025,Tumblr,3.17407,5990,164,published,0,acma_communication,QE2. Which we by Study year,F117
+2021,BlueSkye,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B123
+2022,BlueSkye,,3580,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,C123
+2023,BlueSkye,,3572,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,D123
+2024,BlueSkye,0.530621,3530,17,published,0,acma_communication,QE2. Which we by Study year,E123
+2025,BlueSkye,2.804772,5990,182,published,0,acma_communication,QE2. Which we by Study year,F123
+2021,LINE,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B129
+2022,LINE,2.123526,3580,52,published,0,acma_communication,QE2. Which we by Study year,C129
+2023,LINE,2.534037,3572,67,published,0,acma_communication,QE2. Which we by Study year,D129
+2024,LINE,2.176147,3530,64,published,0,acma_communication,QE2. Which we by Study year,E129
+2025,LINE,2.321687,5990,120,published,0,acma_communication,QE2. Which we by Study year,F129
+2021,I haven't used websites or apps in the past 6 months.,4.021989,3586,167,published,0,acma_communication,QE2. Which we by Study year,B135
+2022,I haven't used websites or apps in the past 6 months.,4.700244,3580,212,published,0,acma_communication,QE2. Which we by Study year,C135
+2023,I haven't used websites or apps in the past 6 months.,3.011361,3572,134,published,0,acma_communication,QE2. Which we by Study year,D135
+2024,I haven't used websites or apps in the past 6 months.,1.975776,3530,76,published,0,acma_communication,QE2. Which we by Study year,E135
+2025,I haven't used websites or apps in the past 6 months.,2.042958,5990,120,published,0,acma_communication,QE2. Which we by Study year,F135
+2021,RedNote,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B141
+2022,RedNote,,3580,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,C141
+2023,RedNote,,3572,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,D141
+2024,RedNote,,3530,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,E141
+2025,RedNote,1.449526,5990,82,published,0,acma_communication,QE2. Which we by Study year,F141
+2021,BeReal,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B147
+2022,BeReal,,3580,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,C147
+2023,BeReal,3.173116,3572,77,published,0,acma_communication,QE2. Which we by Study year,D147
+2024,BeReal,1.546986,3530,37,published,0,acma_communication,QE2. Which we by Study year,E147
+2025,BeReal,1.441137,5990,78,published,0,acma_communication,QE2. Which we by Study year,F147
+2021,Some other website or app (please specify),1.771854,3586,68,published,0,acma_communication,QE2. Which we by Study year,B153
+2022,Some other website or app (please specify),1.100987,3580,55,published,0,acma_communication,QE2. Which we by Study year,C153
+2023,Some other website or app (please specify),1.484297,3572,70,published,0,acma_communication,QE2. Which we by Study year,D153
+2024,Some other website or app (please specify),1.52806,3530,58,published,0,acma_communication,QE2. Which we by Study year,E153
+2025,Some other website or app (please specify),0.947833,5990,56,published,0,acma_communication,QE2. Which we by Study year,F153
+2021,Rumble,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B159
+2022,Rumble,,3580,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,C159
+2023,Rumble,,3572,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,D159
+2024,Rumble,,3530,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,E159
+2025,Rumble,0.902195,5990,52,published,0,acma_communication,QE2. Which we by Study year,F159
+2021,Truth Social,,3586,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,B165
+2022,Truth Social,,3580,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,C165
+2023,Truth Social,0.354759,3572,9,published,0,acma_communication,QE2. Which we by Study year,D165
+2024,Truth Social,0.206036,3530,6,published,0,acma_communication,QE2. Which we by Study year,E165
+2025,Truth Social,0.829804,5990,44,published,0,acma_communication,QE2. Which we by Study year,F165
+2021,Clubhouse,0.406692,3586,14,published,0,acma_communication,QE2. Which we by Study year,B177
+2022,Clubhouse,0.322885,3580,10,published,0,acma_communication,QE2. Which we by Study year,C177
+2023,Clubhouse,0.070034,3572,3,published,0,acma_communication,QE2. Which we by Study year,D177
+2024,Clubhouse,0.105102,3530,6,published,0,acma_communication,QE2. Which we by Study year,E177
+2025,Clubhouse,0.5027,5990,37,published,0,acma_communication,QE2. Which we by Study year,F177
+2021,Refused,0.123787,3586,4,published,0,acma_communication,QE2. Which we by Study year,B183
+2022,Refused,0.112938,3580,3,published,0,acma_communication,QE2. Which we by Study year,C183
+2023,Refused,0.051336,3572,2,published,0,acma_communication,QE2. Which we by Study year,D183
+2024,Refused,,3530,0,zero_or_not_asked,0,acma_communication,QE2. Which we by Study year,E183
+2025,Refused,0.049512,5990,2,published,0,acma_communication,QE2. Which we by Study year,F183
+2021,Don't know,0.267192,3586,11,published,0,acma_communication,QE2. Which we by Study year,B285
+2022,Don't know,0.103829,3580,4,published,0,acma_communication,QE2. Which we by Study year,C285
+2023,Don't know,0.098271,3572,2,published,0,acma_communication,QE2. Which we by Study year,D285
+2024,Don't know,0.030295,3530,3,published,0,acma_communication,QE2. Which we by Study year,E285
+2025,Don't know,0.091846,5990,5,published,0,acma_communication,QE2. Which we by Study year,F285

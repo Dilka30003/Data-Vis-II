@@ -1,0 +1,64 @@
+year,device,age_group,frequency,percent,base_n,response_n,weighted_count,weighted_base,source_id,source_sheet,source_cell,method
+2025,Mobile phone,18-24,Multiple times a day,98.577887,179,176,393.8430616883,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,B7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Multiple times a day,99.34852,480,475,652.6356004069,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,C7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Multiple times a day,95.17036,695,671,596.730639552,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,D7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Multiple times a day,93.663389,611,580,497.766061463,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,E7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Multiple times a day,89.337685,570,514,444.8363152626,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,F7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Multiple times a day,77.081427,600,491,369.6714521338,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,G7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Multiple times a day,72.325879,306,223,179.801995539,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,H7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Once a day,0.947636,179,2,3.786041025352,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,J7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Once a day,0.342733,480,3,2.251466150196,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,K7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Once a day,2.810189,695,13,17.62025621531,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,L7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Once a day,3.40707,611,17,18.10658391331,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,M7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Once a day,2.715115,570,16,13.51928713114,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,N7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Once a day,8.312049,600,36,39.86339151157,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,O7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Once a day,7.110399,306,22,17.67643797789,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,P7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Several times a week,0.0,179,0,0,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,R7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Several times a week,0.308747,480,2,2.028206084691,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,S7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Several times a week,0.750102,695,4,4.703236849488,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,T7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Several times a week,2.637136,611,12,14.01483450427,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,U7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Several times a week,4.583109,570,24,22.82052771141,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,V7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Several times a week,8.104978,600,47,38.87031137233,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,W7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Several times a week,12.860004,306,39,31.96994492608,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,X7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Weekly,0.0,179,0,0,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,Z7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Weekly,0.0,480,0,0,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,AA7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Weekly,0.761417,695,3,4.774182822519,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,AB7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Weekly,0.078404,611,1,0.4166694833429,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,AC7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Weekly,1.615506,570,7,8.044039892653,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,AD7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Weekly,3.022813,600,13,14.49697770956,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,AE7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Weekly,2.656968,306,7,6.605217598158,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,AF7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Fortnightly,0.0,179,0,0,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,AH7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Fortnightly,0.0,480,0,0,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,AI7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Fortnightly,0.216209,695,1,1.355658898609,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,AJ7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Fortnightly,0.0,611,0,0,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,AK7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Fortnightly,0.334349,570,1,1.664811971931,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,AL7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Fortnightly,0.815995,600,3,3.91339373566,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,AM7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Fortnightly,0.284633,306,2,0.707597020774,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,AN7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Monthly,0.0,179,0,0,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,AP7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Monthly,0.0,480,0,0,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,AQ7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Monthly,0.242561,695,2,1.520886781754,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,AR7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Monthly,0.0,611,0,0,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,AS7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Monthly,0.434538,570,2,2.163683135136,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,AT7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Monthly,1.716469,600,4,8.231938601153,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,AU7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Monthly,1.573496,306,4,3.911708848505,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,AV7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Less often than monthly,0.474477,179,1,1.895654370872,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,AX7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Less often than monthly,0.0,480,0,0,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,AY7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Less often than monthly,0.049162,695,1,0.308252394563,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,AZ7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Less often than monthly,0.214001,611,1,1.137288813161,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,BA7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Less often than monthly,0.82277,570,5,4.096795200371,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,BB7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Less often than monthly,0.946269,600,6,4.538169513264,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,BC7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Less often than monthly,2.886696,306,7,7.176321892673,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,BD7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Refused / prefer not to say,0.0,179,0,0,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,BV7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Refused / prefer not to say,0.0,480,0,0,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,BW7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Refused / prefer not to say,0.0,695,0,0,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,BX7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Refused / prefer not to say,0.0,611,0,0,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,BY7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Refused / prefer not to say,0.0,570,0,0,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,BZ7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Refused / prefer not to say,0.0,600,0,0,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,CA7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Refused / prefer not to say,0.0,306,0,0,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,CB7/CZ7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,18-24,Don't know,0.0,179,0,0,399.5247570845,acma_internet,QD6. How ofte by Age (consolida,CD7/CT7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,25-34,Don't know,0.0,480,0,0,656.9152726418,acma_internet,QD6. How ofte by Age (consolida,CE7/CU7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,35-44,Don't know,0.0,695,0,0,627.0131135142,acma_internet,QD6. How ofte by Age (consolida,CF7/CV7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,45-54,Don't know,0.0,611,0,0,531.4414381771,acma_internet,QD6. How ofte by Age (consolida,CG7/CW7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,55-64,Don't know,0.156928,570,1,0.7813859789947,497.9268462843,acma_internet,QD6. How ofte by Age (consolida,CH7/CX7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,65-74,Don't know,0.0,600,0,0,479.5856345774,acma_internet,QD6. How ofte by Age (consolida,CI7/CY7,weighted_count / weighted_age_NET * 100
+2025,Mobile phone,75+,Don't know,0.301924,306,2,0.7505831326304,248.5998069357,acma_internet,QD6. How ofte by Age (consolida,CJ7/CZ7,weighted_count / weighted_age_NET * 100

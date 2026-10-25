@@ -1,0 +1,502 @@
+<!doctype html>
+<html lang="en-AU">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description"
+    content="An Australian data story about mobile-phone internet use, everyday online habits, network geography and digital inclusion. Explore Vega-Lite charts and follow links to the original data sources.">
+  <link rel="icon" href="data:,">
+  <title>Australia in our pockets | Smartphone usage</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;600;650;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20261024-rubric">
+  <script src="vendor/vega.min.js" defer></script>
+  <script src="vendor/vega-lite.min.js" defer></script>
+  <script src="vendor/vega-embed.min.js" defer></script>
+  <script src="app.js?v=20261025-hosted" defer></script>
+</head>
+
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="#">AUSTRALIA IN OUR POCKETS</a>
+    <nav aria-label="Story chapters">
+      <a href="#adoption">The shift</a><a href="#habits">Our habits</a><a href="#geography">The network</a><a
+        href="#access">The divide</a>
+    </nav>
+    <a class="data-nav" href="#data">Sources <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="hero wrap" aria-labelledby="title">
+      <div class="hero-copy">
+        <h1 id="title">A nation<br>in our <span>pockets.</span></h1>
+        <p class="hero-question">Phones are almost universal.<br>Is digital participation equally within reach?</p>
+        <p class="hero-lede">Follow Australia's shift to mobile internet, the differences in our online habits,
+          and the access barriers that a phone alone cannot solve.</p>
+        <a class="story-link" href="#adoption">Follow the story <span aria-hidden="true">↓</span></a>
+      </div>
+      <aside class="hero-fact">
+        <p class="mini-label">THE PHONE IS OUR FRONT DOOR TO THE INTERNET</p>
+        <div class="big-number"><span id="hero-value">97</span><span class="percent-sign">%</span></div>
+        <p class="fact-desc">of Australian adults used a mobile phone to go
+          online in 2025.</p>
+        <div id="hero-waffle" class="chart waffle" role="img"
+          aria-label="97 out of 100 adults used a mobile phone for internet access, rounded from 97.1 percent."></div>
+      </aside>
+    </section>
+
+    <section id="adoption" class="chapter wrap">
+      <div class="chapter-intro">
+        <p class="eyebrow">THE SHIFT</p>
+        <h2>From an
+          option<br>to almost everyone.</h2>
+        <p>In 2017, three in four adults
+          used a phone to get online. By 2025, it was nearly universal. The
+          biggest change is not among the youngest adults, but those who
+          started further behind.</p>
+      </div>
+      <article class="figure wide">
+        <div class="figure-header">
+          <div>
+            <h3>The mobile phone pulled
+              ahead</h3>
+            <p>Devices used to access the internet, Australian
+              adults (%).</p>
+          </div><label class="select-label" for="device-view">Compare with<select id="device-view">
+              <option value="core">Phones, Computers &amp; Tablets</option>
+              <option value="all">All Devices</option>
+            </select></label>
+        </div>
+        <div id="device-trend" class="chart"></div>
+        <p class="chart-insight"><strong>The shift is to mobile:</strong> phone internet use rose from about three in four adults in 2017 to almost everyone in 2025.</p>
+      </article>
+      <div class="two-col">
+        <article class="figure">
+          <div class="figure-header">
+            <div>
+              <h3>The age
+                gap narrowed</h3>
+              <p>Mobile-phone internet use by age (% of
+                each age group).</p>
+            </div>
+          </div>
+          <div class="legend"><span><i class="key" style="--key:#b0b5a6"></i>2017</span><span><i class="key"
+                style="--key:#225844"></i>2025</span></div>
+          <div id="age-change" class="chart"></div>
+          <p class="chart-insight"><strong>The biggest catch-up:</strong> among adults aged 75+, use rose from 18.3% to 88.1%, a gain of 69.7 percentage points.</p>
+        </article>
+        <article class="figure">
+          <div class="figure-header">
+            <div>
+              <h3>Connected
+                throughout the day</h3>
+              <p>Frequency among mobile-phone
+                internet users, 2025 (%).</p>
+            </div>
+          </div>
+          <div class="legend"><span><i class="key" style="--key:#225844"></i>Multiple times a day</span><span><i
+                class="key" style="--key:#d58a43"></i>Once a
+              day</span><span><i class="key" style="--key:#d7d8ca"></i>Less
+              often / unsure</span></div>
+          <div id="age-frequency" class="chart"></div>
+        </article>
+      </div>
+      <article class="figure wide advanced-figure">
+        <div class="figure-header">
+          <div><h3>Different generations,
+              different journeys</h3>
+              <p>Change in mobile-phone internet use
+                from each age group's own 2017 baseline, in percentage
+                points.</p>
+          </div>
+        </div>
+        <div class="horizon-legend"><span>Gains:</span><i style="background:#dce8d4"></i><span>0–20 pp</span><i
+            style="background:#acc8a1"></i><span>20–40</span><i style="background:#6c9c78"></i><span>40–60</span><i
+            style="background:#225844"></i><span>60–80</span><span class="negative-key"><i
+              style="background:#dfb589"></i> Falls use
+            orange</span></div>
+        <div id="age-horizon" class="chart"></div>
+        <p class="chart-insight"><strong>Small gains do not mean low use:</strong> younger groups were already near the ceiling in 2017; older groups had much further to move.</p>
+      </article>
+      <div class="chapter-takeaway"><p><strong>A shared doorway, different starting points.</strong> The age gap narrowed sharply, but access to a phone does not tell us what people do online.</p></div>
+    </section>
+
+    <section id="habits" class="chapter habits">
+      <div class="wrap">
+        <div class="chapter-intro">
+          <p class="eyebrow">OUR
+            HABITS</p>
+          <h2>Same connection.<br>Different digital
+            lives.</h2>
+          <p>Online habits are not uniform across generations.
+            These views put phone use into context: websites, apps and
+            activities may happen on a computer or tablet as well as a
+            phone.</p>
+        </div>
+        <article class="figure wide">
+          <div class="figure-header">
+            <div>
+              <h3>A
+                generation gap in the app
+                drawer</h3>
+              <p>Selected websites/apps used in the past six
+                months, 2025 (% of each age group).</p>
+            </div>
+          </div>
+          <div id="platform-heatmap" class="chart heatmap"></div>
+          <p class="chart-insight"><strong>A wider gap for Instagram:</strong> 81.6% of 18–24-year-olds used it, compared with 13.7% of adults aged 75+. These are all-device figures, not phone-only activity.</p>
+        </article>
+        <div class="two-col">
+          <article class="figure">
+            <div class="figure-header">
+              <div>
+                <h3>The home
+                  phone
+                  faded</h3>
+                <p>Communication services used, 2019 compared with
+                  2025 (% of adults).</p>
+              </div>
+            </div>
+            <div id="communication-change" class="chart"></div>
+          </article>
+          <article class="figure">
+            <div class="figure-header">
+              <div>
+                <h3>Used
+                  once, or used
+                  recently?</h3>
+                <p>Selected platform use, 2025 (% of
+                  adults).</p>
+              </div>
+            </div>
+            <div class="legend"><span><i class="key" style="--key:#b0b5a6"></i>Past six
+                months</span><span><i class="key" style="--key:#b2592c"></i>Past seven days</span></div>
+            <div id="platform-recall" class="chart"></div>
+          </article>
+        </div>
+        <article class="figure wide">
+          <div class="figure-header">
+            <div>
+              <h3>Being
+                online opens doors
+                beyond social media</h3>
+              <p>Online activities in the previous
+                six months, 2025 (% of adults).</p>
+            </div>
+          </div>
+          <div id="activities" class="chart"></div>
+        </article>
+        <article class="figure wide advanced-figure">
+          <div class="figure-header">
+            <div>
+              <h3>Which platforms moved up the
+                order?</h3>
+              <p>Rank by six-month use among eight selected
+                platforms, 2021–2025. Rank 1 is the most used.</p>
+            </div><label class="select-label" for="platform-focus">Highlight a
+              platform<select id="platform-focus">
+                <option value="All eight">All Platforms</option>
+                <option>Facebook</option>
+                <option>YouTube</option>
+                <option>Facebook
+                  Messenger</option>
+                <option>WhatsApp</option>
+                <option>Instagram</option>
+                <option>TikTok</option>
+                <option>Snapchat</option>
+                <option>Reddit</option>
+              </select></label>
+          </div>
+          <p class="how-to-read">Follow a platform's name at the right edge. Upward movement means a higher rank within these eight platforms, not a larger usage gap.</p>
+          <div id="platform-bump" class="chart"></div>
+          <p class="chart-insight"><strong>Stable leaders, changing order:</strong> Facebook leads in four of the five years; YouTube takes first place in 2023.</p>
+        </article>
+        <div class="chapter-takeaway"><p><strong>Being online is not one shared experience.</strong> Generations use different mixes of apps and services. Those experiences also depend on a physical network.</p></div>
+      </div>
+    </section>
+
+    <section id="geography" class="chapter wrap">
+      <div class="chapter-intro">
+        <p class="eyebrow">THE NETWORK</p>
+        <h2>A
+          big country.<br>An uneven network.</h2>
+        <p>Our phones depend on
+          physical infrastructure. Explore where network records are located
+          and how the mix of 5G-enabled sites differs. Site counts and site
+          shares do not measure signal coverage, speed or smartphone
+          use.</p>
+      </div>
+      <div class="network-toolbar"><label for="operator">Explore an
+          operator<select id="operator">
+            <option>Telstra</option>
+            <option>Optus</option>
+            <option>TPG</option>
+          </select></label></div>
+      <div class="two-col maps">
+        <article class="figure">
+          <div class="figure-header">
+            <div>
+              <h3>The share of
+                sites with 5G</h3>
+              <p>5G-enabled sites as a percentage of the
+                operator's sites.</p>
+            </div>
+          </div>
+          <div id="network-choropleth" class="chart map"></div>
+          <p class="chart-insight dynamic-insight" id="network-insight" aria-live="polite"></p>
+        </article>
+        <article class="figure">
+          <div class="figure-header">
+            <div>
+              <h3>Black Spot Program site records by state</h3>
+              <p>Mobile Black Spot Program site records by
+                state/territory.</p>
+            </div>
+          </div>
+          <div id="network-symbols" class="chart map"></div>
+        </article>
+      </div>
+      <details class="map-table">
+        <summary>See exact state values for the
+          selected operator</summary>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th>State</th>
+                <th>All
+                  sites</th>
+                <th>5G sites</th>
+                <th>5G share</th>
+                <th>Black Spot
+                  Program sites</th>
+              </tr>
+            </thead>
+            <tbody id="network-table"></tbody>
+          </table>
+        </div>
+      </details>
+      <article class="figure wide site-figure">
+        <div class="figure-header">
+          <div>
+            <h3>Zooming in: the network beneath
+              Victoria</h3>
+            <p>Telstra site records with coordinates inside a
+              generalised Victoria boundary, 2026.</p>
+          </div><label class="select-label" for="site-filter">Show site records<select id="site-filter">
+              <option value="all">All
+                technologies</option>
+              <option value="5g">5G band
+                present</option>
+              <option value="other">No 5G band
+                recorded</option>
+            </select></label>
+        </div>
+        <div class="legend"><span><i class="key" style="--key:#225844"></i>5G
+            band present</span><span><i class="key" style="--key:#b2592c"></i>No 5G band recorded</span><span
+            id="site-count" class="site-count"></span></div>
+        <div id="victoria-sites" class="chart site-map"></div>
+      </article>
+      <article class="figure wide">
+        <div class="figure-header"><div><h3>5G is not spread evenly by
+          remoteness</h3>
+        <p>Share of each operator's site records with 5G,
+          as at 31 January 2026 (%).</p>
+        </div>
+        </div>
+        <div id="remoteness" class="chart"></div>
+      </article>
+      <article class="figure wide advanced-figure">
+        <div class="figure-header">
+          <div>
+            <h3>Where the site records
+              cluster</h3>
+            <p>Telstra records grouped into equal-area hexagons
+              of about 260 km², Victoria, 2026.</p>
+          </div><label class="select-label" for="hex-filter">Filter both Victoria
+            maps<select id="hex-filter">
+              <option value="all">All
+                technologies</option>
+              <option value="5g">5G band
+                present</option>
+              <option value="other">No 5G band
+                recorded</option>
+            </select></label>
+        </div>
+        <div id="victoria-hexbins" class="chart map"></div>
+        <p class="chart-insight"><strong>From overlapping points to visible clusters:</strong> darker, equal-area cells contain more selected records. Switch technology to compare the same grid.</p>
+      </article>
+      <article class="figure wide advanced-figure">
+        <div class="figure-header">
+          <div>
+            <h3>Network growth and the 5G
+              rollout</h3>
+            <p>Total and 5G-enabled site records over time,
+              2020–2026. Uses the operator selected above the
+              maps.</p>
+          </div><a class="source" href="#operator">Change
+            operator ↑</a>
+        </div>
+        <div id="network-trajectory" class="chart"></div>
+      </article>
+      <div class="chapter-takeaway"><p><strong>Infrastructure is context, not the whole answer.</strong> These maps show where records are concentrated and how network technology differs. They do not establish the quality, cost or usability of someone's connection.</p></div>
+    </section>
+
+    <section id="access" class="chapter access">
+      <div class="wrap">
+        <div class="chapter-intro">
+          <p class="eyebrow">THE DIVIDE</p>
+          <h2>A
+            phone is a start.<br>It is not always enough.</h2>
+          <p>The Australian Digital Inclusion Index (ADII)
+            reports that 93.3% of Australians have a smartphone, yet 9.7% rely
+            on a mobile-only connection. These are separate measures:
+            ownership alone cannot tell us whether someone has the access,
+            affordability and ability they need. <a class="inline-source"
+              href="https://digitalinclusionindex.org.au/wp-content/uploads/2025/10/ADII-Report-2025_V6-Remediated.pdf"
+              target="_blank" rel="noopener">ADII 2025 report ↗</a></p>
+        </div>
+        <div class="two-col">
+          <article class="figure">
+            <div class="figure-header">
+              <div>
+                <h3>Who relies on mobile
+                  alone?</h3>
+                <p>Mobile-only internet access (% within each
+                  group).</p>
+              </div>
+            </div>
+            <div id="mobile-only" class="chart"></div>
+            <p class="chart-insight"><strong>Reliance is uneven:</strong> 18.8% of public-housing residents rely on mobile-only access, compared with 9.7% overall.</p>
+          </article>
+          <article class="figure">
+            <div class="figure-header">
+              <div>
+                <h3>Digital inclusion is
+                  broader than a device</h3>
+                <p>State/territory digital
+                  inclusion scores, out of 100.</p>
+              </div><label class="select-label" for="inclusion-measure">Dimension<select id="inclusion-measure">
+                  <option>Index</option>
+                  <option>Access</option>
+                  <option>Affordability</option>
+                  <option>Digital
+                    ability</option>
+                </select></label>
+            </div>
+            <div id="inclusion-scores" class="chart"></div>
+          </article>
+        </div>
+        <article class="figure wide advanced-figure">
+          <div class="figure-header">
+            <div>
+              <h3>One place, four dimensions of
+                inclusion</h3>
+              <p>State profiles across ADII components and the
+                overall Index. Scores out of 100; cropped 60–85
+                scale.</p>
+            </div><label class="select-label" for="profile-state">Highlight a state<select id="profile-state">
+                <option>ACT</option>
+                <option>NSW</option>
+                <option>NT</option>
+                <option>QLD</option>
+                <option>SA</option>
+                <option>TAS</option>
+                <option selected>VIC</option>
+                <option>WA</option>
+              </select></label>
+          </div>
+          <div id="inclusion-parallel" class="chart"></div>
+          <p class="chart-insight dynamic-insight" id="profile-insight" aria-live="polite"></p>
+        </article>
+        <article class="figure wide advanced-figure">
+          <div class="figure-header">
+            <div>
+              <h3>Where digital inclusion
+                differs</h3>
+              <p>Compare state and territory inclusion scores on
+                familiar geography. ADII 2025, using 2024
+                data.</p>
+            </div><label class="select-label" for="tile-measure">Inclusion dimension<select id="tile-measure">
+                <option>Index</option>
+                <option>Access</option>
+                <option>Affordability</option>
+                <option>Digital
+                  ability</option>
+              </select></label>
+          </div>
+          <div id="inclusion-tiles" class="chart adii-map"></div>
+          <p class="chart-insight dynamic-insight" id="inclusion-insight" aria-live="polite"></p>
+        </article>
+        <p class="closing-line">Nearly everyone can get online.<br><span>The
+            quality of that connection still matters.</span></p>
+        <div class="story-conclusion"><p>Mobile internet has become commonplace, but people's habits and circumstances still differ. The network supports participation; having a phone alone does not guarantee affordable access or the skills to use it.</p><p>Read the measures together, not as interchangeable statistics: widespread use is a starting point, not proof of equal digital inclusion.</p></div>
+      </div>
+    </section>
+    <section id="data" class="data-section wrap">
+      <div class="data-heading">
+        <div>
+          <p class="eyebrow">ORIGINAL DATA
+            SOURCES</p>
+          <h2>Sources &amp; methods</h2>
+        </div>
+      </div>
+      <div class="source-list" aria-label="Original data sources">
+        <a class="source-entry"
+          href="https://www.acma.gov.au/publications/2026-02/report/communications-and-media-australia-how-we-use-internet"
+          target="_blank" rel="noopener noreferrer"><span class="source-provider">ACMA</span><strong>How we use the
+            internet
+            <span aria-hidden="true">↗</span></strong><span class="source-scope">Mobile-phone internet use, age-group
+            trends,
+            device frequency and online activities.</span><small>Original
+            report and data tables</small></a>
+        <a class="source-entry"
+          href="https://www.acma.gov.au/publications/2026-02/report/communications-and-media-australia-how-we-communicate"
+          target="_blank" rel="noopener noreferrer"><span class="source-provider">ACMA</span><strong>How we communicate
+            <span aria-hidden="true">↗</span></strong><span class="source-scope">Communication methods, platform use and
+            demographic comparisons.</span><small>Original report and data
+            tables</small></a>
+        <a class="source-entry"
+          href="https://www.accc.gov.au/by-industry/telecommunications-and-internet/mobile-services-regulation/mobile-infrastructure-report/mobile-infrastructure-report-2026"
+          target="_blank" rel="noopener noreferrer"><span class="source-provider">ACCC</span><strong>Mobile
+            infrastructure
+            report 2026 <span aria-hidden="true">↗</span></strong><span class="source-scope">Operator site counts,
+            5G-enabled sites,
+            remoteness categories and network trends.</span><small>Original
+            report and output tables</small></a>
+        <a class="source-entry" href="https://data.gov.au/data/dataset/accc-mobile-infrastructure-report-data-release"
+          target="_blank" rel="noopener noreferrer"><span class="source-provider">ACCC ·
+            DATA.GOV.AU</span><strong>Telstra
+            mobile site records 2026 <span aria-hidden="true">↗</span></strong><span class="source-scope">Site
+            coordinates and recorded bands used in
+            the Victoria location and hexbin maps.</span><small>Original data
+            catalogue · select Telstra 2026</small></a>
+        <a class="source-entry"
+          href="https://digitalinclusionindex.org.au/wp-content/uploads/2025/10/ADII-Report-2025_V6-Remediated.pdf"
+          target="_blank" rel="noopener noreferrer"><span class="source-provider">AUSTRALIAN DIGITAL INCLUSION
+            INDEX</span><strong>Australian Digital Inclusion Index 2025 <span aria-hidden="true">↗</span></strong><span
+            class="source-scope">Smartphone ownership, mobile-only access and
+            state inclusion scores using 2024 data.</span><small>Original
+            report · PDF</small></a>
+        <a class="source-entry"
+          href="https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_1_states_provinces.geojson"
+          target="_blank" rel="noopener noreferrer"><span class="source-provider">NATURAL EARTH</span><strong>State and
+            territory boundaries <span aria-hidden="true">↗</span></strong><span class="source-scope">Admin-1 geographic
+            boundaries used to create
+            the generalised Australian maps.</span><small>Original boundary
+            dataset · GeoJSON</small></a>
+      </div>
+    </section>
+  </main>
+  <footer class="wrap"><span>AUSTRALIA IN OUR POCKETS</span>
+    <p>By Dhiluka Mapa · Updated <time datetime="2026-10-24">24 October 2026</time>.<br>Data: ACMA,
+      ACCC &amp; ADII. Maps: Natural Earth.<br>Prepared with Perplexity Computer assistance for research, data preparation, code and text.</p><a
+      href="#">Back to top ↑</a>
+  </footer>
+  <div id="app-status" class="sr-only" role="status" aria-live="polite">Loading charts</div>
+</body>
+
+</html>

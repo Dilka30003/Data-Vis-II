@@ -1,0 +1,766 @@
+year,device,frequency,percent,base_n,response_n,source_id,source_sheet,source_cell
+2017,Mobile phone,Multiple times a day,78.455044,1770,1301,acma_internet,QD6. How ofte by Study year,B5
+2017,Desktop computer,Multiple times a day,43.278374,1211,555,acma_internet,QD6. How ofte by Study year,B12
+2017,Laptop computer,Multiple times a day,40.794369,1538,617,acma_internet,QD6. How ofte by Study year,B19
+2017,Smart TV,Multiple times a day,29.398677,723,186,acma_internet,QD6. How ofte by Study year,B26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,44.522285,1165,532,acma_internet,QD6. How ofte by Study year,B33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,21.036507,65,12,acma_internet,QD6. How ofte by Study year,B40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,7.040741,17,2,acma_internet,QD6. How ofte by Study year,B47
+2017,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,26.632314,328,89,acma_internet,QD6. How ofte by Study year,B61
+2017,[Other specify from QD5],Multiple times a day,3.842485,9,1,acma_internet,QD6. How ofte by Study year,B68
+2018,Mobile phone,Multiple times a day,81.849407,1726,1366,acma_internet,QD6. How ofte by Study year,C5
+2018,Desktop computer,Multiple times a day,48.336789,1080,539,acma_internet,QD6. How ofte by Study year,C12
+2018,Laptop computer,Multiple times a day,45.359815,1472,681,acma_internet,QD6. How ofte by Study year,C19
+2018,Smart TV,Multiple times a day,36.545255,933,314,acma_internet,QD6. How ofte by Study year,C26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,41.599185,1301,635,acma_internet,QD6. How ofte by Study year,C33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,22.687921,304,69,acma_internet,QD6. How ofte by Study year,C40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,18.917388,491,86,acma_internet,QD6. How ofte by Study year,C47
+2018,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,10.089819,228,18,acma_internet,QD6. How ofte by Study year,C61
+2018,[Other specify from QD5],Multiple times a day,37.641545,14,5,acma_internet,QD6. How ofte by Study year,C68
+2019,Mobile phone,Multiple times a day,81.929196,1752,1415,acma_internet,QD6. How ofte by Study year,D5
+2019,Desktop computer,Multiple times a day,44.295827,1013,495,acma_internet,QD6. How ofte by Study year,D12
+2019,Laptop computer,Multiple times a day,43.924171,1447,674,acma_internet,QD6. How ofte by Study year,D19
+2019,Smart TV,Multiple times a day,37.376816,1001,358,acma_internet,QD6. How ofte by Study year,D26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,38.748874,1246,582,acma_internet,QD6. How ofte by Study year,D33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,25.780304,303,70,acma_internet,QD6. How ofte by Study year,D40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,22.271464,542,111,acma_internet,QD6. How ofte by Study year,D47
+2019,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,12.766103,208,18,acma_internet,QD6. How ofte by Study year,D61
+2019,[Other specify from QD5],Multiple times a day,47.30799,30,10,acma_internet,QD6. How ofte by Study year,D68
+2020,Mobile phone,Multiple times a day,87.052924,1809,1539,acma_internet,QD6. How ofte by Study year,E5
+2020,Desktop computer,Multiple times a day,48.244003,916,480,acma_internet,QD6. How ofte by Study year,E12
+2020,Laptop computer,Multiple times a day,48.761389,1514,776,acma_internet,QD6. How ofte by Study year,E19
+2020,Smart TV,Multiple times a day,42.257659,1189,483,acma_internet,QD6. How ofte by Study year,E26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,51.363755,1231,647,acma_internet,QD6. How ofte by Study year,E33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,39.541027,319,133,acma_internet,QD6. How ofte by Study year,E40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,27.584473,590,157,acma_internet,QD6. How ofte by Study year,E47
+2020,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,11.132863,219,23,acma_internet,QD6. How ofte by Study year,E61
+2020,[Other specify from QD5],Multiple times a day,42.507899,30,11,acma_internet,QD6. How ofte by Study year,E68
+2021,Mobile phone,Multiple times a day,86.591538,3292,2764,acma_internet,QD6. How ofte by Study year,F5
+2021,Desktop computer,Multiple times a day,48.728816,1562,766,acma_internet,QD6. How ofte by Study year,F12
+2021,Laptop computer,Multiple times a day,46.265836,2605,1208,acma_internet,QD6. How ofte by Study year,F19
+2021,Smart TV,Multiple times a day,39.446078,1973,728,acma_internet,QD6. How ofte by Study year,F26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,44.069004,2065,960,acma_internet,QD6. How ofte by Study year,F33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,35.828269,441,158,acma_internet,QD6. How ofte by Study year,F40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,22.810951,844,181,acma_internet,QD6. How ofte by Study year,F47
+2021,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,12.038607,353,38,acma_internet,QD6. How ofte by Study year,F61
+2021,[Other specify from QD5],Multiple times a day,52.374864,44,23,acma_internet,QD6. How ofte by Study year,F68
+2022,Mobile phone,Multiple times a day,89.210187,3304,2856,acma_internet,QD6. How ofte by Study year,G5
+2022,Desktop computer,Multiple times a day,51.690509,1537,792,acma_internet,QD6. How ofte by Study year,G12
+2022,Laptop computer,Multiple times a day,46.280087,2586,1218,acma_internet,QD6. How ofte by Study year,G19
+2022,Smart TV,Multiple times a day,40.164212,1976,737,acma_internet,QD6. How ofte by Study year,G26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,41.989223,2028,932,acma_internet,QD6. How ofte by Study year,G33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,36.281699,476,175,acma_internet,QD6. How ofte by Study year,G40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,30.623415,1175,316,acma_internet,QD6. How ofte by Study year,G47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Multiple times a day,13.809236,592,71,acma_internet,QD6. How ofte by Study year,G54
+2022,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,9.59642,392,39,acma_internet,QD6. How ofte by Study year,G61
+2022,[Other specify from QD5],Multiple times a day,55.340349,33,16,acma_internet,QD6. How ofte by Study year,G68
+2023,Mobile phone,Multiple times a day,90.366874,3349,2946,acma_internet,QD6. How ofte by Study year,H5
+2023,Desktop computer,Multiple times a day,49.712899,1421,682,acma_internet,QD6. How ofte by Study year,H12
+2023,Laptop computer,Multiple times a day,45.221899,2606,1186,acma_internet,QD6. How ofte by Study year,H19
+2023,Smart TV,Multiple times a day,35.206022,2122,734,acma_internet,QD6. How ofte by Study year,H26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,40.462042,1924,840,acma_internet,QD6. How ofte by Study year,H33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,31.77989,417,140,acma_internet,QD6. How ofte by Study year,H40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,27.772975,1206,327,acma_internet,QD6. How ofte by Study year,H47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Multiple times a day,14.509797,641,87,acma_internet,QD6. How ofte by Study year,H54
+2023,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,8.749001,352,24,acma_internet,QD6. How ofte by Study year,H61
+2023,[Other specify from QD5],Multiple times a day,44.356421,26,12,acma_internet,QD6. How ofte by Study year,H68
+2024,Mobile phone,Multiple times a day,91.502327,3374,3055,acma_internet,QD6. How ofte by Study year,I5
+2024,Desktop computer,Multiple times a day,51.364314,1335,665,acma_internet,QD6. How ofte by Study year,I12
+2024,Laptop computer,Multiple times a day,46.51545,2535,1170,acma_internet,QD6. How ofte by Study year,I19
+2024,Smart TV,Multiple times a day,42.031722,2163,877,acma_internet,QD6. How ofte by Study year,I26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,42.382421,1817,803,acma_internet,QD6. How ofte by Study year,I33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,43.462726,390,156,acma_internet,QD6. How ofte by Study year,I40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,29.972049,1219,366,acma_internet,QD6. How ofte by Study year,I47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Multiple times a day,14.818176,705,90,acma_internet,QD6. How ofte by Study year,I54
+2024,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,12.280769,345,43,acma_internet,QD6. How ofte by Study year,I61
+2024,[Other specify from QD5],Multiple times a day,52.175502,40,15,acma_internet,QD6. How ofte by Study year,I68
+2025,Mobile phone,Multiple times a day,91.115341,3441,3130,acma_internet,QD6. How ofte by Study year,J5
+2025,Desktop computer,Multiple times a day,46.752362,1342,608,acma_internet,QD6. How ofte by Study year,J12
+2025,Laptop computer,Multiple times a day,45.01558,2648,1161,acma_internet,QD6. How ofte by Study year,J19
+2025,Smart TV,Multiple times a day,37.984831,2315,886,acma_internet,QD6. How ofte by Study year,J26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Multiple times a day,39.82244,1933,793,acma_internet,QD6. How ofte by Study year,J33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Multiple times a day,39.002585,403,149,acma_internet,QD6. How ofte by Study year,J40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Multiple times a day,30.906953,1324,388,acma_internet,QD6. How ofte by Study year,J47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Multiple times a day,13.276406,747,91,acma_internet,QD6. How ofte by Study year,J54
+2025,"e-reader (e.g. Kindle, Kobo)",Multiple times a day,9.069953,447,44,acma_internet,QD6. How ofte by Study year,J61
+2025,[Other specify from QD5],Multiple times a day,33.754026,30,10,acma_internet,QD6. How ofte by Study year,J68
+2017,Mobile phone,Once a day,11.147244,1770,233,acma_internet,QD6. How ofte by Study year,L5
+2017,Desktop computer,Once a day,19.353485,1211,241,acma_internet,QD6. How ofte by Study year,L12
+2017,Laptop computer,Once a day,20.928095,1538,341,acma_internet,QD6. How ofte by Study year,L19
+2017,Smart TV,Once a day,25.37076,723,202,acma_internet,QD6. How ofte by Study year,L26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,21.912482,1165,251,acma_internet,QD6. How ofte by Study year,L33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,21.753907,65,18,acma_internet,QD6. How ofte by Study year,L40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,35.51237,17,6,acma_internet,QD6. How ofte by Study year,L47
+2017,"e-reader (e.g. Kindle, Kobo)",Once a day,19.18664,328,68,acma_internet,QD6. How ofte by Study year,L61
+2017,[Other specify from QD5],Once a day,54.752947,9,4,acma_internet,QD6. How ofte by Study year,L68
+2018,Mobile phone,Once a day,9.127412,1726,178,acma_internet,QD6. How ofte by Study year,M5
+2018,Desktop computer,Once a day,19.007313,1080,226,acma_internet,QD6. How ofte by Study year,M12
+2018,Laptop computer,Once a day,19.746846,1472,312,acma_internet,QD6. How ofte by Study year,M19
+2018,Smart TV,Once a day,27.012304,933,267,acma_internet,QD6. How ofte by Study year,M26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,21.773882,1301,258,acma_internet,QD6. How ofte by Study year,M33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,19.145178,304,67,acma_internet,QD6. How ofte by Study year,M40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,26.043205,491,133,acma_internet,QD6. How ofte by Study year,M47
+2018,"e-reader (e.g. Kindle, Kobo)",Once a day,13.587925,228,39,acma_internet,QD6. How ofte by Study year,M61
+2018,[Other specify from QD5],Once a day,30.26401,14,6,acma_internet,QD6. How ofte by Study year,M68
+2019,Mobile phone,Once a day,10.05889,1752,185,acma_internet,QD6. How ofte by Study year,N5
+2019,Desktop computer,Once a day,22.985526,1013,221,acma_internet,QD6. How ofte by Study year,N12
+2019,Laptop computer,Once a day,21.589977,1447,311,acma_internet,QD6. How ofte by Study year,N19
+2019,Smart TV,Once a day,29.184495,1001,296,acma_internet,QD6. How ofte by Study year,N26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,23.916979,1246,281,acma_internet,QD6. How ofte by Study year,N33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,20.738066,303,59,acma_internet,QD6. How ofte by Study year,N40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,26.019985,542,128,acma_internet,QD6. How ofte by Study year,N47
+2019,"e-reader (e.g. Kindle, Kobo)",Once a day,13.342822,208,43,acma_internet,QD6. How ofte by Study year,N61
+2019,[Other specify from QD5],Once a day,37.226498,30,11,acma_internet,QD6. How ofte by Study year,N68
+2020,Mobile phone,Once a day,6.37064,1809,142,acma_internet,QD6. How ofte by Study year,O5
+2020,Desktop computer,Once a day,17.507561,916,173,acma_internet,QD6. How ofte by Study year,O12
+2020,Laptop computer,Once a day,17.845428,1514,299,acma_internet,QD6. How ofte by Study year,O19
+2020,Smart TV,Once a day,30.658025,1189,361,acma_internet,QD6. How ofte by Study year,O26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,18.957763,1231,228,acma_internet,QD6. How ofte by Study year,O33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,27.881235,319,87,acma_internet,QD6. How ofte by Study year,O40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,28.410423,590,171,acma_internet,QD6. How ofte by Study year,O47
+2020,"e-reader (e.g. Kindle, Kobo)",Once a day,19.275402,219,41,acma_internet,QD6. How ofte by Study year,O61
+2020,[Other specify from QD5],Once a day,9.125397,30,7,acma_internet,QD6. How ofte by Study year,O68
+2021,Mobile phone,Once a day,4.574612,3292,194,acma_internet,QD6. How ofte by Study year,P5
+2021,Desktop computer,Once a day,14.684697,1562,237,acma_internet,QD6. How ofte by Study year,P12
+2021,Laptop computer,Once a day,12.562114,2605,348,acma_internet,QD6. How ofte by Study year,P19
+2021,Smart TV,Once a day,23.416646,1973,506,acma_internet,QD6. How ofte by Study year,P26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,14.687601,2065,295,acma_internet,QD6. How ofte by Study year,P33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,19.549374,441,97,acma_internet,QD6. How ofte by Study year,P40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,21.305703,844,172,acma_internet,QD6. How ofte by Study year,P47
+2021,"e-reader (e.g. Kindle, Kobo)",Once a day,15.343694,353,48,acma_internet,QD6. How ofte by Study year,P61
+2021,[Other specify from QD5],Once a day,25.293638,44,9,acma_internet,QD6. How ofte by Study year,P68
+2022,Mobile phone,Once a day,3.617385,3304,151,acma_internet,QD6. How ofte by Study year,Q5
+2022,Desktop computer,Once a day,12.032207,1537,198,acma_internet,QD6. How ofte by Study year,Q12
+2022,Laptop computer,Once a day,12.81131,2586,332,acma_internet,QD6. How ofte by Study year,Q19
+2022,Smart TV,Once a day,23.950561,1976,520,acma_internet,QD6. How ofte by Study year,Q26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,14.096529,2028,286,acma_internet,QD6. How ofte by Study year,Q33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,21.575168,476,115,acma_internet,QD6. How ofte by Study year,Q40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,18.09476,1175,228,acma_internet,QD6. How ofte by Study year,Q47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Once a day,9.101157,592,55,acma_internet,QD6. How ofte by Study year,Q54
+2022,"e-reader (e.g. Kindle, Kobo)",Once a day,15.109757,392,59,acma_internet,QD6. How ofte by Study year,Q61
+2022,[Other specify from QD5],Once a day,1.852338,33,2,acma_internet,QD6. How ofte by Study year,Q68
+2023,Mobile phone,Once a day,3.678419,3349,142,acma_internet,QD6. How ofte by Study year,R5
+2023,Desktop computer,Once a day,12.867541,1421,183,acma_internet,QD6. How ofte by Study year,R12
+2023,Laptop computer,Once a day,10.874146,2606,288,acma_internet,QD6. How ofte by Study year,R19
+2023,Smart TV,Once a day,24.016955,2122,505,acma_internet,QD6. How ofte by Study year,R26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,13.54019,1924,265,acma_internet,QD6. How ofte by Study year,R33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,27.010501,417,100,acma_internet,QD6. How ofte by Study year,R40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,20.113056,1206,229,acma_internet,QD6. How ofte by Study year,R47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Once a day,13.280659,641,81,acma_internet,QD6. How ofte by Study year,R54
+2023,"e-reader (e.g. Kindle, Kobo)",Once a day,10.945401,352,44,acma_internet,QD6. How ofte by Study year,R61
+2023,[Other specify from QD5],Once a day,23.930139,26,7,acma_internet,QD6. How ofte by Study year,R68
+2024,Mobile phone,Once a day,2.743822,3374,96,acma_internet,QD6. How ofte by Study year,S5
+2024,Desktop computer,Once a day,9.755963,1335,148,acma_internet,QD6. How ofte by Study year,S12
+2024,Laptop computer,Once a day,8.529947,2535,242,acma_internet,QD6. How ofte by Study year,S19
+2024,Smart TV,Once a day,23.437018,2163,554,acma_internet,QD6. How ofte by Study year,S26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,10.671969,1817,200,acma_internet,QD6. How ofte by Study year,S33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,21.313284,390,89,acma_internet,QD6. How ofte by Study year,S40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,20.292991,1219,253,acma_internet,QD6. How ofte by Study year,S47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Once a day,12.136059,705,85,acma_internet,QD6. How ofte by Study year,S54
+2024,"e-reader (e.g. Kindle, Kobo)",Once a day,17.689412,345,58,acma_internet,QD6. How ofte by Study year,S61
+2024,[Other specify from QD5],Once a day,8.017969,40,5,acma_internet,QD6. How ofte by Study year,S68
+2025,Mobile phone,Once a day,3.278792,3441,109,acma_internet,QD6. How ofte by Study year,T5
+2025,Desktop computer,Once a day,12.40895,1342,167,acma_internet,QD6. How ofte by Study year,T12
+2025,Laptop computer,Once a day,10.006292,2648,284,acma_internet,QD6. How ofte by Study year,T19
+2025,Smart TV,Once a day,23.821443,2315,571,acma_internet,QD6. How ofte by Study year,T26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Once a day,11.222995,1933,228,acma_internet,QD6. How ofte by Study year,T33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Once a day,22.586118,403,99,acma_internet,QD6. How ofte by Study year,T40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Once a day,22.232467,1324,293,acma_internet,QD6. How ofte by Study year,T47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Once a day,12.147101,747,85,acma_internet,QD6. How ofte by Study year,T54
+2025,"e-reader (e.g. Kindle, Kobo)",Once a day,13.347182,447,58,acma_internet,QD6. How ofte by Study year,T61
+2025,[Other specify from QD5],Once a day,25.454128,30,7,acma_internet,QD6. How ofte by Study year,T68
+2017,Mobile phone,Several times a week,0,1770,0,acma_internet,QD6. How ofte by Study year,V5
+2017,Desktop computer,Several times a week,0,1211,0,acma_internet,QD6. How ofte by Study year,V12
+2017,Laptop computer,Several times a week,0,1538,0,acma_internet,QD6. How ofte by Study year,V19
+2017,Smart TV,Several times a week,0,723,0,acma_internet,QD6. How ofte by Study year,V26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,0,1165,0,acma_internet,QD6. How ofte by Study year,V33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,0,65,0,acma_internet,QD6. How ofte by Study year,V40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,0,17,0,acma_internet,QD6. How ofte by Study year,V47
+2017,"e-reader (e.g. Kindle, Kobo)",Several times a week,0,328,0,acma_internet,QD6. How ofte by Study year,V61
+2017,[Other specify from QD5],Several times a week,0,9,0,acma_internet,QD6. How ofte by Study year,V68
+2018,Mobile phone,Several times a week,0,1726,0,acma_internet,QD6. How ofte by Study year,W5
+2018,Desktop computer,Several times a week,0,1080,0,acma_internet,QD6. How ofte by Study year,W12
+2018,Laptop computer,Several times a week,0,1472,0,acma_internet,QD6. How ofte by Study year,W19
+2018,Smart TV,Several times a week,0,933,0,acma_internet,QD6. How ofte by Study year,W26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,0,1301,0,acma_internet,QD6. How ofte by Study year,W33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,0,304,0,acma_internet,QD6. How ofte by Study year,W40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,0,491,0,acma_internet,QD6. How ofte by Study year,W47
+2018,"e-reader (e.g. Kindle, Kobo)",Several times a week,0,228,0,acma_internet,QD6. How ofte by Study year,W61
+2018,[Other specify from QD5],Several times a week,0,14,0,acma_internet,QD6. How ofte by Study year,W68
+2019,Mobile phone,Several times a week,0,1752,0,acma_internet,QD6. How ofte by Study year,X5
+2019,Desktop computer,Several times a week,0,1013,0,acma_internet,QD6. How ofte by Study year,X12
+2019,Laptop computer,Several times a week,0,1447,0,acma_internet,QD6. How ofte by Study year,X19
+2019,Smart TV,Several times a week,0,1001,0,acma_internet,QD6. How ofte by Study year,X26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,0,1246,0,acma_internet,QD6. How ofte by Study year,X33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,0,303,0,acma_internet,QD6. How ofte by Study year,X40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,0,542,0,acma_internet,QD6. How ofte by Study year,X47
+2019,"e-reader (e.g. Kindle, Kobo)",Several times a week,0,208,0,acma_internet,QD6. How ofte by Study year,X61
+2019,[Other specify from QD5],Several times a week,0,30,0,acma_internet,QD6. How ofte by Study year,X68
+2020,Mobile phone,Several times a week,0,1809,0,acma_internet,QD6. How ofte by Study year,Y5
+2020,Desktop computer,Several times a week,0,916,0,acma_internet,QD6. How ofte by Study year,Y12
+2020,Laptop computer,Several times a week,0,1514,0,acma_internet,QD6. How ofte by Study year,Y19
+2020,Smart TV,Several times a week,0,1189,0,acma_internet,QD6. How ofte by Study year,Y26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,0,1231,0,acma_internet,QD6. How ofte by Study year,Y33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,0,319,0,acma_internet,QD6. How ofte by Study year,Y40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,0,590,0,acma_internet,QD6. How ofte by Study year,Y47
+2020,"e-reader (e.g. Kindle, Kobo)",Several times a week,0,219,0,acma_internet,QD6. How ofte by Study year,Y61
+2020,[Other specify from QD5],Several times a week,0,30,0,acma_internet,QD6. How ofte by Study year,Y68
+2021,Mobile phone,Several times a week,5.334435,3292,204,acma_internet,QD6. How ofte by Study year,Z5
+2021,Desktop computer,Several times a week,15.79672,1562,240,acma_internet,QD6. How ofte by Study year,Z12
+2021,Laptop computer,Several times a week,19.362249,2605,512,acma_internet,QD6. How ofte by Study year,Z19
+2021,Smart TV,Several times a week,15.505344,1973,309,acma_internet,QD6. How ofte by Study year,Z26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,16.668286,2065,331,acma_internet,QD6. How ofte by Study year,Z33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,25.074152,441,94,acma_internet,QD6. How ofte by Study year,Z40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,26.06407,844,223,acma_internet,QD6. How ofte by Study year,Z47
+2021,"e-reader (e.g. Kindle, Kobo)",Several times a week,18.411069,353,72,acma_internet,QD6. How ofte by Study year,Z61
+2021,[Other specify from QD5],Several times a week,10.652631,44,6,acma_internet,QD6. How ofte by Study year,Z68
+2022,Mobile phone,Several times a week,4.077899,3304,172,acma_internet,QD6. How ofte by Study year,AA5
+2022,Desktop computer,Several times a week,13.11547,1537,225,acma_internet,QD6. How ofte by Study year,AA12
+2022,Laptop computer,Several times a week,16.791733,2586,439,acma_internet,QD6. How ofte by Study year,AA19
+2022,Smart TV,Several times a week,15.676718,1976,316,acma_internet,QD6. How ofte by Study year,AA26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,16.461859,2028,312,acma_internet,QD6. How ofte by Study year,AA33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,17.837425,476,80,acma_internet,QD6. How ofte by Study year,AA40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,21.081467,1175,257,acma_internet,QD6. How ofte by Study year,AA47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Several times a week,12.415798,592,69,acma_internet,QD6. How ofte by Study year,AA54
+2022,"e-reader (e.g. Kindle, Kobo)",Several times a week,17.268665,392,67,acma_internet,QD6. How ofte by Study year,AA61
+2022,[Other specify from QD5],Several times a week,21.402906,33,8,acma_internet,QD6. How ofte by Study year,AA68
+2023,Mobile phone,Several times a week,3.957554,3349,173,acma_internet,QD6. How ofte by Study year,AB5
+2023,Desktop computer,Several times a week,16.820076,1421,250,acma_internet,QD6. How ofte by Study year,AB12
+2023,Laptop computer,Several times a week,19.169215,2606,496,acma_internet,QD6. How ofte by Study year,AB19
+2023,Smart TV,Several times a week,17.323649,2122,352,acma_internet,QD6. How ofte by Study year,AB26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,18.611005,1924,334,acma_internet,QD6. How ofte by Study year,AB33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,20.125819,417,84,acma_internet,QD6. How ofte by Study year,AB40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,25.073188,1206,304,acma_internet,QD6. How ofte by Study year,AB47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Several times a week,20.357696,641,129,acma_internet,QD6. How ofte by Study year,AB54
+2023,"e-reader (e.g. Kindle, Kobo)",Several times a week,18.184644,352,64,acma_internet,QD6. How ofte by Study year,AB61
+2023,[Other specify from QD5],Several times a week,26.964204,26,5,acma_internet,QD6. How ofte by Study year,AB68
+2024,Mobile phone,Several times a week,3.703623,3374,147,acma_internet,QD6. How ofte by Study year,AC5
+2024,Desktop computer,Several times a week,18.612801,1335,248,acma_internet,QD6. How ofte by Study year,AC12
+2024,Laptop computer,Several times a week,19.715998,2535,523,acma_internet,QD6. How ofte by Study year,AC19
+2024,Smart TV,Several times a week,17.969164,2163,377,acma_internet,QD6. How ofte by Study year,AC26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,21.542797,1817,368,acma_internet,QD6. How ofte by Study year,AC33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,16.381185,390,65,acma_internet,QD6. How ofte by Study year,AC40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,23.787163,1219,276,acma_internet,QD6. How ofte by Study year,AC47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Several times a week,22.01547,705,152,acma_internet,QD6. How ofte by Study year,AC54
+2024,"e-reader (e.g. Kindle, Kobo)",Several times a week,14.927129,345,55,acma_internet,QD6. How ofte by Study year,AC61
+2024,[Other specify from QD5],Several times a week,17.103012,40,9,acma_internet,QD6. How ofte by Study year,AC68
+2025,Mobile phone,Several times a week,3.324814,3441,128,acma_internet,QD6. How ofte by Study year,AD5
+2025,Desktop computer,Several times a week,15.991912,1342,212,acma_internet,QD6. How ofte by Study year,AD12
+2025,Laptop computer,Several times a week,19.77177,2648,523,acma_internet,QD6. How ofte by Study year,AD19
+2025,Smart TV,Several times a week,16.31763,2315,378,acma_internet,QD6. How ofte by Study year,AD26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Several times a week,18.688466,1933,343,acma_internet,QD6. How ofte by Study year,AD33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Several times a week,14.467394,403,61,acma_internet,QD6. How ofte by Study year,AD40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Several times a week,20.576794,1324,262,acma_internet,QD6. How ofte by Study year,AD47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Several times a week,18.68372,747,142,acma_internet,QD6. How ofte by Study year,AD54
+2025,"e-reader (e.g. Kindle, Kobo)",Several times a week,18.778646,447,79,acma_internet,QD6. How ofte by Study year,AD61
+2025,[Other specify from QD5],Several times a week,18.069996,30,7,acma_internet,QD6. How ofte by Study year,AD68
+2017,Mobile phone,Weekly,5.548987,1770,138,acma_internet,QD6. How ofte by Study year,AF5
+2017,Desktop computer,Weekly,22.497823,1211,262,acma_internet,QD6. How ofte by Study year,AF12
+2017,Laptop computer,Weekly,24.490443,1538,374,acma_internet,QD6. How ofte by Study year,AF19
+2017,Smart TV,Weekly,25.709285,723,187,acma_internet,QD6. How ofte by Study year,AF26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,21.538603,1165,233,acma_internet,QD6. How ofte by Study year,AF33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,24.24903,65,17,acma_internet,QD6. How ofte by Study year,AF40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,37.141109,17,5,acma_internet,QD6. How ofte by Study year,AF47
+2017,"e-reader (e.g. Kindle, Kobo)",Weekly,26.819209,328,76,acma_internet,QD6. How ofte by Study year,AF61
+2017,[Other specify from QD5],Weekly,35.250086,9,2,acma_internet,QD6. How ofte by Study year,AF68
+2018,Mobile phone,Weekly,5.176569,1726,108,acma_internet,QD6. How ofte by Study year,AG5
+2018,Desktop computer,Weekly,19.122929,1080,195,acma_internet,QD6. How ofte by Study year,AG12
+2018,Laptop computer,Weekly,23.685071,1472,326,acma_internet,QD6. How ofte by Study year,AG19
+2018,Smart TV,Weekly,21.522758,933,195,acma_internet,QD6. How ofte by Study year,AG26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,21.467544,1301,238,acma_internet,QD6. How ofte by Study year,AG33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,19.927032,304,53,acma_internet,QD6. How ofte by Study year,AG40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,23.772035,491,112,acma_internet,QD6. How ofte by Study year,AG47
+2018,"e-reader (e.g. Kindle, Kobo)",Weekly,27.40447,228,68,acma_internet,QD6. How ofte by Study year,AG61
+2018,[Other specify from QD5],Weekly,32.094444,14,3,acma_internet,QD6. How ofte by Study year,AG68
+2019,Mobile phone,Weekly,4.504616,1752,91,acma_internet,QD6. How ofte by Study year,AH5
+2019,Desktop computer,Weekly,19.304497,1013,193,acma_internet,QD6. How ofte by Study year,AH12
+2019,Laptop computer,Weekly,21.876635,1447,297,acma_internet,QD6. How ofte by Study year,AH19
+2019,Smart TV,Weekly,20.072283,1001,205,acma_internet,QD6. How ofte by Study year,AH26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,22.990515,1246,230,acma_internet,QD6. How ofte by Study year,AH33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,15.468409,303,63,acma_internet,QD6. How ofte by Study year,AH40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,23.300499,542,136,acma_internet,QD6. How ofte by Study year,AH47
+2019,"e-reader (e.g. Kindle, Kobo)",Weekly,31.541257,208,55,acma_internet,QD6. How ofte by Study year,AH61
+2019,[Other specify from QD5],Weekly,15.045774,30,8,acma_internet,QD6. How ofte by Study year,AH68
+2020,Mobile phone,Weekly,4.131517,1809,78,acma_internet,QD6. How ofte by Study year,AI5
+2020,Desktop computer,Weekly,18.750007,916,145,acma_internet,QD6. How ofte by Study year,AI12
+2020,Laptop computer,Weekly,21.707738,1514,268,acma_internet,QD6. How ofte by Study year,AI19
+2020,Smart TV,Weekly,15.773598,1189,189,acma_internet,QD6. How ofte by Study year,AI26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,18.501904,1231,210,acma_internet,QD6. How ofte by Study year,AI33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,17.974285,319,57,acma_internet,QD6. How ofte by Study year,AI40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,26.324817,590,161,acma_internet,QD6. How ofte by Study year,AI47
+2020,"e-reader (e.g. Kindle, Kobo)",Weekly,31.423611,219,61,acma_internet,QD6. How ofte by Study year,AI61
+2020,[Other specify from QD5],Weekly,33.859753,30,9,acma_internet,QD6. How ofte by Study year,AI68
+2021,Mobile phone,Weekly,1.783688,3292,64,acma_internet,QD6. How ofte by Study year,AJ5
+2021,Desktop computer,Weekly,9.03628,1562,139,acma_internet,QD6. How ofte by Study year,AJ12
+2021,Laptop computer,Weekly,10.512497,2605,252,acma_internet,QD6. How ofte by Study year,AJ19
+2021,Smart TV,Weekly,10.494564,1973,187,acma_internet,QD6. How ofte by Study year,AJ26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,10.615393,2065,207,acma_internet,QD6. How ofte by Study year,AJ33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,10.766054,441,49,acma_internet,QD6. How ofte by Study year,AJ40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,15.943308,844,130,acma_internet,QD6. How ofte by Study year,AJ47
+2021,"e-reader (e.g. Kindle, Kobo)",Weekly,17.383078,353,67,acma_internet,QD6. How ofte by Study year,AJ61
+2021,[Other specify from QD5],Weekly,1.921887,44,2,acma_internet,QD6. How ofte by Study year,AJ68
+2022,Mobile phone,Weekly,1.418943,3304,55,acma_internet,QD6. How ofte by Study year,AK5
+2022,Desktop computer,Weekly,8.189057,1537,115,acma_internet,QD6. How ofte by Study year,AK12
+2022,Laptop computer,Weekly,9.551908,2586,242,acma_internet,QD6. How ofte by Study year,AK19
+2022,Smart TV,Weekly,8.235074,1976,140,acma_internet,QD6. How ofte by Study year,AK26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,9.947428,2028,168,acma_internet,QD6. How ofte by Study year,AK33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,7.687346,476,38,acma_internet,QD6. How ofte by Study year,AK40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,12.99926,1175,157,acma_internet,QD6. How ofte by Study year,AK47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Weekly,0,592,0,acma_internet,QD6. How ofte by Study year,AK54
+2022,"e-reader (e.g. Kindle, Kobo)",Weekly,11.966924,392,52,acma_internet,QD6. How ofte by Study year,AK61
+2022,[Other specify from QD5],Weekly,4.358103,33,3,acma_internet,QD6. How ofte by Study year,AK68
+2023,Mobile phone,Weekly,1.054023,3349,39,acma_internet,QD6. How ofte by Study year,AL5
+2023,Desktop computer,Weekly,7.071504,1421,100,acma_internet,QD6. How ofte by Study year,AL12
+2023,Laptop computer,Weekly,11.430624,2606,290,acma_internet,QD6. How ofte by Study year,AL19
+2023,Smart TV,Weekly,7.123796,2122,168,acma_internet,QD6. How ofte by Study year,AL26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,9.97578,1924,169,acma_internet,QD6. How ofte by Study year,AL33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,7.723765,417,37,acma_internet,QD6. How ofte by Study year,AL40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,9.936242,1206,119,acma_internet,QD6. How ofte by Study year,AL47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Weekly,14.908966,641,95,acma_internet,QD6. How ofte by Study year,AL54
+2023,"e-reader (e.g. Kindle, Kobo)",Weekly,12.561301,352,47,acma_internet,QD6. How ofte by Study year,AL61
+2023,[Other specify from QD5],Weekly,3.04016,26,1,acma_internet,QD6. How ofte by Study year,AL68
+2024,Mobile phone,Weekly,0.898468,3374,31,acma_internet,QD6. How ofte by Study year,AM5
+2024,Desktop computer,Weekly,9.091889,1335,123,acma_internet,QD6. How ofte by Study year,AM12
+2024,Laptop computer,Weekly,11.226235,2535,265,acma_internet,QD6. How ofte by Study year,AM19
+2024,Smart TV,Weekly,6.675273,2163,140,acma_internet,QD6. How ofte by Study year,AM26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,10.184694,1817,183,acma_internet,QD6. How ofte by Study year,AM33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,7.364094,390,25,acma_internet,QD6. How ofte by Study year,AM40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,9.538397,1219,120,acma_internet,QD6. How ofte by Study year,AM47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Weekly,15.804909,705,120,acma_internet,QD6. How ofte by Study year,AM54
+2024,"e-reader (e.g. Kindle, Kobo)",Weekly,14.06974,345,44,acma_internet,QD6. How ofte by Study year,AM61
+2024,[Other specify from QD5],Weekly,12.083136,40,5,acma_internet,QD6. How ofte by Study year,AM68
+2025,Mobile phone,Weekly,0.997879,3441,31,acma_internet,QD6. How ofte by Study year,AN5
+2025,Desktop computer,Weekly,8.215587,1342,126,acma_internet,QD6. How ofte by Study year,AN12
+2025,Laptop computer,Weekly,10.560913,2648,289,acma_internet,QD6. How ofte by Study year,AN19
+2025,Smart TV,Weekly,7.542803,2315,164,acma_internet,QD6. How ofte by Study year,AN26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Weekly,10.709521,1933,204,acma_internet,QD6. How ofte by Study year,AN33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Weekly,7.143182,403,28,acma_internet,QD6. How ofte by Study year,AN40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Weekly,8.689537,1324,127,acma_internet,QD6. How ofte by Study year,AN47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Weekly,15.264535,747,117,acma_internet,QD6. How ofte by Study year,AN54
+2025,"e-reader (e.g. Kindle, Kobo)",Weekly,14.694641,447,60,acma_internet,QD6. How ofte by Study year,AN61
+2025,[Other specify from QD5],Weekly,3.154237,30,1,acma_internet,QD6. How ofte by Study year,AN68
+2017,Mobile phone,Fortnightly,0,1770,0,acma_internet,QD6. How ofte by Study year,AP5
+2017,Desktop computer,Fortnightly,0,1211,0,acma_internet,QD6. How ofte by Study year,AP12
+2017,Laptop computer,Fortnightly,0,1538,0,acma_internet,QD6. How ofte by Study year,AP19
+2017,Smart TV,Fortnightly,0,723,0,acma_internet,QD6. How ofte by Study year,AP26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,0,1165,0,acma_internet,QD6. How ofte by Study year,AP33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,0,65,0,acma_internet,QD6. How ofte by Study year,AP40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,0,17,0,acma_internet,QD6. How ofte by Study year,AP47
+2017,"e-reader (e.g. Kindle, Kobo)",Fortnightly,0,328,0,acma_internet,QD6. How ofte by Study year,AP61
+2017,[Other specify from QD5],Fortnightly,0,9,0,acma_internet,QD6. How ofte by Study year,AP68
+2018,Mobile phone,Fortnightly,0,1726,0,acma_internet,QD6. How ofte by Study year,AQ5
+2018,Desktop computer,Fortnightly,0,1080,0,acma_internet,QD6. How ofte by Study year,AQ12
+2018,Laptop computer,Fortnightly,0,1472,0,acma_internet,QD6. How ofte by Study year,AQ19
+2018,Smart TV,Fortnightly,0,933,0,acma_internet,QD6. How ofte by Study year,AQ26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,0,1301,0,acma_internet,QD6. How ofte by Study year,AQ33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,0,304,0,acma_internet,QD6. How ofte by Study year,AQ40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,0,491,0,acma_internet,QD6. How ofte by Study year,AQ47
+2018,"e-reader (e.g. Kindle, Kobo)",Fortnightly,0,228,0,acma_internet,QD6. How ofte by Study year,AQ61
+2018,[Other specify from QD5],Fortnightly,0,14,0,acma_internet,QD6. How ofte by Study year,AQ68
+2019,Mobile phone,Fortnightly,0,1752,0,acma_internet,QD6. How ofte by Study year,AR5
+2019,Desktop computer,Fortnightly,0,1013,0,acma_internet,QD6. How ofte by Study year,AR12
+2019,Laptop computer,Fortnightly,0,1447,0,acma_internet,QD6. How ofte by Study year,AR19
+2019,Smart TV,Fortnightly,0,1001,0,acma_internet,QD6. How ofte by Study year,AR26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,0,1246,0,acma_internet,QD6. How ofte by Study year,AR33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,0,303,0,acma_internet,QD6. How ofte by Study year,AR40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,0,542,0,acma_internet,QD6. How ofte by Study year,AR47
+2019,"e-reader (e.g. Kindle, Kobo)",Fortnightly,0,208,0,acma_internet,QD6. How ofte by Study year,AR61
+2019,[Other specify from QD5],Fortnightly,0,30,0,acma_internet,QD6. How ofte by Study year,AR68
+2020,Mobile phone,Fortnightly,0,1809,0,acma_internet,QD6. How ofte by Study year,AS5
+2020,Desktop computer,Fortnightly,0,916,0,acma_internet,QD6. How ofte by Study year,AS12
+2020,Laptop computer,Fortnightly,0,1514,0,acma_internet,QD6. How ofte by Study year,AS19
+2020,Smart TV,Fortnightly,0,1189,0,acma_internet,QD6. How ofte by Study year,AS26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,0,1231,0,acma_internet,QD6. How ofte by Study year,AS33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,0,319,0,acma_internet,QD6. How ofte by Study year,AS40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,0,590,0,acma_internet,QD6. How ofte by Study year,AS47
+2020,"e-reader (e.g. Kindle, Kobo)",Fortnightly,0,219,0,acma_internet,QD6. How ofte by Study year,AS61
+2020,[Other specify from QD5],Fortnightly,0,30,0,acma_internet,QD6. How ofte by Study year,AS68
+2021,Mobile phone,Fortnightly,0,3292,0,acma_internet,QD6. How ofte by Study year,AT5
+2021,Desktop computer,Fortnightly,0,1562,0,acma_internet,QD6. How ofte by Study year,AT12
+2021,Laptop computer,Fortnightly,0,2605,0,acma_internet,QD6. How ofte by Study year,AT19
+2021,Smart TV,Fortnightly,0,1973,0,acma_internet,QD6. How ofte by Study year,AT26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,0,2065,0,acma_internet,QD6. How ofte by Study year,AT33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,0,441,0,acma_internet,QD6. How ofte by Study year,AT40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,0,844,0,acma_internet,QD6. How ofte by Study year,AT47
+2021,"e-reader (e.g. Kindle, Kobo)",Fortnightly,0,353,0,acma_internet,QD6. How ofte by Study year,AT61
+2021,[Other specify from QD5],Fortnightly,0,44,0,acma_internet,QD6. How ofte by Study year,AT68
+2022,Mobile phone,Fortnightly,0.31255,3304,17,acma_internet,QD6. How ofte by Study year,AU5
+2022,Desktop computer,Fortnightly,3.127336,1537,53,acma_internet,QD6. How ofte by Study year,AU12
+2022,Laptop computer,Fortnightly,3.495879,2586,91,acma_internet,QD6. How ofte by Study year,AU19
+2022,Smart TV,Fortnightly,2.708324,1976,54,acma_internet,QD6. How ofte by Study year,AU26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,4.922647,2028,90,acma_internet,QD6. How ofte by Study year,AU33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,2.627062,476,10,acma_internet,QD6. How ofte by Study year,AU40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,4.244369,1175,47,acma_internet,QD6. How ofte by Study year,AU47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Fortnightly,50.408038,592,310,acma_internet,QD6. How ofte by Study year,AU54
+2022,"e-reader (e.g. Kindle, Kobo)",Fortnightly,6.624487,392,27,acma_internet,QD6. How ofte by Study year,AU61
+2022,[Other specify from QD5],Fortnightly,1.813502,33,1,acma_internet,QD6. How ofte by Study year,AU68
+2023,Mobile phone,Fortnightly,0.238176,3349,15,acma_internet,QD6. How ofte by Study year,AV5
+2023,Desktop computer,Fortnightly,2.574945,1421,48,acma_internet,QD6. How ofte by Study year,AV12
+2023,Laptop computer,Fortnightly,3.878826,2606,99,acma_internet,QD6. How ofte by Study year,AV19
+2023,Smart TV,Fortnightly,2.513853,2122,57,acma_internet,QD6. How ofte by Study year,AV26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,5.583798,1924,92,acma_internet,QD6. How ofte by Study year,AV33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,1.290173,417,7,acma_internet,QD6. How ofte by Study year,AV40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,4.602973,1206,57,acma_internet,QD6. How ofte by Study year,AV47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Fortnightly,11.400454,641,67,acma_internet,QD6. How ofte by Study year,AV54
+2023,"e-reader (e.g. Kindle, Kobo)",Fortnightly,8.917148,352,30,acma_internet,QD6. How ofte by Study year,AV61
+2023,[Other specify from QD5],Fortnightly,0,26,0,acma_internet,QD6. How ofte by Study year,AV68
+2024,Mobile phone,Fortnightly,0.264767,3374,12,acma_internet,QD6. How ofte by Study year,AW5
+2024,Desktop computer,Fortnightly,2.371647,1335,32,acma_internet,QD6. How ofte by Study year,AW12
+2024,Laptop computer,Fortnightly,4.563061,2535,107,acma_internet,QD6. How ofte by Study year,AW19
+2024,Smart TV,Fortnightly,2.085583,2163,37,acma_internet,QD6. How ofte by Study year,AW26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,3.508094,1817,60,acma_internet,QD6. How ofte by Study year,AW33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,2.519304,390,10,acma_internet,QD6. How ofte by Study year,AW40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,3.245767,1219,41,acma_internet,QD6. How ofte by Study year,AW47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Fortnightly,8.742694,705,63,acma_internet,QD6. How ofte by Study year,AW54
+2024,"e-reader (e.g. Kindle, Kobo)",Fortnightly,8.265387,345,30,acma_internet,QD6. How ofte by Study year,AW61
+2024,[Other specify from QD5],Fortnightly,0,40,0,acma_internet,QD6. How ofte by Study year,AW68
+2025,Mobile phone,Fortnightly,0.222071,3441,7,acma_internet,QD6. How ofte by Study year,AX5
+2025,Desktop computer,Fortnightly,4.598527,1342,59,acma_internet,QD6. How ofte by Study year,AX12
+2025,Laptop computer,Fortnightly,3.844101,2648,102,acma_internet,QD6. How ofte by Study year,AX19
+2025,Smart TV,Fortnightly,3.080717,2315,64,acma_internet,QD6. How ofte by Study year,AX26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Fortnightly,5.20263,1933,89,acma_internet,QD6. How ofte by Study year,AX33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Fortnightly,2.344633,403,11,acma_internet,QD6. How ofte by Study year,AX40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Fortnightly,4.241039,1324,48,acma_internet,QD6. How ofte by Study year,AX47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Fortnightly,8.837563,747,69,acma_internet,QD6. How ofte by Study year,AX54
+2025,"e-reader (e.g. Kindle, Kobo)",Fortnightly,9.433437,447,47,acma_internet,QD6. How ofte by Study year,AX61
+2025,[Other specify from QD5],Fortnightly,0,30,0,acma_internet,QD6. How ofte by Study year,AX68
+2017,Mobile phone,Monthly,1.964974,1770,43,acma_internet,QD6. How ofte by Study year,AZ5
+2017,Desktop computer,Monthly,5.842507,1211,70,acma_internet,QD6. How ofte by Study year,AZ12
+2017,Laptop computer,Monthly,7.290208,1538,110,acma_internet,QD6. How ofte by Study year,AZ19
+2017,Smart TV,Monthly,11.278836,723,80,acma_internet,QD6. How ofte by Study year,AZ26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,6.839555,1165,84,acma_internet,QD6. How ofte by Study year,AZ33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,16.410151,65,7,acma_internet,QD6. How ofte by Study year,AZ40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,14.272872,17,3,acma_internet,QD6. How ofte by Study year,AZ47
+2017,"e-reader (e.g. Kindle, Kobo)",Monthly,16.684861,328,56,acma_internet,QD6. How ofte by Study year,AZ61
+2017,[Other specify from QD5],Monthly,3.553472,9,1,acma_internet,QD6. How ofte by Study year,AZ68
+2018,Mobile phone,Monthly,0.891039,1726,25,acma_internet,QD6. How ofte by Study year,BA5
+2018,Desktop computer,Monthly,6.174918,1080,59,acma_internet,QD6. How ofte by Study year,BA12
+2018,Laptop computer,Monthly,6.225445,1472,90,acma_internet,QD6. How ofte by Study year,BA19
+2018,Smart TV,Monthly,5.113008,933,58,acma_internet,QD6. How ofte by Study year,BA26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,7.217467,1301,88,acma_internet,QD6. How ofte by Study year,BA33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,5.167173,304,16,acma_internet,QD6. How ofte by Study year,BA40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,8.501831,491,35,acma_internet,QD6. How ofte by Study year,BA47
+2018,"e-reader (e.g. Kindle, Kobo)",Monthly,26.368031,228,52,acma_internet,QD6. How ofte by Study year,BA61
+2018,[Other specify from QD5],Monthly,0,14,0,acma_internet,QD6. How ofte by Study year,BA68
+2019,Mobile phone,Monthly,1.320427,1752,28,acma_internet,QD6. How ofte by Study year,BB5
+2019,Desktop computer,Monthly,9.060311,1013,62,acma_internet,QD6. How ofte by Study year,BB12
+2019,Laptop computer,Monthly,7.707526,1447,89,acma_internet,QD6. How ofte by Study year,BB19
+2019,Smart TV,Monthly,5.165346,1001,59,acma_internet,QD6. How ofte by Study year,BB26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,7.411784,1246,81,acma_internet,QD6. How ofte by Study year,BB33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,3.848864,303,14,acma_internet,QD6. How ofte by Study year,BB40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,4.80303,542,32,acma_internet,QD6. How ofte by Study year,BB47
+2019,"e-reader (e.g. Kindle, Kobo)",Monthly,22.500332,208,59,acma_internet,QD6. How ofte by Study year,BB61
+2019,[Other specify from QD5],Monthly,0.419737,30,1,acma_internet,QD6. How ofte by Study year,BB68
+2020,Mobile phone,Monthly,0.677252,1809,16,acma_internet,QD6. How ofte by Study year,BC5
+2020,Desktop computer,Monthly,6.637795,916,56,acma_internet,QD6. How ofte by Study year,BC12
+2020,Laptop computer,Monthly,5.799636,1514,90,acma_internet,QD6. How ofte by Study year,BC19
+2020,Smart TV,Monthly,3.730921,1189,61,acma_internet,QD6. How ofte by Study year,BC26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,6.149536,1231,73,acma_internet,QD6. How ofte by Study year,BC33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,3.919051,319,9,acma_internet,QD6. How ofte by Study year,BC40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,9.325366,590,52,acma_internet,QD6. How ofte by Study year,BC47
+2020,"e-reader (e.g. Kindle, Kobo)",Monthly,21.25726,219,50,acma_internet,QD6. How ofte by Study year,BC61
+2020,[Other specify from QD5],Monthly,3.99698,30,1,acma_internet,QD6. How ofte by Study year,BC68
+2021,Mobile phone,Monthly,0.991729,3292,34,acma_internet,QD6. How ofte by Study year,BD5
+2021,Desktop computer,Monthly,6.188079,1562,90,acma_internet,QD6. How ofte by Study year,BD12
+2021,Laptop computer,Monthly,6.379257,2605,159,acma_internet,QD6. How ofte by Study year,BD19
+2021,Smart TV,Monthly,5.396004,1973,112,acma_internet,QD6. How ofte by Study year,BD26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,7.442988,2065,142,acma_internet,QD6. How ofte by Study year,BD33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,3.387374,441,18,acma_internet,QD6. How ofte by Study year,BD40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,8.035188,844,75,acma_internet,QD6. How ofte by Study year,BD47
+2021,"e-reader (e.g. Kindle, Kobo)",Monthly,17.693488,353,65,acma_internet,QD6. How ofte by Study year,BD61
+2021,[Other specify from QD5],Monthly,4.729215,44,3,acma_internet,QD6. How ofte by Study year,BD68
+2022,Mobile phone,Monthly,0.514828,3304,19,acma_internet,QD6. How ofte by Study year,BE5
+2022,Desktop computer,Monthly,4.571642,1537,64,acma_internet,QD6. How ofte by Study year,BE12
+2022,Laptop computer,Monthly,5.040908,2586,117,acma_internet,QD6. How ofte by Study year,BE19
+2022,Smart TV,Monthly,2.515115,1976,58,acma_internet,QD6. How ofte by Study year,BE26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,4.665274,2028,87,acma_internet,QD6. How ofte by Study year,BE33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,4.858306,476,19,acma_internet,QD6. How ofte by Study year,BE40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,4.253092,1175,55,acma_internet,QD6. How ofte by Study year,BE47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Monthly,0,592,0,acma_internet,QD6. How ofte by Study year,BE54
+2022,"e-reader (e.g. Kindle, Kobo)",Monthly,16.488837,392,59,acma_internet,QD6. How ofte by Study year,BE61
+2022,[Other specify from QD5],Monthly,15.232801,33,3,acma_internet,QD6. How ofte by Study year,BE68
+2023,Mobile phone,Monthly,0.117451,3349,7,acma_internet,QD6. How ofte by Study year,BF5
+2023,Desktop computer,Monthly,4.040033,1421,57,acma_internet,QD6. How ofte by Study year,BF12
+2023,Laptop computer,Monthly,4.49188,2606,109,acma_internet,QD6. How ofte by Study year,BF19
+2023,Smart TV,Monthly,3.873043,2122,87,acma_internet,QD6. How ofte by Study year,BF26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,4.2446,1924,81,acma_internet,QD6. How ofte by Study year,BF33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,1.543505,417,11,acma_internet,QD6. How ofte by Study year,BF40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,3.807672,1206,53,acma_internet,QD6. How ofte by Study year,BF47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Monthly,7.668853,641,59,acma_internet,QD6. How ofte by Study year,BF54
+2023,"e-reader (e.g. Kindle, Kobo)",Monthly,15.780653,352,54,acma_internet,QD6. How ofte by Study year,BF61
+2023,[Other specify from QD5],Monthly,0,26,0,acma_internet,QD6. How ofte by Study year,BF68
+2024,Mobile phone,Monthly,0.203187,3374,5,acma_internet,QD6. How ofte by Study year,BG5
+2024,Desktop computer,Monthly,2.482097,1335,38,acma_internet,QD6. How ofte by Study year,BG12
+2024,Laptop computer,Monthly,3.925281,2535,97,acma_internet,QD6. How ofte by Study year,BG19
+2024,Smart TV,Monthly,2.305726,2163,51,acma_internet,QD6. How ofte by Study year,BG26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,4.018718,1817,69,acma_internet,QD6. How ofte by Study year,BG33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,1.039631,390,9,acma_internet,QD6. How ofte by Study year,BG40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,4.755923,1219,53,acma_internet,QD6. How ofte by Study year,BG47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Monthly,11.493933,705,84,acma_internet,QD6. How ofte by Study year,BG54
+2024,"e-reader (e.g. Kindle, Kobo)",Monthly,14.909586,345,50,acma_internet,QD6. How ofte by Study year,BG61
+2024,[Other specify from QD5],Monthly,4.236548,40,2,acma_internet,QD6. How ofte by Study year,BG68
+2025,Mobile phone,Monthly,0.459988,3441,12,acma_internet,QD6. How ofte by Study year,BH5
+2025,Desktop computer,Monthly,4.19255,1342,58,acma_internet,QD6. How ofte by Study year,BH12
+2025,Laptop computer,Monthly,4.857718,2648,132,acma_internet,QD6. How ofte by Study year,BH19
+2025,Smart TV,Monthly,3.30407,2315,77,acma_internet,QD6. How ofte by Study year,BH26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Monthly,5.199773,1933,107,acma_internet,QD6. How ofte by Study year,BH33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Monthly,1.668651,403,9,acma_internet,QD6. How ofte by Study year,BH40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Monthly,4.54215,1324,69,acma_internet,QD6. How ofte by Study year,BH47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Monthly,13.340176,747,93,acma_internet,QD6. How ofte by Study year,BH54
+2025,"e-reader (e.g. Kindle, Kobo)",Monthly,14.546243,447,63,acma_internet,QD6. How ofte by Study year,BH61
+2025,[Other specify from QD5],Monthly,3.479539,30,2,acma_internet,QD6. How ofte by Study year,BH68
+2017,Mobile phone,Less often than monthly,1.928584,1770,42,acma_internet,QD6. How ofte by Study year,BJ5
+2017,Desktop computer,Less often than monthly,8.077811,1211,73,acma_internet,QD6. How ofte by Study year,BJ12
+2017,Laptop computer,Less often than monthly,5.063278,1538,76,acma_internet,QD6. How ofte by Study year,BJ19
+2017,Smart TV,Less often than monthly,5.979799,723,52,acma_internet,QD6. How ofte by Study year,BJ26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,3.809545,1165,48,acma_internet,QD6. How ofte by Study year,BJ33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,10.760745,65,6,acma_internet,QD6. How ofte by Study year,BJ40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,6.032908,17,1,acma_internet,QD6. How ofte by Study year,BJ47
+2017,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,8.287314,328,32,acma_internet,QD6. How ofte by Study year,BJ61
+2017,[Other specify from QD5],Less often than monthly,2.601009,9,1,acma_internet,QD6. How ofte by Study year,BJ68
+2018,Mobile phone,Less often than monthly,1.388373,1726,31,acma_internet,QD6. How ofte by Study year,BK5
+2018,Desktop computer,Less often than monthly,5.45806,1080,46,acma_internet,QD6. How ofte by Study year,BK12
+2018,Laptop computer,Less often than monthly,4.269647,1472,55,acma_internet,QD6. How ofte by Study year,BK19
+2018,Smart TV,Less often than monthly,6.496726,933,78,acma_internet,QD6. How ofte by Study year,BK26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,6.028621,1301,66,acma_internet,QD6. How ofte by Study year,BK33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,10.200136,304,25,acma_internet,QD6. How ofte by Study year,BK40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,7.08685,491,40,acma_internet,QD6. How ofte by Study year,BK47
+2018,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,22.226001,228,49,acma_internet,QD6. How ofte by Study year,BK61
+2018,[Other specify from QD5],Less often than monthly,0,14,0,acma_internet,QD6. How ofte by Study year,BK68
+2019,Mobile phone,Less often than monthly,0.667957,1752,17,acma_internet,QD6. How ofte by Study year,BL5
+2019,Desktop computer,Less often than monthly,3.705141,1013,36,acma_internet,QD6. How ofte by Study year,BL12
+2019,Laptop computer,Less often than monthly,3.844482,1447,57,acma_internet,QD6. How ofte by Study year,BL19
+2019,Smart TV,Less often than monthly,5.711805,1001,61,acma_internet,QD6. How ofte by Study year,BL26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,5.25034,1246,59,acma_internet,QD6. How ofte by Study year,BL33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,9.63714,303,32,acma_internet,QD6. How ofte by Study year,BL40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,11.610412,542,53,acma_internet,QD6. How ofte by Study year,BL47
+2019,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,19.778101,208,32,acma_internet,QD6. How ofte by Study year,BL61
+2019,[Other specify from QD5],Less often than monthly,0,30,0,acma_internet,QD6. How ofte by Study year,BL68
+2020,Mobile phone,Less often than monthly,0.931434,1809,17,acma_internet,QD6. How ofte by Study year,BM5
+2020,Desktop computer,Less often than monthly,8.37012,916,53,acma_internet,QD6. How ofte by Study year,BM12
+2020,Laptop computer,Less often than monthly,5.492712,1514,73,acma_internet,QD6. How ofte by Study year,BM19
+2020,Smart TV,Less often than monthly,4.322432,1189,57,acma_internet,QD6. How ofte by Study year,BM26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,4.305072,1231,60,acma_internet,QD6. How ofte by Study year,BM33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,7.412811,319,23,acma_internet,QD6. How ofte by Study year,BM40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,6.8029,590,41,acma_internet,QD6. How ofte by Study year,BM47
+2020,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,16.910864,219,44,acma_internet,QD6. How ofte by Study year,BM61
+2020,[Other specify from QD5],Less often than monthly,10.509971,30,2,acma_internet,QD6. How ofte by Study year,BM68
+2021,Mobile phone,Less often than monthly,0.577265,3292,27,acma_internet,QD6. How ofte by Study year,BN5
+2021,Desktop computer,Less often than monthly,5.374074,1562,87,acma_internet,QD6. How ofte by Study year,BN12
+2021,Laptop computer,Less often than monthly,4.883179,2605,125,acma_internet,QD6. How ofte by Study year,BN19
+2021,Smart TV,Less often than monthly,5.646619,1973,129,acma_internet,QD6. How ofte by Study year,BN26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,6.484052,2065,129,acma_internet,QD6. How ofte by Study year,BN33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,5.257213,441,23,acma_internet,QD6. How ofte by Study year,BN40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,5.840779,844,63,acma_internet,QD6. How ofte by Study year,BN47
+2021,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,19.130063,353,63,acma_internet,QD6. How ofte by Study year,BN61
+2021,[Other specify from QD5],Less often than monthly,0,44,0,acma_internet,QD6. How ofte by Study year,BN68
+2022,Mobile phone,Less often than monthly,0.712661,3304,30,acma_internet,QD6. How ofte by Study year,BO5
+2022,Desktop computer,Less often than monthly,7.115895,1537,88,acma_internet,QD6. How ofte by Study year,BO12
+2022,Laptop computer,Less often than monthly,5.831906,2586,143,acma_internet,QD6. How ofte by Study year,BO19
+2022,Smart TV,Less often than monthly,6.678563,1976,149,acma_internet,QD6. How ofte by Study year,BO26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,7.728679,2028,150,acma_internet,QD6. How ofte by Study year,BO33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,8.747013,476,37,acma_internet,QD6. How ofte by Study year,BO40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,8.598224,1175,112,acma_internet,QD6. How ofte by Study year,BO47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Less often than monthly,14.265771,592,87,acma_internet,QD6. How ofte by Study year,BO54
+2022,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,21.991392,392,87,acma_internet,QD6. How ofte by Study year,BO61
+2022,[Other specify from QD5],Less often than monthly,0,33,0,acma_internet,QD6. How ofte by Study year,BO68
+2023,Mobile phone,Less often than monthly,0.587503,3349,27,acma_internet,QD6. How ofte by Study year,BP5
+2023,Desktop computer,Less often than monthly,6.685384,1421,97,acma_internet,QD6. How ofte by Study year,BP12
+2023,Laptop computer,Less often than monthly,4.827528,2606,135,acma_internet,QD6. How ofte by Study year,BP19
+2023,Smart TV,Less often than monthly,9.677836,2122,215,acma_internet,QD6. How ofte by Study year,BP26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,7.454749,1924,141,acma_internet,QD6. How ofte by Study year,BP33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,10.156883,417,37,acma_internet,QD6. How ofte by Study year,BP40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,8.605911,1206,114,acma_internet,QD6. How ofte by Study year,BP47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Less often than monthly,17.873575,641,123,acma_internet,QD6. How ofte by Study year,BP54
+2023,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,24.673467,352,88,acma_internet,QD6. How ofte by Study year,BP61
+2023,[Other specify from QD5],Less often than monthly,1.709076,26,1,acma_internet,QD6. How ofte by Study year,BP68
+2024,Mobile phone,Less often than monthly,0.620194,3374,26,acma_internet,QD6. How ofte by Study year,BQ5
+2024,Desktop computer,Less often than monthly,6.21258,1335,79,acma_internet,QD6. How ofte by Study year,BQ12
+2024,Laptop computer,Less often than monthly,5.505753,2535,129,acma_internet,QD6. How ofte by Study year,BQ19
+2024,Smart TV,Less often than monthly,5.381976,2163,122,acma_internet,QD6. How ofte by Study year,BQ26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,7.586767,1817,133,acma_internet,QD6. How ofte by Study year,BQ33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,7.767423,390,34,acma_internet,QD6. How ofte by Study year,BQ40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,8.123972,1219,107,acma_internet,QD6. How ofte by Study year,BQ47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Less often than monthly,14.988759,705,111,acma_internet,QD6. How ofte by Study year,BQ54
+2024,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,17.857976,345,65,acma_internet,QD6. How ofte by Study year,BQ61
+2024,[Other specify from QD5],Less often than monthly,6.383833,40,4,acma_internet,QD6. How ofte by Study year,BQ68
+2025,Mobile phone,Less often than monthly,0.556595,3441,21,acma_internet,QD6. How ofte by Study year,BR5
+2025,Desktop computer,Less often than monthly,7.343182,1342,104,acma_internet,QD6. How ofte by Study year,BR12
+2025,Laptop computer,Less often than monthly,5.929761,2648,156,acma_internet,QD6. How ofte by Study year,BR19
+2025,Smart TV,Less often than monthly,7.866376,2315,173,acma_internet,QD6. How ofte by Study year,BR26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Less often than monthly,9.008765,1933,167,acma_internet,QD6. How ofte by Study year,BR33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Less often than monthly,12.506301,403,45,acma_internet,QD6. How ofte by Study year,BR40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Less often than monthly,8.566943,1324,134,acma_internet,QD6. How ofte by Study year,BR47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Less often than monthly,18.286829,747,148,acma_internet,QD6. How ofte by Study year,BR54
+2025,"e-reader (e.g. Kindle, Kobo)",Less often than monthly,20.129899,447,96,acma_internet,QD6. How ofte by Study year,BR61
+2025,[Other specify from QD5],Less often than monthly,16.088075,30,3,acma_internet,QD6. How ofte by Study year,BR68
+2017,Mobile phone,Refused / prefer not to say,0.156885,1770,2,acma_internet,QD6. How ofte by Study year,CN5
+2017,Desktop computer,Refused / prefer not to say,0.02674,1211,1,acma_internet,QD6. How ofte by Study year,CN12
+2017,Laptop computer,Refused / prefer not to say,0,1538,0,acma_internet,QD6. How ofte by Study year,CN19
+2017,Smart TV,Refused / prefer not to say,0,723,0,acma_internet,QD6. How ofte by Study year,CN26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1165,0,acma_internet,QD6. How ofte by Study year,CN33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,65,0,acma_internet,QD6. How ofte by Study year,CN40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,17,0,acma_internet,QD6. How ofte by Study year,CN47
+2017,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,328,0,acma_internet,QD6. How ofte by Study year,CN61
+2017,[Other specify from QD5],Refused / prefer not to say,0,9,0,acma_internet,QD6. How ofte by Study year,CN68
+2018,Mobile phone,Refused / prefer not to say,0,1726,0,acma_internet,QD6. How ofte by Study year,CO5
+2018,Desktop computer,Refused / prefer not to say,0,1080,0,acma_internet,QD6. How ofte by Study year,CO12
+2018,Laptop computer,Refused / prefer not to say,0,1472,0,acma_internet,QD6. How ofte by Study year,CO19
+2018,Smart TV,Refused / prefer not to say,0,933,0,acma_internet,QD6. How ofte by Study year,CO26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1301,0,acma_internet,QD6. How ofte by Study year,CO33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,304,0,acma_internet,QD6. How ofte by Study year,CO40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,491,0,acma_internet,QD6. How ofte by Study year,CO47
+2018,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,228,0,acma_internet,QD6. How ofte by Study year,CO61
+2018,[Other specify from QD5],Refused / prefer not to say,0,14,0,acma_internet,QD6. How ofte by Study year,CO68
+2019,Mobile phone,Refused / prefer not to say,0,1752,0,acma_internet,QD6. How ofte by Study year,CP5
+2019,Desktop computer,Refused / prefer not to say,0,1013,0,acma_internet,QD6. How ofte by Study year,CP12
+2019,Laptop computer,Refused / prefer not to say,0,1447,0,acma_internet,QD6. How ofte by Study year,CP19
+2019,Smart TV,Refused / prefer not to say,0,1001,0,acma_internet,QD6. How ofte by Study year,CP26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1246,0,acma_internet,QD6. How ofte by Study year,CP33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,303,0,acma_internet,QD6. How ofte by Study year,CP40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,542,0,acma_internet,QD6. How ofte by Study year,CP47
+2019,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,208,0,acma_internet,QD6. How ofte by Study year,CP61
+2019,[Other specify from QD5],Refused / prefer not to say,0,30,0,acma_internet,QD6. How ofte by Study year,CP68
+2020,Mobile phone,Refused / prefer not to say,0,1809,0,acma_internet,QD6. How ofte by Study year,CQ5
+2020,Desktop computer,Refused / prefer not to say,0,916,0,acma_internet,QD6. How ofte by Study year,CQ12
+2020,Laptop computer,Refused / prefer not to say,0,1514,0,acma_internet,QD6. How ofte by Study year,CQ19
+2020,Smart TV,Refused / prefer not to say,0,1189,0,acma_internet,QD6. How ofte by Study year,CQ26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1231,0,acma_internet,QD6. How ofte by Study year,CQ33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0.116368,319,1,acma_internet,QD6. How ofte by Study year,CQ40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,590,0,acma_internet,QD6. How ofte by Study year,CQ47
+2020,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,219,0,acma_internet,QD6. How ofte by Study year,CQ61
+2020,[Other specify from QD5],Refused / prefer not to say,0,30,0,acma_internet,QD6. How ofte by Study year,CQ68
+2021,Mobile phone,Refused / prefer not to say,0,3292,0,acma_internet,QD6. How ofte by Study year,CR5
+2021,Desktop computer,Refused / prefer not to say,0.066837,1562,1,acma_internet,QD6. How ofte by Study year,CR12
+2021,Laptop computer,Refused / prefer not to say,0,2605,0,acma_internet,QD6. How ofte by Study year,CR19
+2021,Smart TV,Refused / prefer not to say,0,1973,0,acma_internet,QD6. How ofte by Study year,CR26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0.032676,2065,1,acma_internet,QD6. How ofte by Study year,CR33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,441,0,acma_internet,QD6. How ofte by Study year,CR40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,844,0,acma_internet,QD6. How ofte by Study year,CR47
+2021,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,353,0,acma_internet,QD6. How ofte by Study year,CR61
+2021,[Other specify from QD5],Refused / prefer not to say,0,44,0,acma_internet,QD6. How ofte by Study year,CR68
+2022,Mobile phone,Refused / prefer not to say,0,3304,0,acma_internet,QD6. How ofte by Study year,CS5
+2022,Desktop computer,Refused / prefer not to say,0,1537,0,acma_internet,QD6. How ofte by Study year,CS12
+2022,Laptop computer,Refused / prefer not to say,0,2586,0,acma_internet,QD6. How ofte by Study year,CS19
+2022,Smart TV,Refused / prefer not to say,0,1976,0,acma_internet,QD6. How ofte by Study year,CS26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,2028,0,acma_internet,QD6. How ofte by Study year,CS33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,476,0,acma_internet,QD6. How ofte by Study year,CS40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,1175,0,acma_internet,QD6. How ofte by Study year,CS47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Refused / prefer not to say,0,592,0,acma_internet,QD6. How ofte by Study year,CS54
+2022,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0.621982,392,1,acma_internet,QD6. How ofte by Study year,CS61
+2022,[Other specify from QD5],Refused / prefer not to say,0,33,0,acma_internet,QD6. How ofte by Study year,CS68
+2023,Mobile phone,Refused / prefer not to say,0,3349,0,acma_internet,QD6. How ofte by Study year,CT5
+2023,Desktop computer,Refused / prefer not to say,0.089516,1421,2,acma_internet,QD6. How ofte by Study year,CT12
+2023,Laptop computer,Refused / prefer not to say,0,2606,0,acma_internet,QD6. How ofte by Study year,CT19
+2023,Smart TV,Refused / prefer not to say,0,2122,0,acma_internet,QD6. How ofte by Study year,CT26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1924,0,acma_internet,QD6. How ofte by Study year,CT33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,417,0,acma_internet,QD6. How ofte by Study year,CT40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0.025577,1206,1,acma_internet,QD6. How ofte by Study year,CT47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Refused / prefer not to say,0,641,0,acma_internet,QD6. How ofte by Study year,CT54
+2023,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,352,0,acma_internet,QD6. How ofte by Study year,CT61
+2023,[Other specify from QD5],Refused / prefer not to say,0,26,0,acma_internet,QD6. How ofte by Study year,CT68
+2024,Mobile phone,Refused / prefer not to say,0,3374,0,acma_internet,QD6. How ofte by Study year,CU5
+2024,Desktop computer,Refused / prefer not to say,0.015506,1335,1,acma_internet,QD6. How ofte by Study year,CU12
+2024,Laptop computer,Refused / prefer not to say,0,2535,0,acma_internet,QD6. How ofte by Study year,CU19
+2024,Smart TV,Refused / prefer not to say,0.055781,2163,1,acma_internet,QD6. How ofte by Study year,CU26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1817,0,acma_internet,QD6. How ofte by Study year,CU33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0,390,0,acma_internet,QD6. How ofte by Study year,CU40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0,1219,0,acma_internet,QD6. How ofte by Study year,CU47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Refused / prefer not to say,0,705,0,acma_internet,QD6. How ofte by Study year,CU54
+2024,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,345,0,acma_internet,QD6. How ofte by Study year,CU61
+2024,[Other specify from QD5],Refused / prefer not to say,0,40,0,acma_internet,QD6. How ofte by Study year,CU68
+2025,Mobile phone,Refused / prefer not to say,0,3441,0,acma_internet,QD6. How ofte by Study year,CV5
+2025,Desktop computer,Refused / prefer not to say,0.133454,1342,2,acma_internet,QD6. How ofte by Study year,CV12
+2025,Laptop computer,Refused / prefer not to say,0,2648,0,acma_internet,QD6. How ofte by Study year,CV19
+2025,Smart TV,Refused / prefer not to say,0,2315,0,acma_internet,QD6. How ofte by Study year,CV26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Refused / prefer not to say,0,1933,0,acma_internet,QD6. How ofte by Study year,CV33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Refused / prefer not to say,0.281135,403,1,acma_internet,QD6. How ofte by Study year,CV40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Refused / prefer not to say,0.095718,1324,1,acma_internet,QD6. How ofte by Study year,CV47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Refused / prefer not to say,0.138558,747,1,acma_internet,QD6. How ofte by Study year,CV54
+2025,"e-reader (e.g. Kindle, Kobo)",Refused / prefer not to say,0,447,0,acma_internet,QD6. How ofte by Study year,CV61
+2025,[Other specify from QD5],Refused / prefer not to say,0,30,0,acma_internet,QD6. How ofte by Study year,CV68
+2017,Mobile phone,Don't know,0.211475,1770,4,acma_internet,QD6. How ofte by Study year,CX5
+2017,Desktop computer,Don't know,0.067358,1211,1,acma_internet,QD6. How ofte by Study year,CX12
+2017,Laptop computer,Don't know,0.566429,1538,4,acma_internet,QD6. How ofte by Study year,CX19
+2017,Smart TV,Don't know,0.247923,723,2,acma_internet,QD6. How ofte by Study year,CX26
+2017,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0.256278,1165,3,acma_internet,QD6. How ofte by Study year,CX33
+2017,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,2.803149,65,2,acma_internet,QD6. How ofte by Study year,CX40
+2017,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0,17,0,acma_internet,QD6. How ofte by Study year,CX47
+2017,"e-reader (e.g. Kindle, Kobo)",Don't know,0.279679,328,2,acma_internet,QD6. How ofte by Study year,CX61
+2017,[Other specify from QD5],Don't know,0,9,0,acma_internet,QD6. How ofte by Study year,CX68
+2018,Mobile phone,Don't know,0.02238,1726,1,acma_internet,QD6. How ofte by Study year,CY5
+2018,Desktop computer,Don't know,0,1080,0,acma_internet,QD6. How ofte by Study year,CY12
+2018,Laptop computer,Don't know,0,1472,0,acma_internet,QD6. How ofte by Study year,CY19
+2018,Smart TV,Don't know,0,933,0,acma_internet,QD6. How ofte by Study year,CY26
+2018,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0,1301,0,acma_internet,QD6. How ofte by Study year,CY33
+2018,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0,304,0,acma_internet,QD6. How ofte by Study year,CY40
+2018,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0,491,0,acma_internet,QD6. How ofte by Study year,CY47
+2018,"e-reader (e.g. Kindle, Kobo)",Don't know,0,228,0,acma_internet,QD6. How ofte by Study year,CY61
+2018,[Other specify from QD5],Don't know,0,14,0,acma_internet,QD6. How ofte by Study year,CY68
+2019,Mobile phone,Don't know,0.166972,1752,2,acma_internet,QD6. How ofte by Study year,CZ5
+2019,Desktop computer,Don't know,0.018541,1013,1,acma_internet,QD6. How ofte by Study year,CZ12
+2019,Laptop computer,Don't know,0,1447,0,acma_internet,QD6. How ofte by Study year,CZ19
+2019,Smart TV,Don't know,0,1001,0,acma_internet,QD6. How ofte by Study year,CZ26
+2019,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0,1246,0,acma_internet,QD6. How ofte by Study year,CZ33
+2019,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0.043,303,1,acma_internet,QD6. How ofte by Study year,CZ40
+2019,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0.567209,542,3,acma_internet,QD6. How ofte by Study year,CZ47
+2019,"e-reader (e.g. Kindle, Kobo)",Don't know,0,208,0,acma_internet,QD6. How ofte by Study year,CZ61
+2019,[Other specify from QD5],Don't know,0,30,0,acma_internet,QD6. How ofte by Study year,CZ68
+2020,Mobile phone,Don't know,0.090468,1809,2,acma_internet,QD6. How ofte by Study year,DA5
+2020,Desktop computer,Don't know,0,916,0,acma_internet,QD6. How ofte by Study year,DA12
+2020,Laptop computer,Don't know,0.085275,1514,1,acma_internet,QD6. How ofte by Study year,DA19
+2020,Smart TV,Don't know,0,1189,0,acma_internet,QD6. How ofte by Study year,DA26
+2020,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0.042092,1231,1,acma_internet,QD6. How ofte by Study year,DA33
+2020,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0,319,0,acma_internet,QD6. How ofte by Study year,DA40
+2020,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0,590,0,acma_internet,QD6. How ofte by Study year,DA47
+2020,"e-reader (e.g. Kindle, Kobo)",Don't know,0,219,0,acma_internet,QD6. How ofte by Study year,DA61
+2020,[Other specify from QD5],Don't know,0,30,0,acma_internet,QD6. How ofte by Study year,DA68
+2021,Mobile phone,Don't know,0.146735,3292,5,acma_internet,QD6. How ofte by Study year,DB5
+2021,Desktop computer,Don't know,0.124497,1562,2,acma_internet,QD6. How ofte by Study year,DB12
+2021,Laptop computer,Don't know,0.034868,2605,1,acma_internet,QD6. How ofte by Study year,DB19
+2021,Smart TV,Don't know,0.094745,1973,2,acma_internet,QD6. How ofte by Study year,DB26
+2021,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0,2065,0,acma_internet,QD6. How ofte by Study year,DB33
+2021,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0.137566,441,2,acma_internet,QD6. How ofte by Study year,DB40
+2021,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0,844,0,acma_internet,QD6. How ofte by Study year,DB47
+2021,"e-reader (e.g. Kindle, Kobo)",Don't know,0,353,0,acma_internet,QD6. How ofte by Study year,DB61
+2021,[Other specify from QD5],Don't know,5.027765,44,1,acma_internet,QD6. How ofte by Study year,DB68
+2022,Mobile phone,Don't know,0.135547,3304,4,acma_internet,QD6. How ofte by Study year,DC5
+2022,Desktop computer,Don't know,0.157883,1537,2,acma_internet,QD6. How ofte by Study year,DC12
+2022,Laptop computer,Don't know,0.196268,2586,4,acma_internet,QD6. How ofte by Study year,DC19
+2022,Smart TV,Don't know,0.071432,1976,2,acma_internet,QD6. How ofte by Study year,DC26
+2022,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0.188361,2028,3,acma_internet,QD6. How ofte by Study year,DC33
+2022,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0.385981,476,2,acma_internet,QD6. How ofte by Study year,DC40
+2022,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0.105414,1175,3,acma_internet,QD6. How ofte by Study year,DC47
+2022,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Don't know,0,592,0,acma_internet,QD6. How ofte by Study year,DC54
+2022,"e-reader (e.g. Kindle, Kobo)",Don't know,0.331537,392,1,acma_internet,QD6. How ofte by Study year,DC61
+2022,[Other specify from QD5],Don't know,0,33,0,acma_internet,QD6. How ofte by Study year,DC68
+2023,Mobile phone,Don't know,0,3349,0,acma_internet,QD6. How ofte by Study year,DD5
+2023,Desktop computer,Don't know,0.138102,1421,2,acma_internet,QD6. How ofte by Study year,DD12
+2023,Laptop computer,Don't know,0.105882,2606,3,acma_internet,QD6. How ofte by Study year,DD19
+2023,Smart TV,Don't know,0.264847,2122,4,acma_internet,QD6. How ofte by Study year,DD26
+2023,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0.127836,1924,2,acma_internet,QD6. How ofte by Study year,DD33
+2023,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0.369464,417,1,acma_internet,QD6. How ofte by Study year,DD40
+2023,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0.062405,1206,2,acma_internet,QD6. How ofte by Study year,DD47
+2023,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Don't know,0,641,0,acma_internet,QD6. How ofte by Study year,DD54
+2023,"e-reader (e.g. Kindle, Kobo)",Don't know,0.188385,352,1,acma_internet,QD6. How ofte by Study year,DD61
+2023,[Other specify from QD5],Don't know,0,26,0,acma_internet,QD6. How ofte by Study year,DD68
+2024,Mobile phone,Don't know,0.063613,3374,2,acma_internet,QD6. How ofte by Study year,DE5
+2024,Desktop computer,Don't know,0.093204,1335,1,acma_internet,QD6. How ofte by Study year,DE12
+2024,Laptop computer,Don't know,0.018276,2535,2,acma_internet,QD6. How ofte by Study year,DE19
+2024,Smart TV,Don't know,0.057758,2163,4,acma_internet,QD6. How ofte by Study year,DE26
+2024,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0.104539,1817,1,acma_internet,QD6. How ofte by Study year,DE33
+2024,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0.152353,390,2,acma_internet,QD6. How ofte by Study year,DE40
+2024,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0.283737,1219,3,acma_internet,QD6. How ofte by Study year,DE47
+2024,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Don't know,0,705,0,acma_internet,QD6. How ofte by Study year,DE54
+2024,"e-reader (e.g. Kindle, Kobo)",Don't know,0,345,0,acma_internet,QD6. How ofte by Study year,DE61
+2024,[Other specify from QD5],Don't know,0,40,0,acma_internet,QD6. How ofte by Study year,DE68
+2025,Mobile phone,Don't know,0.044521,3441,3,acma_internet,QD6. How ofte by Study year,DF5
+2025,Desktop computer,Don't know,0.363477,1342,6,acma_internet,QD6. How ofte by Study year,DF12
+2025,Laptop computer,Don't know,0,2648,0,acma_internet,QD6. How ofte by Study year,DF19
+2025,Smart TV,Don't know,0.08213,2315,2,acma_internet,QD6. How ofte by Study year,DF26
+2025,"Tablet (e.g. an iPad, Galaxy Tab)",Don't know,0.14541,1933,2,acma_internet,QD6. How ofte by Study year,DF33
+2025,"Personal video recorder (PVR), (e.g. Foxtel IQ, Fetch)",Don't know,0,403,0,acma_internet,QD6. How ofte by Study year,DF40
+2025,"Digital media player or streaming device (e.g. Google Chromecast/Google TV Streamer, Apple TV, Amazon Fire TV/Fire TV Stick, Hubbl device)",Don't know,0.1484,1324,2,acma_internet,QD6. How ofte by Study year,DF47
+2025,"Games console (e.g. PlayStation 5, Nintendo Switch, Xbox Series S/X)",Don't know,0.025112,747,1,acma_internet,QD6. How ofte by Study year,DF54
+2025,"e-reader (e.g. Kindle, Kobo)",Don't know,0,447,0,acma_internet,QD6. How ofte by Study year,DF61
+2025,[Other specify from QD5],Don't know,0,30,0,acma_internet,QD6. How ofte by Study year,DF68

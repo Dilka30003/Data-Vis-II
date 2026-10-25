@@ -1,0 +1,144 @@
+year,service,percent,base_n,response_n,status,small_base,dimension,group,source_id,source_sheet,source_cell
+2025,Mobile phone for calls,96.656609,182,176,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J6
+2025,Mobile phone for calls,98.915615,486,478,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S6
+2025,Mobile phone for calls,96.92378,705,689,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB6
+2025,Mobile phone for calls,98.060755,626,617,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK6
+2025,Mobile phone for calls,98.173591,579,571,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT6
+2025,Mobile phone for calls,99.328327,619,615,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC6
+2025,Mobile phone for calls,96.096739,346,333,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL6
+2025,Mobile phone for calls,98.159388,1330,1310,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU6
+2025,Mobile phone for calls,97.641281,2167,2125,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD6
+2025,Mobile phone for calls,97.817317,1894,1860,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM6
+2025,Mobile phone for calls,97.976405,1649,1619,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV6
+2025,Mobile phone for texts (SMS),94.542678,182,173,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J12
+2025,Mobile phone for texts (SMS),97.104191,486,472,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S12
+2025,Mobile phone for texts (SMS),96.13527,705,680,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB12
+2025,Mobile phone for texts (SMS),96.695723,626,611,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK12
+2025,Mobile phone for texts (SMS),95.590587,579,560,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT12
+2025,Mobile phone for texts (SMS),97.866249,619,606,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC12
+2025,Mobile phone for texts (SMS),91.697844,346,324,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL12
+2025,Mobile phone for texts (SMS),95.417071,1330,1276,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU12
+2025,Mobile phone for texts (SMS),96.559787,2167,2105,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD12
+2025,Mobile phone for texts (SMS),95.40256,1894,1829,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM12
+2025,Mobile phone for texts (SMS),96.706091,1649,1597,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV12
+2025,"Tablet, computer or other internet enabled device for calls",45.330598,182,79,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J24
+2025,"Tablet, computer or other internet enabled device for calls",38.488175,486,185,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S24
+2025,"Tablet, computer or other internet enabled device for calls",38.682825,705,277,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB24
+2025,"Tablet, computer or other internet enabled device for calls",32.578893,626,220,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK24
+2025,"Tablet, computer or other internet enabled device for calls",27.238243,579,162,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT24
+2025,"Tablet, computer or other internet enabled device for calls",25.409395,619,175,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC24
+2025,"Tablet, computer or other internet enabled device for calls",22.293237,346,89,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL24
+2025,"Tablet, computer or other internet enabled device for calls",35.342688,1330,472,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU24
+2025,"Tablet, computer or other internet enabled device for calls",31.6381,2167,697,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD24
+2025,"Tablet, computer or other internet enabled device for calls",36.448476,1894,676,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM24
+2025,"Tablet, computer or other internet enabled device for calls",30.681513,1649,511,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV24
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",46.695165,182,76,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",24.031891,486,126,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",26.217864,705,191,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",25.748016,626,162,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",25.005764,579,153,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",30.983197,619,216,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",33.012106,346,128,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",30.541676,1330,405,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",27.472831,2167,633,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",31.179458,1894,582,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM30
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",26.90595,1649,470,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV30
+2025,Landline (home) telephone for calls,2.778076,182,6,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J36
+2025,Landline (home) telephone for calls,4.666208,486,15,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S36
+2025,Landline (home) telephone for calls,7.449895,705,50,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB36
+2025,Landline (home) telephone for calls,12.892176,626,71,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK36
+2025,Landline (home) telephone for calls,13.31656,579,81,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT36
+2025,Landline (home) telephone for calls,20.767856,619,109,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC36
+2025,Landline (home) telephone for calls,34.143031,346,110,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL36
+2025,Landline (home) telephone for calls,13.579424,1330,175,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU36
+2025,Landline (home) telephone for calls,10.797716,2167,265,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD36
+2025,Landline (home) telephone for calls,10.30005,1894,204,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM36
+2025,Landline (home) telephone for calls,13.946331,1649,238,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV36
+2025,Public payphone,5.638996,182,8,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J42
+2025,Public payphone,2.300716,486,11,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S42
+2025,Public payphone,3.068999,705,21,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB42
+2025,Public payphone,1.784764,626,11,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK42
+2025,Public payphone,1.537892,579,9,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT42
+2025,Public payphone,0.3572,619,3,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC42
+2025,Public payphone,0,346,0,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL42
+2025,Public payphone,2.368487,1330,25,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU42
+2025,Public payphone,1.84419,2167,36,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD42
+2025,Public payphone,2.356521,1894,32,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM42
+2025,Public payphone,1.984207,1649,31,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV42
+2025,Email,86.928287,182,160,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J48
+2025,Email,87.458072,486,438,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S48
+2025,Email,92.395189,705,656,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB48
+2025,Email,94.740056,626,598,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK48
+2025,Email,95.850921,579,556,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT48
+2025,Email,93.057592,619,591,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC48
+2025,Email,90.605719,346,315,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL48
+2025,Email,91.061191,1330,1234,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU48
+2025,Email,92.186071,2167,2038,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD48
+2025,Email,91.614172,1894,1773,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM48
+2025,Email,91.681964,1649,1541,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV48
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",91.554669,182,168,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",89.054001,486,440,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",84.211016,705,615,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",78.048216,626,503,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",71.081486,579,427,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",59.197835,619,396,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",47.718598,346,180,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",71.869768,1330,953,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",81.042886,2167,1734,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",81.522525,1894,1541,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM54
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",71.597253,1649,1188,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV54
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",79.260595,182,143,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",76.538328,486,366,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",69.818485,705,508,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",60.105219,626,393,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",56.802835,579,329,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",46.523438,619,312,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",36.063787,346,143,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",60.121584,1330,798,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",65.085503,2167,1364,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",67.64528,1894,1250,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM60
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",57.726846,1649,944,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV60
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",75.076492,182,137,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",76.68014,486,382,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",74.164206,705,541,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",59.896939,626,389,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",53.817395,579,322,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",39.89415,619,275,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",31.797734,346,124,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",56.520497,1330,762,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",66.31097,2167,1378,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",66.894431,1894,1243,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM66
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",55.631542,1649,927,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV66
+2025,NET: used an app (messaing/calling app),94.354197,182,173,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J72
+2025,NET: used an app (messaing/calling app),93.37945,486,458,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S72
+2025,NET: used an app (messaing/calling app),90.328302,705,651,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB72
+2025,NET: used an app (messaing/calling app),84.529944,626,547,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK72
+2025,NET: used an app (messaing/calling app),80.454824,579,477,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT72
+2025,NET: used an app (messaing/calling app),69.587057,619,458,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC72
+2025,NET: used an app (messaing/calling app),56.366329,346,215,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL72
+2025,NET: used an app (messaing/calling app),78.750143,1330,1051,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU72
+2025,NET: used an app (messaing/calling app),87.751245,2167,1884,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD72
+2025,NET: used an app (messaing/calling app),87.865959,1894,1663,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM72
+2025,NET: used an app (messaing/calling app),78.722561,1649,1316,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV72
+2025,NET MOBILE,97.000588,182,177,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J78
+2025,NET MOBILE,99.349992,486,481,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S78
+2025,NET MOBILE,98.341101,705,697,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB78
+2025,NET MOBILE,98.098638,626,618,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK78
+2025,NET MOBILE,99.222365,579,575,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT78
+2025,NET MOBILE,99.800068,619,617,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC78
+2025,NET MOBILE,97.205695,346,338,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL78
+2025,NET MOBILE,98.692031,1330,1317,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU78
+2025,NET MOBILE,98.443961,2167,2141,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD78
+2025,NET MOBILE,98.516287,1894,1874,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM78
+2025,NET MOBILE,98.647924,1649,1629,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV78
+2025,NET: Voice/video,86.021836,182,157,published,0,age,18-24,acma_communication,QA1. In the p by PBI BANNER,J84
+2025,NET: Voice/video,85.586545,486,417,published,0,age,25-34,acma_communication,QA1. In the p by PBI BANNER,S84
+2025,NET: Voice/video,81.093834,705,590,published,0,age,35-44,acma_communication,QA1. In the p by PBI BANNER,AB84
+2025,NET: Voice/video,70.44967,626,457,published,0,age,45-54,acma_communication,QA1. In the p by PBI BANNER,AK84
+2025,NET: Voice/video,67.272529,579,398,published,0,age,55-64,acma_communication,QA1. In the p by PBI BANNER,AT84
+2025,NET: Voice/video,54.717451,619,366,published,0,age,65-74,acma_communication,QA1. In the p by PBI BANNER,BC84
+2025,NET: Voice/video,42.043155,346,164,published,0,age,75+,acma_communication,QA1. In the p by PBI BANNER,BL84
+2025,NET: Voice/video,67.450715,1330,902,published,0,gender,Man or male,acma_communication,QA1. In the p by PBI BANNER,BU84
+2025,NET: Voice/video,76.433659,2167,1612,published,0,gender,Woman or female,acma_communication,QA1. In the p by PBI BANNER,CD84
+2025,NET: Voice/video,77.012559,1894,1442,published,0,location,Metro,acma_communication,QA1. In the p by PBI BANNER,CM84
+2025,NET: Voice/video,66.8017,1649,1107,published,0,location,Regional,acma_communication,QA1. In the p by PBI BANNER,CV84

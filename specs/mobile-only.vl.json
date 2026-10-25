@@ -1,0 +1,184 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 280,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "data": {
+    "url": "data/adii_mobile_access.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.measure === 'Mobile-only internet access'"
+    },
+    {
+      "calculate": "datum.group === 'Did not complete secondary school' ? 'No secondary completion' : datum.group === 'Outside capital cities' ? 'Outside capitals' : datum.group === 'Public housing residents' ? 'Public housing' : datum.group",
+      "as": "label"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "stroke": "#c9cebd",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "percent",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              25
+            ]
+          },
+          "axis": {
+            "title": null,
+            "labelExpr": "datum.value + '%'",
+            "tickCount": 6
+          }
+        },
+        "x2": {
+          "datum": 0
+        },
+        "y": {
+          "field": "label",
+          "type": "nominal",
+          "sort": "-x",
+          "axis": {
+            "title": null,
+            "labelLimit": 145,
+            "grid": false
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 95,
+        "color": "#b2592c"
+      },
+      "encoding": {
+        "x": {
+          "field": "percent",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "label",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "tooltip": [
+          {
+            "field": "group",
+            "title": "Group",
+            "type": "nominal"
+          },
+          {
+            "field": "percent",
+            "title": "Mobile-only access (%)",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "data_year",
+            "title": "Data year",
+            "type": "quantitative",
+            "format": "d"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 9,
+        "color": "#b2592c",
+        "fontSize": 12
+      },
+      "encoding": {
+        "x": {
+          "field": "percent",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "label",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "text": {
+          "field": "percent",
+          "type": "quantitative",
+          "format": ".1f"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+year,activity,percent,base_n,response_n,status,small_base,source_id,source_sheet,source_cell
+2025,Accessing news and information online,93.551379,3543,3334,published,0,acma_internet,QD8. Internet by Study year,J4
+2025,Buying goods or services online,86.885192,3543,3083,published,0,acma_internet,QD8. Internet by Study year,J10
+2025,"Accessing government services using an app, not through a website browser such as Chrome or Safari",75.153194,3543,2634,published,0,acma_internet,QD8. Internet by Study year,J16
+2025,"Video conferencing or video calling via an app or web-based service (e.g. Zoom, Skype or Microsoft Teams)",57.820037,3543,2106,published,0,acma_internet,QD8. Internet by Study year,J22
+2025,"Telehealth consultation with a doctor, psychologist, or other medical/health professional, via video conferencing, phone or emails",42.029517,3543,1539,published,0,acma_internet,QD8. Internet by Study year,J28
+2025,Working online from home,41.946202,3543,1591,published,0,acma_internet,QD8. Internet by Study year,J34
+2025,Selling goods or services online,30.012086,3543,1033,published,0,acma_internet,QD8. Internet by Study year,J40
+2025,Studying online from home,29.738346,3543,922,published,0,acma_internet,QD8. Internet by Study year,J46
+2025,"Legal, financial or other professional consultation online (excludes medical)",14.260227,3543,544,published,0,acma_internet,QD8. Internet by Study year,J52

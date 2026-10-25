@@ -1,0 +1,20 @@
+{
+  "source_csv": "telstra_sites_victoria_2026.csv",
+  "source_records": 2831,
+  "occupied_hexagons": 527,
+  "five_g_records": 1888,
+  "projected_crs": "EPSG:3577 (GDA94 / Australian Albers)",
+  "radius_metres": 10000.0,
+  "full_cell_area_km2": 259.807621,
+  "grid_origin": [
+    0,
+    0
+  ],
+  "orientation": "pointy-top",
+  "clipped": false,
+  "limitations": [
+    "Whole cells can extend beyond Victoria; counts only include source records in the existing generalised Victoria subset.",
+    "Overlapping RFNSA records are retained, not silently treated as unique towers.",
+    "Blank areas indicate no selected records in this extract, not no signal coverage."
+  ]
+}

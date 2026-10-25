@@ -1,0 +1,118 @@
+year,service,percent,base_n,response_n,status,small_base,source_id,source_sheet,source_cell
+2017,Mobile phone for calls,94.620512,2277,2219,published,0,acma_communication,QA1. In the p by Study year,B3
+2018,Mobile phone for calls,95.699138,2106,2055,published,0,acma_communication,QA1. In the p by Study year,C3
+2019,Mobile phone for calls,93.948797,2067,2023,published,0,acma_communication,QA1. In the p by Study year,D3
+2020,Mobile phone for calls,98.11109,2009,1972,published,0,acma_communication,QA1. In the p by Study year,E3
+2021,Mobile phone for calls,97.645392,3586,3516,published,0,acma_communication,QA1. In the p by Study year,F3
+2022,Mobile phone for calls,95.684648,3580,3449,published,0,acma_communication,QA1. In the p by Study year,G3
+2023,Mobile phone for calls,96.814761,3572,3485,published,0,acma_communication,QA1. In the p by Study year,H3
+2024,Mobile phone for calls,97.881629,3537,3478,published,0,acma_communication,QA1. In the p by Study year,I3
+2025,Mobile phone for calls,97.894237,3543,3479,published,0,acma_communication,QA1. In the p by Study year,J3
+2017,Mobile phone for texts (SMS),85.602136,2277,2042,published,0,acma_communication,QA1. In the p by Study year,B9
+2018,Mobile phone for texts (SMS),85.836421,2106,1901,published,0,acma_communication,QA1. In the p by Study year,C9
+2019,Mobile phone for texts (SMS),86.240919,2067,1900,published,0,acma_communication,QA1. In the p by Study year,D9
+2020,Mobile phone for texts (SMS),91.973956,2009,1868,published,0,acma_communication,QA1. In the p by Study year,E9
+2021,Mobile phone for texts (SMS),90.975212,3586,3334,published,0,acma_communication,QA1. In the p by Study year,F9
+2022,Mobile phone for texts (SMS),91.015011,3580,3290,published,0,acma_communication,QA1. In the p by Study year,G9
+2023,Mobile phone for texts (SMS),95.676537,3572,3434,published,0,acma_communication,QA1. In the p by Study year,H9
+2024,Mobile phone for texts (SMS),96.318978,3537,3425,published,0,acma_communication,QA1. In the p by Study year,I9
+2025,Mobile phone for texts (SMS),96.032825,3543,3426,published,0,acma_communication,QA1. In the p by Study year,J9
+2017,"Tablet, computer or other internet enabled device for calls",,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B21
+2018,"Tablet, computer or other internet enabled device for calls",,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C21
+2019,"Tablet, computer or other internet enabled device for calls",,2067,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,D21
+2020,"Tablet, computer or other internet enabled device for calls",,2009,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,E21
+2021,"Tablet, computer or other internet enabled device for calls",,3586,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,F21
+2022,"Tablet, computer or other internet enabled device for calls",29.634452,3580,1077,published,0,acma_communication,QA1. In the p by Study year,G21
+2023,"Tablet, computer or other internet enabled device for calls",27.65049,3572,985,published,0,acma_communication,QA1. In the p by Study year,H21
+2024,"Tablet, computer or other internet enabled device for calls",33.026032,3537,1176,published,0,acma_communication,QA1. In the p by Study year,I21
+2025,"Tablet, computer or other internet enabled device for calls",33.660115,3543,1187,published,0,acma_communication,QA1. In the p by Study year,J21
+2017,"Tablet, computer or other internet enabled device for texts (SMS)",,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B27
+2018,"Tablet, computer or other internet enabled device for texts (SMS)",,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C27
+2019,"Tablet, computer or other internet enabled device for texts (SMS)",,2067,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,D27
+2020,"Tablet, computer or other internet enabled device for texts (SMS)",,2009,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,E27
+2021,"Tablet, computer or other internet enabled device for texts (SMS)",,3586,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,F27
+2022,"Tablet, computer or other internet enabled device for texts (SMS)",28.52942,3580,1072,published,0,acma_communication,QA1. In the p by Study year,G27
+2023,"Tablet, computer or other internet enabled device for texts (SMS)",28.518951,3572,1075,published,0,acma_communication,QA1. In the p by Study year,H27
+2024,"Tablet, computer or other internet enabled device for texts (SMS)",27.857079,3537,1044,published,0,acma_communication,QA1. In the p by Study year,I27
+2025,"Tablet, computer or other internet enabled device for texts (SMS)",29.113191,3543,1052,published,0,acma_communication,QA1. In the p by Study year,J27
+2017,Landline (home) telephone for calls,54.181116,2277,1398,published,0,acma_communication,QA1. In the p by Study year,B33
+2018,Landline (home) telephone for calls,48.440382,2106,1176,published,0,acma_communication,QA1. In the p by Study year,C33
+2019,Landline (home) telephone for calls,44.037389,2067,997,published,0,acma_communication,QA1. In the p by Study year,D33
+2020,Landline (home) telephone for calls,40.263245,2009,788,published,0,acma_communication,QA1. In the p by Study year,E33
+2021,Landline (home) telephone for calls,24.398243,3586,1108,published,0,acma_communication,QA1. In the p by Study year,F33
+2022,Landline (home) telephone for calls,23.007099,3580,1017,published,0,acma_communication,QA1. In the p by Study year,G33
+2023,Landline (home) telephone for calls,18.278067,3572,754,published,0,acma_communication,QA1. In the p by Study year,H33
+2024,Landline (home) telephone for calls,14.855667,3537,578,published,0,acma_communication,QA1. In the p by Study year,I33
+2025,Landline (home) telephone for calls,12.063048,3543,442,published,0,acma_communication,QA1. In the p by Study year,J33
+2017,Public payphone,1.958505,2277,39,published,0,acma_communication,QA1. In the p by Study year,B39
+2018,Public payphone,2.50159,2106,41,published,0,acma_communication,QA1. In the p by Study year,C39
+2019,Public payphone,2.104288,2067,38,published,0,acma_communication,QA1. In the p by Study year,D39
+2020,Public payphone,0.879113,2009,20,published,0,acma_communication,QA1. In the p by Study year,E39
+2021,Public payphone,1.211148,3586,44,published,0,acma_communication,QA1. In the p by Study year,F39
+2022,Public payphone,2.000819,3580,78,published,0,acma_communication,QA1. In the p by Study year,G39
+2023,Public payphone,1.9039,3572,64,published,0,acma_communication,QA1. In the p by Study year,H39
+2024,Public payphone,3.669072,3537,101,published,0,acma_communication,QA1. In the p by Study year,I39
+2025,Public payphone,2.176505,3543,63,published,0,acma_communication,QA1. In the p by Study year,J39
+2017,Email,79.064206,2277,2011,published,0,acma_communication,QA1. In the p by Study year,B45
+2018,Email,80.44411,2106,1889,published,0,acma_communication,QA1. In the p by Study year,C45
+2019,Email,79.828619,2067,1846,published,0,acma_communication,QA1. In the p by Study year,D45
+2020,Email,90.396291,2009,1855,published,0,acma_communication,QA1. In the p by Study year,E45
+2021,Email,90.684531,3586,3315,published,0,acma_communication,QA1. In the p by Study year,F45
+2022,Email,,3580,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,G45
+2023,Email,,3572,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,H45
+2024,Email,91.621602,3537,3306,published,0,acma_communication,QA1. In the p by Study year,I45
+2025,Email,91.64695,3543,3314,published,0,acma_communication,QA1. In the p by Study year,J45
+2017,"App for messages (e.g. Messenger, WhatsApp, Instagram)",,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B51
+2018,"App for messages (e.g. Messenger, WhatsApp, Instagram)",,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C51
+2019,"App for messages (e.g. Messenger, WhatsApp, Instagram)",52.747869,2067,1162,published,0,acma_communication,QA1. In the p by Study year,D51
+2020,"App for messages (e.g. Messenger, WhatsApp, Instagram)",60.735369,2009,1162,published,0,acma_communication,QA1. In the p by Study year,E51
+2021,"App for messages (e.g. Messenger, WhatsApp, Instagram)",71.85494,3586,2539,published,0,acma_communication,QA1. In the p by Study year,F51
+2022,"App for messages (e.g. Messenger, WhatsApp, Instagram)",74.077004,3580,2546,published,0,acma_communication,QA1. In the p by Study year,G51
+2023,"App for messages (e.g. Messenger, WhatsApp, Instagram)",78.052312,3572,2742,published,0,acma_communication,QA1. In the p by Study year,H51
+2024,"App for messages (e.g. Messenger, WhatsApp, Instagram)",76.783358,3537,2706,published,0,acma_communication,QA1. In the p by Study year,I51
+2025,"App for messages (e.g. Messenger, WhatsApp, Instagram)",76.723597,3543,2729,published,0,acma_communication,QA1. In the p by Study year,J51
+2017,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B57
+2018,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C57
+2019,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",37.758799,2067,840,published,0,acma_communication,QA1. In the p by Study year,D57
+2020,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",72.023909,2009,1395,published,0,acma_communication,QA1. In the p by Study year,E57
+2021,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",44.691864,3586,1489,published,0,acma_communication,QA1. In the p by Study year,F57
+2022,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",51.717412,3580,1740,published,0,acma_communication,QA1. In the p by Study year,G57
+2023,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",57.907176,3572,1971,published,0,acma_communication,QA1. In the p by Study year,H57
+2024,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",61.23883,3537,2139,published,0,acma_communication,QA1. In the p by Study year,I57
+2025,"App for voice calls (e.g. Messenger, WhatsApp, FaceTime)",62.849658,3543,2194,published,0,acma_communication,QA1. In the p by Study year,J57
+2017,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B63
+2018,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C63
+2019,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",36.761812,2067,763,published,0,acma_communication,QA1. In the p by Study year,D63
+2020,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",46.402914,2009,851,published,0,acma_communication,QA1. In the p by Study year,E63
+2021,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",54.697861,3586,1919,published,0,acma_communication,QA1. In the p by Study year,F63
+2022,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",62.163852,3580,2158,published,0,acma_communication,QA1. In the p by Study year,G63
+2023,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",63.722537,3572,2197,published,0,acma_communication,QA1. In the p by Study year,H63
+2024,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",61.35354,3537,2153,published,0,acma_communication,QA1. In the p by Study year,I63
+2025,"App for video calls (e.g. Messenger, WhatsApp, FaceTime)",61.448757,3543,2170,published,0,acma_communication,QA1. In the p by Study year,J63
+2017,NET: used an app (messaing/calling app),,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B69
+2018,NET: used an app (messaing/calling app),,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C69
+2019,NET: used an app (messaing/calling app),60.297155,2067,1313,published,0,acma_communication,QA1. In the p by Study year,D69
+2020,NET: used an app (messaing/calling app),76.573553,2009,1505,published,0,acma_communication,QA1. In the p by Study year,E69
+2021,NET: used an app (messaing/calling app),77.181486,3586,2739,published,0,acma_communication,QA1. In the p by Study year,F69
+2022,NET: used an app (messaing/calling app),80.859022,3580,2818,published,0,acma_communication,QA1. In the p by Study year,G69
+2023,NET: used an app (messaing/calling app),84.279265,3572,2956,published,0,acma_communication,QA1. In the p by Study year,H69
+2024,NET: used an app (messaing/calling app),83.527601,3537,2963,published,0,acma_communication,QA1. In the p by Study year,I69
+2025,NET: used an app (messaing/calling app),83.445072,3543,2979,published,0,acma_communication,QA1. In the p by Study year,J69
+2017,NET MOBILE,95.178852,2277,2230,published,0,acma_communication,QA1. In the p by Study year,B75
+2018,NET MOBILE,96.110904,2106,2064,published,0,acma_communication,QA1. In the p by Study year,C75
+2019,NET MOBILE,94.533196,2067,2033,published,0,acma_communication,QA1. In the p by Study year,D75
+2020,NET MOBILE,98.685514,2009,1982,published,0,acma_communication,QA1. In the p by Study year,E75
+2021,NET MOBILE,98.693656,3586,3541,published,0,acma_communication,QA1. In the p by Study year,F75
+2022,NET MOBILE,97.553487,3580,3507,published,0,acma_communication,QA1. In the p by Study year,G75
+2023,NET MOBILE,98.488079,3572,3526,published,0,acma_communication,QA1. In the p by Study year,H75
+2024,NET MOBILE,98.922868,3537,3510,published,0,acma_communication,QA1. In the p by Study year,I75
+2025,NET MOBILE,98.579934,3543,3503,published,0,acma_communication,QA1. In the p by Study year,J75
+2017,NET: Voice/video,,2277,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,B81
+2018,NET: Voice/video,,2106,0,zero_or_not_asked,0,acma_communication,QA1. In the p by Study year,C81
+2019,NET: Voice/video,46.881631,2067,1018,published,0,acma_communication,QA1. In the p by Study year,D81
+2020,NET: Voice/video,73.396538,2009,1421,published,0,acma_communication,QA1. In the p by Study year,E81
+2021,NET: Voice/video,59.639339,3586,2099,published,0,acma_communication,QA1. In the p by Study year,F81
+2022,NET: Voice/video,68.575765,3580,2376,published,0,acma_communication,QA1. In the p by Study year,G81
+2023,NET: Voice/video,71.108089,3572,2467,published,0,acma_communication,QA1. In the p by Study year,H81
+2024,NET: Voice/video,71.477255,3537,2516,published,0,acma_communication,QA1. In the p by Study year,I81
+2025,NET: Voice/video,72.075548,3543,2549,published,0,acma_communication,QA1. In the p by Study year,J81

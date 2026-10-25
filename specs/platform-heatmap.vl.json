@@ -1,0 +1,193 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 350,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "data": {
+    "url": "data/platform_demographics_2025.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.dimension === 'age' && indexof([\"Facebook\",\"YouTube\",\"Facebook Messenger\",\"WhatsApp\",\"Instagram\",\"TikTok\",\"Snapchat\",\"Reddit\"],datum.platform)>=0"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "group",
+      "type": "ordinal",
+      "sort": [
+        "18-24",
+        "25-34",
+        "35-44",
+        "45-54",
+        "55-64",
+        "65-74",
+        "75+"
+      ],
+      "axis": {
+        "title": null,
+        "labelAngle": 0,
+        "orient": "top",
+        "grid": false
+      }
+    },
+    "y": {
+      "field": "platform",
+      "type": "ordinal",
+      "sort": [
+        "Facebook",
+        "YouTube",
+        "Facebook Messenger",
+        "WhatsApp",
+        "Instagram",
+        "TikTok",
+        "Snapchat",
+        "Reddit"
+      ],
+      "axis": {
+        "title": null,
+        "labelLimit": 130,
+        "grid": false
+      }
+    },
+    "tooltip": [
+      {
+        "field": "platform",
+        "title": "Website/app",
+        "type": "nominal"
+      },
+      {
+        "field": "group",
+        "title": "Age",
+        "type": "nominal"
+      },
+      {
+        "field": "percent",
+        "title": "Percent",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "base_n",
+        "title": "Unweighted base",
+        "type": "quantitative",
+        "format": ","
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "cornerRadius": 2,
+        "stroke": "#fffefa",
+        "strokeWidth": 3
+      },
+      "encoding": {
+        "color": {
+          "field": "percent",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "range": [
+              "#eef0e5",
+              "#225844"
+            ]
+          },
+          "legend": {
+            "title": "Adults (%)",
+            "direction": "horizontal",
+            "gradientLength": 180
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 12
+      },
+      "encoding": {
+        "text": {
+          "field": "percent",
+          "type": "quantitative",
+          "format": ".0f"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.percent > 74",
+            "value": "white"
+          },
+          "value": "#101510"
+        }
+      }
+    }
+  ]
+}

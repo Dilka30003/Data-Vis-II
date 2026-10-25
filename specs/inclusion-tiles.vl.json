@@ -1,0 +1,647 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "autosize": {
+    "type": "pad",
+    "contains": "padding"
+  },
+  "spacing": 24,
+  "params": [
+    {
+      "name": "tileDimension",
+      "value": "Index"
+    }
+  ],
+  "data": {
+    "url": "data/adii_state_scores.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.measure === tileDimension"
+    },
+    {
+      "lookup": "state",
+      "from": {
+        "data": {
+          "url": "data/australian_states.geojson",
+          "format": {
+            "type": "json",
+            "property": "features"
+          }
+        },
+        "key": "properties.state",
+        "fields": [
+          "geometry"
+        ]
+      }
+    },
+    {
+      "lookup": "state",
+      "from": {
+        "data": {
+          "values": [
+            {
+              "state": "WA",
+              "lon": 121.5,
+              "lat": -25.5
+            },
+            {
+              "state": "NT",
+              "lon": 133.3,
+              "lat": -19.5
+            },
+            {
+              "state": "SA",
+              "lon": 135.3,
+              "lat": -30
+            },
+            {
+              "state": "QLD",
+              "lon": 144.5,
+              "lat": -23
+            },
+            {
+              "state": "NSW",
+              "lon": 147,
+              "lat": -32.3
+            },
+            {
+              "state": "VIC",
+              "lon": 144.1,
+              "lat": -36.7
+            },
+            {
+              "state": "TAS",
+              "lon": 146.6,
+              "lat": -42.2
+            },
+            {
+              "state": "ACT",
+              "lon": 148.99,
+              "lat": -35.48
+            }
+          ]
+        },
+        "key": "state",
+        "fields": [
+          "lon",
+          "lat"
+        ]
+      }
+    },
+    {
+      "calculate": "{type: 'Feature', geometry: datum.geometry}",
+      "as": "map_feature"
+    }
+  ],
+  "hconcat": [
+    {
+      "width": 610,
+      "height": 440,
+      "projection": {
+        "type": "conicEqualArea",
+        "parallels": [
+          -18,
+          -36
+        ],
+        "rotate": [
+          -134,
+          0,
+          0
+        ]
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#fffefa",
+            "strokeWidth": 1.2
+          },
+          "encoding": {
+            "shape": {
+              "field": "map_feature",
+              "type": "geojson"
+            },
+            "color": {
+              "field": "score",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  60,
+                  85
+                ],
+                "range": [
+                  "#f0f0df",
+                  "#225844"
+                ]
+              },
+              "legend": {
+                "title": "ADII score (cropped 60–85)",
+                "orient": "bottom",
+                "direction": "horizontal",
+                "gradientLength": 210,
+                "values": [
+                  60,
+                  65,
+                  70,
+                  75,
+                  80,
+                  85
+                ]
+              }
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "indexof(['ACT','VIC','TAS'], datum.state) < 0"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "fontSize": 12,
+            "fontWeight": 600,
+            "dy": -7
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "state"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.score >= 78",
+                "value": "#fffefa"
+              },
+              "value": "#193d2a"
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "indexof(['ACT','VIC','TAS'], datum.state) < 0"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "fontSize": 12,
+            "dy": 9
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "score",
+              "type": "quantitative",
+              "format": ".1f"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.score >= 78",
+                "value": "#fffefa"
+              },
+              "value": "#193d2a"
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.state === 'VIC' || datum.state === 'TAS'"
+            },
+            {
+              "calculate": "datum.state + ' ' + format(datum.score, '.1f')",
+              "as": "compact_label"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "fontSize": 12,
+            "fontWeight": 600,
+            "color": "#193d2a"
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "compact_label"
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.state === 'ACT'"
+            }
+          ],
+          "mark": {
+            "type": "point",
+            "filled": false,
+            "size": 50,
+            "stroke": "#193d2a",
+            "strokeWidth": 1.2
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "width": 150,
+      "height": 155,
+      "transform": [
+        {
+          "filter": "datum.state === 'ACT'"
+        }
+      ],
+      "projection": {
+        "type": "mercator"
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#fffefa",
+            "strokeWidth": 1.2
+          },
+          "encoding": {
+            "shape": {
+              "field": "map_feature",
+              "type": "geojson"
+            },
+            "color": {
+              "field": "score",
+              "type": "quantitative",
+              "scale": {
+                "domain": [
+                  60,
+                  85
+                ],
+                "range": [
+                  "#f0f0df",
+                  "#225844"
+                ]
+              },
+              "legend": {
+                "title": "ADII score (cropped 60–85)",
+                "orient": "bottom",
+                "direction": "horizontal",
+                "gradientLength": 210,
+                "values": [
+                  60,
+                  65,
+                  70,
+                  75,
+                  80,
+                  85
+                ]
+              }
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 13,
+            "fontWeight": 600,
+            "dy": -8
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "state"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.score >= 78",
+                "value": "#fffefa"
+              },
+              "value": "#193d2a"
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 12,
+            "dy": 10
+          },
+          "encoding": {
+            "longitude": {
+              "field": "lon",
+              "type": "quantitative"
+            },
+            "latitude": {
+              "field": "lat",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "score",
+              "type": "quantitative",
+              "format": ".1f"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.score >= 78",
+                "value": "#fffefa"
+              },
+              "value": "#193d2a"
+            },
+            "tooltip": [
+              {
+                "field": "state_name",
+                "title": "State / territory",
+                "type": "nominal"
+              },
+              {
+                "field": "measure",
+                "title": "Dimension",
+                "type": "nominal"
+              },
+              {
+                "field": "score",
+                "title": "ADII score / 100",
+                "type": "quantitative",
+                "format": ".1f"
+              },
+              {
+                "field": "data_year",
+                "title": "Data year",
+                "type": "quantitative",
+                "format": "d"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "color": "shared"
+    }
+  }
+}

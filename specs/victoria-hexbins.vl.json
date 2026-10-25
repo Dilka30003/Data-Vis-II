@@ -1,0 +1,206 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 410,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "params": [
+    {
+      "name": "hexTechnology",
+      "value": "all"
+    }
+  ],
+  "projection": {
+    "type": "mercator"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/australian_states.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.properties.state === 'VIC'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f0f1e7",
+        "stroke": null
+      }
+    },
+    {
+      "data": {
+        "url": "data/victoria_hexbins_2026.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fillOpacity": 0,
+        "strokeOpacity": 0
+      }
+    },
+    {
+      "data": {
+        "url": "data/victoria_hexbins_2026.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "hexTechnology === '5g' ? datum.properties.five_g_records : hexTechnology === 'other' ? datum.properties.other_records : datum.properties.record_count",
+          "as": "shown_count"
+        },
+        {
+          "filter": "datum.shown_count > 0"
+        },
+        {
+          "calculate": "datum.shown_count < 5 ? '1–4' : datum.shown_count < 20 ? '5–19' : datum.shown_count < 100 ? '20–99' : '100+'",
+          "as": "count_band"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#fffefa",
+        "strokeWidth": 0.55
+      },
+      "encoding": {
+        "color": {
+          "field": "count_band",
+          "type": "ordinal",
+          "scale": {
+            "domain": [
+              "1–4",
+              "5–19",
+              "20–99",
+              "100+"
+            ],
+            "range": [
+              "#e0e8d4",
+              "#b1cba4",
+              "#6e9e78",
+              "#225844"
+            ]
+          },
+          "legend": {
+            "title": "Records per ~260 km² cell",
+            "orient": "bottom",
+            "direction": "horizontal",
+            "columns": 4,
+            "labelFontSize": 12,
+            "symbolType": "square"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "properties.cell_id",
+            "title": "Grid cell",
+            "type": "nominal"
+          },
+          {
+            "field": "shown_count",
+            "title": "Selected source records",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "properties.record_count",
+            "title": "All records in cell",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "properties.five_g_records",
+            "title": "5G-band records",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "properties.other_records",
+            "title": "No 5G band recorded",
+            "type": "quantitative",
+            "format": ","
+          },
+          {
+            "field": "properties.cell_area_km2",
+            "title": "Full cell area (km²)",
+            "type": "quantitative",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/australian_states.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.properties.state === 'VIC'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "#9eac98",
+        "strokeWidth": 0.8
+      }
+    }
+  ]
+}

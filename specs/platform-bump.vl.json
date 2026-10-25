@@ -1,0 +1,279 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 370,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": {
+    "left": 5,
+    "right": 14,
+    "top": 8,
+    "bottom": 5
+  },
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "params": [
+    {
+      "name": "platformFocus",
+      "value": "All eight"
+    }
+  ],
+  "data": {
+    "url": "data/platform_trends.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "percent": "number",
+        "base_n": "number",
+        "response_n": "number",
+        "total_sites": "number",
+        "five_g_sites": "number",
+        "five_g_site_share": "number",
+        "black_spot_sites": "number",
+        "longitude": "number",
+        "latitude": "number",
+        "five_g_present": "number",
+        "source_row": "number",
+        "records_at_same_id_coordinates": "number",
+        "score": "number",
+        "data_year": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "isValid(datum.percent) && indexof([\"Facebook\",\"YouTube\",\"Facebook Messenger\",\"WhatsApp\",\"Instagram\",\"TikTok\",\"Snapchat\",\"Reddit\"],datum.platform) >= 0"
+    },
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "percent",
+          "order": "descending"
+        }
+      ],
+      "groupby": [
+        "year"
+      ]
+    },
+    {
+      "calculate": "datum.platform === 'Facebook Messenger' ? 'Messenger' : datum.platform",
+      "as": "endpoint_label"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          2021,
+          2025.9
+        ],
+        "nice": false
+      },
+      "axis": {
+        "title": null,
+        "format": "d",
+        "values": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "grid": false,
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "rank",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          8.5,
+          0.5
+        ],
+        "nice": false
+      },
+      "axis": {
+        "title": "Rank among eight",
+        "values": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "grid": true
+      }
+    },
+    "color": {
+      "field": "platform",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Facebook",
+          "YouTube",
+          "Facebook Messenger",
+          "WhatsApp",
+          "Instagram",
+          "TikTok",
+          "Snapchat",
+          "Reddit"
+        ],
+        "range": [
+          "#225844",
+          "#b2592c",
+          "#66836f",
+          "#847544",
+          "#435b83",
+          "#9b5071",
+          "#a96b32",
+          "#616a51"
+        ]
+      },
+      "legend": null
+    },
+    "opacity": {
+      "condition": {
+        "test": "platformFocus === 'All eight' || datum.platform === platformFocus",
+        "value": 1
+      },
+      "value": 0.12
+    },
+    "tooltip": [
+      {
+        "field": "platform",
+        "title": "Platform",
+        "type": "nominal"
+      },
+      {
+        "field": "year",
+        "title": "Year",
+        "type": "quantitative",
+        "format": "d"
+      },
+      {
+        "field": "rank",
+        "title": "Rank among these eight",
+        "type": "quantitative",
+        "format": "d"
+      },
+      {
+        "field": "percent",
+        "title": "Adults (%)",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "base_n",
+        "title": "Unweighted base",
+        "type": "quantitative",
+        "format": ","
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.5
+      },
+      "encoding": {
+        "detail": {
+          "field": "platform"
+        },
+        "order": {
+          "field": "year",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 58,
+        "stroke": "#fffefa",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2025 && platformFocus !== 'All eight' && datum.platform === platformFocus"
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "filled": false,
+        "size": 180,
+        "strokeWidth": 2
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2025"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 9,
+        "fontSize": 12,
+        "fontWeight": 600
+      },
+      "encoding": {
+        "text": {
+          "field": "endpoint_label"
+        }
+      }
+    }
+  ]
+}

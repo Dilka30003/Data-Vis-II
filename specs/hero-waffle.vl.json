@@ -1,0 +1,94 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 210,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding",
+    "resize": true
+  },
+  "padding": 0,
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "gridColor": "#e5e7dd",
+      "labelPadding": 10,
+      "titleFontWeight": 400,
+      "titleFontSize": 12
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#5b655c",
+      "titleColor": "#5b655c",
+      "orient": "bottom",
+      "symbolStrokeWidth": 3
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "text": {
+      "fontSize": 12
+    }
+  },
+  "data": {
+    "sequence": {
+      "start": 0,
+      "stop": 100,
+      "as": "unit"
+    }
+  },
+  "transform": [
+    {
+      "calculate": "datum.unit % 10",
+      "as": "column"
+    },
+    {
+      "calculate": "floor(datum.unit / 10)",
+      "as": "row"
+    }
+  ],
+  "mark": {
+    "type": "rect",
+    "cornerRadius": 1,
+    "tooltip": false
+  },
+  "encoding": {
+    "x": {
+      "field": "column",
+      "type": "ordinal",
+      "axis": null,
+      "scale": {
+        "paddingInner": 0.2,
+        "paddingOuter": 0
+      }
+    },
+    "y": {
+      "field": "row",
+      "type": "ordinal",
+      "axis": null,
+      "scale": {
+        "paddingInner": 0.2,
+        "paddingOuter": 0
+      }
+    },
+    "color": {
+      "condition": {
+        "test": "datum.unit < 97",
+        "value": "#225844"
+      },
+      "value": "#c8cdbb"
+    }
+  }
+}
